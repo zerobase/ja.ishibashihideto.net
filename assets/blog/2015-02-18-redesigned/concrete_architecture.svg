@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1309px" height="1380px" viewBox="0 0 1309 1380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>concrete_architecture</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="concrete-system-architecture" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <rect id="Rectangle-11" fill="#4A90E2" sketch:type="MSShapeGroup" x="-40" y="-32" width="1397" height="1456"></rect>
+        <rect id="GitHub-Pages" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="130" y="551" width="1049" height="466"></rect>
+        <rect id="Jekyll-website-sources" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="130" y="124.419643" width="1049" height="349"></rect>
+        <rect id="Jekyll" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="178" y="630" width="623" height="194"></rect>
+        <path d="M645.5,416.5 L645.5,1086.5" id="Line" stroke="#FDFEFF" stroke-width="5" sketch:type="MSShapeGroup"></path>
+        <path id="Line-decoration-1" d="M645.5,1086.5 C646.55,1082.72 647.45,1079.48 648.5,1075.7 C646.4,1075.7 644.6,1075.7 642.5,1075.7 C643.55,1079.48 644.45,1082.72 645.5,1086.5 C645.5,1086.5 645.5,1086.5 645.5,1086.5 Z" stroke="#FDFEFF" stroke-width="5"></path>
+        <path d="M970.5,265.5 L970.5,1086.5" id="Line-2" stroke="#FDFEFF" stroke-width="5" sketch:type="MSShapeGroup"></path>
+        <path id="Line-2-decoration-1" d="M970.5,1086.5 C971.55,1082.72 972.45,1079.48 973.5,1075.7 C971.4,1075.7 969.6,1075.7 967.5,1075.7 C968.55,1079.48 969.45,1082.72 970.5,1086.5 C970.5,1086.5 970.5,1086.5 970.5,1086.5 Z" stroke="#FDFEFF" stroke-width="5"></path>
+        <path d="M320.5,340.5 L320.5,1086.5" id="Line-3" stroke="#FDFEFF" stroke-width="5" sketch:type="MSShapeGroup"></path>
+        <path id="Line-3-decoration-1" d="M320.5,1086.5 C321.55,1082.72 322.45,1079.48 323.5,1075.7 C321.4,1075.7 319.6,1075.7 317.5,1075.7 C318.55,1079.48 319.45,1082.72 320.5,1086.5 C320.5,1086.5 320.5,1086.5 320.5,1086.5 Z" stroke="#FDFEFF" stroke-width="5"></path>
+        <rect id="Web-servers" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="178" y="871" width="941" height="76"></rect>
+        <rect id="Sass" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="553.5" y="709" width="194" height="76"></rect>
+        <rect id="Liquid" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="227" y="711" width="194" height="76"></rect>
+        <g id="style-rules-+-Line" sketch:type="MSLayerGroup" transform="translate(553.000000, 214.000000)"></g>
+        <g id="text-contents" sketch:type="MSLayerGroup" transform="translate(227.000000, 214.000000)"></g>
+        <g id="other-files-+-other-files" sketch:type="MSLayerGroup" transform="translate(879.000000, 214.000000)"></g>
+        <text id="GitHub-Pages" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="31" font-weight="260" sketch:alignment="middle">
+            <tspan x="390.1805" y="597.456">GitHub Pages</tspan>
+        </text>
+        <text id="CSS" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="628.0895" y="1126.772">CSS</tspan>
+        </text>
+        <text id="images,-scripts,-etc." fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="868.6495" y="1124.92215">images, scripts, etc.</tspan>
+        </text>
+        <text id="HTML" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="292.1765" y="1124">HTML</tspan>
+        </text>
+        <text id="Sass" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="623.82" y="755.772">Sass</tspan>
+        </text>
+        <text id="Liquid" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="289.7465" y="756">Liquid</tspan>
+        </text>
+        <text id="Web-servers" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="31" font-weight="260" sketch:alignment="middle">
+            <tspan x="557.179943" y="917">Web servers</tspan>
+        </text>
+        <rect id="Web-servers-2" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="178" y="1160" width="941" height="76"></rect>
+        <text id="User-agents" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="31" font-weight="260" sketch:alignment="middle">
+            <tspan x="559.319443" y="1207.772">User agents</tspan>
+        </text>
+        <rect id="style-rules" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="553" y="214" width="194" height="216"></rect>
+        <rect id="text-contents" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="227" y="214" width="194" height="133"></rect>
+        <rect id="other-files" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="879" y="214" width="194" height="61"></rect>
+        <text id="Jekyll" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="31" font-weight="260" sketch:alignment="middle">
+            <tspan x="445.102" y="678.228">Jekyll</tspan>
+        </text>
+        <text id="Jekyll-website-sources" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="31" font-weight="260" sketch:alignment="middle">
+            <tspan x="482.819" y="172">Jekyll website sources</tspan>
+        </text>
+        <text id="Bitters" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="615.829" y="321">Bitters</tspan>
+        </text>
+        <text id="style-rules" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="595.7655" y="252">style rules</tspan>
+        </text>
+        <text id="Neat" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="628.8695" y="361">Neat</tspan>
+        </text>
+        <text id="Bourbon" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="605.7745" y="401">Bourbon</tspan>
+        </text>
+        <text id="templates" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="272.7195" y="321">templates</tspan>
+        </text>
+        <text id="text-contents" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="255.2115" y="252">text contents</tspan>
+        </text>
+        <text id="other-files" fill="#FDFEFF" sketch:type="MSTextLayer" font-family="American Typewriter" font-size="21" font-weight="260" sketch:alignment="middle">
+            <tspan x="921.9065" y="252">other files</tspan>
+        </text>
+        <path d="M556.5,276.5 L744.5,276.5" id="Line" stroke="#FDFEFF" stroke-width="5" stroke-dasharray="15" sketch:type="MSShapeGroup"></path>
+        <path d="M230.5,282.728 L418.5,282.728" id="Line-2" stroke="#FDFEFF" stroke-width="5" stroke-dasharray="15" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

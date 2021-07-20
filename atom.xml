@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[石橋秀仁]]></title>
+    <link href="https://hideishi.com/atom.xml" rel="self"/>
+    <link href="https://hideishi.com/"/>
+    <updated>2021-07-06T00:00:00+00:00</updated>
+    <id>https://hideishi.com/</id>
+    <author>
+      <name><![CDATA[石橋秀仁]]></name>
+      <email><![CDATA[hide@hideishi.com]]></email>
+    </author>
+    <entry>
+      <title type="html"><![CDATA[プロフィール]]></title>
+      <link href="https://hideishi.com/about/me.html"/>
+      <updated>2021-07-06T00:00:00+00:00</updated>
+      <id>https://hideishi.com/about/me</id>
+      <content type="html"><![CDATA[<h1 id="石橋いしばし-秀仁ひでとのプロフィール"><ruby><rb>石橋</rb><rt>いしばし</rt></ruby> <ruby><rb>秀仁</rb><rt>ひでと</rt></ruby>のプロフィール</h1>
+      <p>ソフトウェア開発者／<a href="/blog/2014/04/25/future-of-information-architect.html">情報アーキテクト(IA)</a>／経営者。ウェブサイトやアプリなどのデジタル・プロダクトを開発しています。また、それらについての言論活動も行っています。モットーは「<a href="/about/philosophy.html">思想を実装する</a>」。<a href="/activity/2020/01/20/art-experience.html">アート・ファン</a>。福岡出身。福岡と東京で活動中。<a href="https://www.zerobase.jp/">ゼロベース株式会社</a>代表取締役。<a href="/world-ia-day/">World IA Day Fukuoka</a>オーガナイザー。</p>
+      <h2 id="経歴">経歴</h2>
+      <p>国立久留米工業高等専門学校制御情報工学科で制御工学・情報工学を専攻。</p>
+      <p>2000年、当時日本最大級の就活コミュニティJobwebのプログラマーとなり、メーリングリストやウェブのシステムを開発。</p>
+      <p>2004年、インターネットサービス開発企業<a href="https://www.zerobase.jp/">ゼロベース</a>を設立。Ajaxメーリングリストを主宰し、ウェブのユーザー・インターフェイスに関する情報を発信。様々なウェブ開発プロジェクトに従事（<a href="/about/works.html">コマーシャライザー、ポンパレなど</a>）。</p>
+      <p>2008年、マネジメントの危機を乗り越えるために<a href="https://www.zerobase.jp/za/">セルフマネジメント・テクノロジーZa</a>を開発。</p>
+      <p>2005年から2020年まで、ベンチャーキャピタル<a href="https://www.gmo-vp.com/">GMO VenturePartners</a>の顧問（デザインフェロー）として<a href="/blog/2015/08/03/consulting-for-startups.html">スタートアップ支援</a>。</p>
+      <p>2017年、<a href="https://www.zerobase.jp/2017/09/20/wikipedia-user-experience.html">ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆</a>。同年、<a href="https://www.zerobase.jp/2017/08/09/startup-mental-research-result.html">起業家メンタルヘルス調査</a>を実施。2020年、情報アーキテクチャ（IA）に関するコミュニティ・イベント<a href="/world-ia-day/">World IA Day Fukuoka</a>を立ち上げ。</p>
+      <ul class="contacts">
+        <li><a href="https://twitter.com/zerobase"><img alt="Twitter" src="/assets/contacts/Twitter_logo_blue.png" /><br />
+            Twitter</a></li>
+        <li><a href="https://medium.com/@zerobase/"><img alt="Medium" src="/assets/contacts/Medium-logo.png" /><br />
+            Medium</a></li>
+        <li><a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="/assets/contacts/FB-f-Logo__blue_100.png" /><br />
+            Facebook</a></li>
+        <li><a href="https://www.instagram.com/zerobase000/"><img alt="Instagram" src="/assets/contacts/glyph-logo_May2016.webp" /><br />
+            Instagram</a></li>
+        <li><a href="https://github.com/zerobase"><img alt="GitHub" src="/assets/contacts/GitHub-Mark.png" /><br />
+            GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/hideishi/"><img alt="LinkedIn" src="/assets/contacts/LinkedIn-InBug-2CRev.png" /><br />
+            LinkedIn</a></li>
+        <li><a href="https://8card.net/virtual_cards/QqEegsdsaYGrEF_pPC7aTg"><img alt="Eight" src="/assets/contacts/eight_appicon.png" /><br />
+            Eight</a></li>
+        <li><a href="mailto:hide@hideishi.com"><img alt="email" src="/assets/contacts/mail_icon.png" /><br />
+            email</a></li>
+        <li><a href="/hideishi.pubkey.asc"><img alt="PGP" src="/assets/contacts/np_encrypted_56905_000000.png" /><br />
+            PGP</a></li>
+        <li><a href="/atom.xml"><img alt="Feed" src="/assets/contacts/np_feed_1107944_000000.png" /><br />
+            Feed</a></li>
+      </ul>
+      ]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Era Web Architectsプロジェクトに参加しました]]></title>
+    <link href="https://hideishi.com/activity/2021/06/07/era-web-architects.html"/>
+    <updated>2021-06-07T00:00:00+00:00</updated>
+    <id>https://hideishi.com/activity/2021/06/07/era-web-architects</id>
+    <content type="html"><![CDATA[<figure>
+      <p><img src="/assets/activity/2021-06-07-era-web-architects/exhibition.jpg" alt="展示風景" /></p>
+      <figcaption>Era Web Architects 写真展の様子</figcaption>
+    </figure>
+    <p>ウェブ黎明期に活躍した「ウェブの建築家」にフォーカスした写真展と書籍のプロジェクト <a href="https://erawebarchitects.com/">Era Web Architects</a> に参加しました。</p>
+    <p>インタビュー記事：<a href="https://book.mynavi.jp/wdonline/detail_summary/id=122991">公共性に意識を向けてほしい―石橋秀仁｜WD ONLINE</a></p>
+    <p>インタビュー映像：<a href="https://www.youtube.com/watch?v=tiFFoj4RLT4">Era Web Architects オンライン #18（ゲスト: 石橋秀仁） - YouTube</a></p>
+    <div class="responsive embed aspect16x9"><iframe width="560" height="315" src="//www.youtube.com/embed/tiFFoj4RLT4" allowfullscreen="" style="border: none;"></iframe></div>
+    <figure>
+      <p><img src="/assets/activity/2021-06-07-era-web-architects/portrait.jpg" alt="石橋秀仁のポートレイト" /></p>
+      <figcaption>石橋秀仁のポートレイト写真（写真: 坂本貴光／Era Web Architects プロジェクト）</figcaption>
+    </figure>
+    ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[World IA Day Fukuoka 2021 をオンライン開催しました]]></title>
+  <link href="https://hideishi.com/activity/2021/02/27/world-ia-day-fukuoka-2021.html"/>
+  <updated>2021-02-27T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2021/02/27/world-ia-day-fukuoka-2021</id>
+  <content type="html"><![CDATA[<p><a href="https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html">昨年</a>に引き続き、<a href="https://www.worldiaday.org/events/fukuoka/2021">World IA Day Fukuoka 2021</a>をオンライン開催しました。</p>
+  <p>コロナ禍で「不要不急の外出自粛」が要請される状況だからこそ、「場所性」や「集うこと」について考えるためのトークとワークショップのプログラムを企画しました。</p>
+  <p>今年のグローバル・テーマは「Curiosity」（好奇心）でした。カシーニ・ナジール氏のグローバル・キーノート「Designing Curiosity: ways of unknowing」（好奇心のデザイン：無知の方法）はおすすめ。</p>
+  <p>イベントの記録をYouTubeで公開しています。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.youtube.com/watch?v=X_9RZBkwzTw" target="_blank">https://www.youtube.com/watch?v=X_9RZBkwzTw</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.youtube.com/watch?v=X_9RZBkwzTw" target="_blank">
+            <img src="https://i.ytimg.com/vi/X_9RZBkwzTw/hqdefault.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.youtube.com/watch?v=X_9RZBkwzTw" target="_blank">World IA Day Fukuoka 2021</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">情報アーキテクチャ(IA)に関するオンライン・カンファレンスWorld IA Day Fukuoka 2021のライブ配信です。（配信後に編集したバージョン）https://www.worldiaday.org/events/fukuoka/2021今年のWorld IA Dayは2月27日(土)です。世界中の約...</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.youtube.com/watch?v=X_9RZBkwzTw" target="_blank">www.youtube.com</a>
+      </div>
+    </div>
+  </div>
+  <p>今回も対面のカンファレンスを開催すべく準備していたのですが、やはり緊急事態宣言によって会場が使えなくなり、断念しました。2年連続での会場使用不可。厳しい。しかし、今後も対面イベントの開催を模索していきたいと思います。</p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[接触確認アプリCOCOA失敗の本質]]></title>
+  <link href="https://hideishi.com/blog/2021/02/22/true-reason-why-cocoa-failed.html"/>
+  <updated>2021-02-22T00:00:00+00:00</updated>
+  <id>https://hideishi.com/blog/2021/02/22/true-reason-why-cocoa-failed</id>
+  <content type="html"><![CDATA[<p class="fig-small"><img src="/assets/blog/2021-02-22-true-reason-why-cocoa-failed/cocoa-icon.png" alt="接触確認アプリCOCOAのアイコン" /></p>
+  <p>接触確認アプリCOCOAが政治問題化しています。</p>
+  <p>昨年6月、首相の肝煎りでリリースされ、感染対策の切り札担うと期待されました<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>。ダウンロードは2千万件を超えました<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>。しかし、9月末から2月中旬まで、ユーザーの3割ほどを占めるAndroidユーザーに通知が届かない不具合が見つかりました<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>。そしてiOSでも深刻な不具合があると発表されました<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>。政府は、相次ぐ不具合を修正することで、COCOAを正常に機能させようと躍起になっています<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup>。</p>
+  <p>しかし、今回問題になっている不具合より、はるかに大きな問題が放置されたままになっています。そのうえ、それを指摘する人もいません。多くの専門家たちがCOCOA問題について論じているというのに、なぜか問題の本質は語られない。そのような状況に一石を投じるべく、この文章を書いています。</p>
+  <h2 id="cocoaの失敗は統治の失敗">COCOAの失敗は、統治の失敗</h2>
+  <p>COCOAは日本人の能力を超えたプロジェクトでした。そのことを人々が認められないことに、僕は絶望しています。厚労省だけの問題ではありません。犯人探しをして処分すれば済むというものではありません<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup>。ITの問題ですらありません。</p>
+  <p>これは日本の統治能力の問題であり、民度の問題です。なぜそれが分からないのか。</p>
+  <p>「現時点の我々の政府の能力では、このプロジェクトを成功させることはできない」という戦略的思考ができない。精神論でなんでもできると信じている。能力の不足を認めようとしない。あの敗戦から何も学んでいない。</p>
+  <p>COCOAアプリの開発に失敗したことを怒るべきではないのです。やったこと自体が間違いだったのですから。「なぜ無謀なプロジェクトをやったのだ」と怒るべきなのです。その合理的思考ができない人々に絶望しています。あの敗戦から何も学ばなかった人々に。</p>
+  <p>「日本人には能力が足りないから失敗した」という事実を認めることは悔しい。しかし、戦後の日本人なら、この認識に至らないといけません。</p>
+  <p>太平洋戦争は昭和20年ではなく「昭和16年夏」に敗戦していました<sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup>。総力戦研究所が徹底的に合理的な推論によって「日本必敗」の結論を出した時点で。能力不足による必敗を知りつつ、無理に開戦した。その時点ですでに敗戦していたのです。</p>
+  <p>COCOAプロジェクトも同様です。合理的に考えれば、能力不足は明らかだった。それにも関わらず、無理に実行した。それが失敗の本質なのです。結果的にアプリに不具合があったことなんて、どうでもいい話です。後述するように、仮にアプリに不具合がなかったとしても、どうせCOCOAは失敗するのですから。</p>
+  <dl>
+    <dt>COCOAをやるべきでなかった理由(1)</dt>
+    <dd>接触確認アプリ(ENS)が感染制御に有効であるという科学的エビデンスはない。Bluetoothによる距離測定の精度が著しく低く、ENSが原理的に信頼性に乏しいものであることは、ENS発表時点で自明だった<sup id="fnref:8" role="doc-noteref"><a href="#fn:8" class="footnote" rel="footnote">8</a></sup>。エビデンスに基づく政策(EBPM)に関する能力の欠如を示している。</dd>
+    <dt>COCOAをやるべきでなかった理由(2)</dt>
+    <dd>エビデンス不足にも関わらず強行するなら、それ相応の手続き的正統性が必要となる。運用しながらエビデンスを得るための調査計画、及びプロジェクト終了条件やシステム廃棄手続きなど。そういうことができない。統治権力の正統性の欠如。倫理的な正当性の欠如<sup id="fnref:9" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup>。</dd>
+    <dt>COCOAをやるべきでなかった理由(3)</dt>
+    <dd>いわゆる「首相案件」で、緊急事態宣言解除後の県境越え移動解禁に関する首相会見のスケジュールに合わせてリリース日を設定した<sup id="fnref:10" role="doc-noteref"><a href="#fn:10" class="footnote" rel="footnote">10</a></sup>。政治的パフォーマンスありきの無茶な開発スケジュールの設定。実質的な政策成果に対する関心の欠如。ガバナンス能力の欠如。</dd>
+  </dl>
+  <figure>
+    <p><img src="/assets/blog/2021-02-22-true-reason-why-cocoa-failed/shinzo-abe.png" alt="" /></p>
+    <figcaption>2020年5月25日の首相記者会見（<a href="https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html">首相官邸ウェブサイト</a>より）</figcaption>
+  </figure>
+  <blockquote>
+    <p>（…）しかし、私は、外出自粛のような社会経済活動を制限するようなやり方はできる限り避けたいと考えています。市中感染のリスクを大きく引き下げていけば、それが可能となります。そして、そのためには、感染者をできるだけ早期に発見するクラスター対策を一層強化することが必要です。その鍵は、接触確認アプリの導入です。<sup id="fnref:1:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+  </blockquote>
+  <p>その他、政府IT調達の問題<sup id="fnref:11" role="doc-noteref"><a href="#fn:11" class="footnote" rel="footnote">11</a></sup>、厚労省のIT担当能力の問題<sup id="fnref:12" role="doc-noteref"><a href="#fn:12" class="footnote" rel="footnote">12</a></sup>、オープンソース開発プロセスの問題<sup id="fnref:13" role="doc-noteref"><a href="#fn:13" class="footnote" rel="footnote">13</a></sup>などは、すでに様々な識者が指摘している通りです。</p>
+  <h2 id="令和2年春の敗戦">令和2年春の敗戦</h2>
+  <p>COCOAをやるべきでなかった理由を3つ上げました。それにもまして問題なのは、それらがCOCOAリリース前から分かっていたということです。後知恵ではなく、やる前から予見できた問題だったのです。それにも関わらず、強行して失敗した。だからこそ、COCOAをやるべきではなかったと、論理的に申し上げているのです。</p>
+  <p>もし「新型コロナウイルス感染症対策テックチーム」や「接触確認アプリに関する有識者検討会合」<sup id="fnref:14" role="doc-noteref"><a href="#fn:14" class="footnote" rel="footnote">14</a></sup>が、昭和16年夏の総力戦研究所のようであったなら、同じ結論に至ったはずです。「接触確認アプリを正しく運用する能力が本邦には不足しているため、このプロジェクトをやるべきではない」という結論に。</p>
+  <p>そのような報告があったのかどうか、検証されるべきだと思います。そして、それがあったとしても、報告を受けた指導者がどのように振る舞ったか。それもまた検証されるべきです。あるいは東条英機のように振る舞ったのかもしれません。</p>
+  <blockquote>
+    <p>諸君の研究の労を多とするが、これはあくまでも机上の演習でありまして、（…）戦というものは、計画通りにいかない。意外裡な事が勝利に繋がっていく。（…）なお、この机上演習の経緯を、諸君は軽はずみに口外してはならぬということであります。 <sup id="fnref:15" role="doc-noteref"><a href="#fn:15" class="footnote" rel="footnote">15</a></sup></p>
+  </blockquote>
+  <h2 id="倫理的な問題">倫理的な問題</h2>
+  <p>このような問題は、すでに情報倫理学者ルチアーノ・フロリディ教授らが指摘していたものです。僕はその論文を翻訳し、COCOAリリース前の5月26日に発表していました。</p>
+  <blockquote>
+    <p>粗末な設計や限定的な検証にも関わらずDTTを稼働させようとする政府は、「なんでもやってみよう」の精神を示すためにそうしようとするのであり、それゆえ批判を無視し、あらゆる犠牲を払ってでもやりかねません。これは危機の時にあっては危険なことです。 <sup id="fnref:9:1" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup></p>
+  </blockquote>
+  <p>COCOAをやらない選択肢はあった。せめて慎重に検討してからやることもできた。しかし、慎重な検討を避け、政治的パフォーマンスありきで強行した。その結果は深刻な失敗です。人々の政府ITシステムに対する信頼が根本的に損なわれる結果となりました。</p>
+  <blockquote>
+    <p>COVID-19状況においては、（あらゆる意味での）コストは高く、「外部性」として無視できません。それは現在の人口と政府を深く速く直撃し、問題全体を悪化させる恐れがあります。なぜなら、倫理的に正しくない類いのDTTシステムは、単に効果がないだけでなく、解決しようとしている問題それ自体を劇化させるかもしれないからです。失敗の繰り返しや高過ぎるコストが市民の信頼を裏切ることにつながる以上、政府には正しく介入するチャンスがただの一度しか与えられていないというべきです。 <sup id="fnref:9:2" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup></p>
+  </blockquote>
+  <p>ですから、これは倫理上の失敗であり、政治的な失敗なのです。これをITの失敗とみなすのは、あまりに表層的な理解だと言わざるをえません。</p>
+  <p>「金槌を持てば、すべてのものが釘に見える」という格言があります。IT専門家がしきりにCOCOA問題について論じています。ITの問題とみなして、どうすれば上手くやれたかを論じています。しかし、そもそもやるべきだったかどうかを問わず、やり方の問題ばかりを論じていることに、強い違和感を覚えます。</p>
+  <h2 id="専門家の諫言と政治判断">専門家の諫言と政治判断</h2>
+  <p>専門家には「上から降ってきた命令を何とかする」という思考が染み付いているのかもしれません。しかし、その命令が正しいかどうかを常に問わなければなりません。命令の倫理的正当性を問わずに粛々とこなす「アイヒマン」になってはいけません<sup id="fnref:16" role="doc-noteref"><a href="#fn:16" class="footnote" rel="footnote">16</a></sup>。</p>
+  <p>良心と良識から、異議を申し立てるべきときがあります。それが専門家の職業倫理というものです。具体的には、「6月19日リリースは無謀です。無理に進めれば、深刻な事故が生じるリスクもあります」と諫言するといったことです。</p>
+  <p>一般的に、官僚には期待しにくい振る舞いです。しかし、民間企業に戻ることもできる、非常勤のCIO補佐官のような立場の人もいます。そういう専門家は、クビをかけてでも諫言すべきではないでしょうか。いわゆる「ジョブ・ディスクリプション」（職務記述書）には書いていなくても、政府中枢で働く専門家の公徳心や職業倫理から。</p>
+  <p>IT専門家が政治家に諫言する。それを受けて、なお政治判断として断行する。そういう政治判断自体はあってもいいでしょう。専門家は、専門知という狭い範囲内で物事を見がちです。最終的に「総合的・俯瞰的」な判断をし、その結果責任を取るのが政治家の仕事です。</p>
+  <p>ただし、「専門家は諫言したが、政治家が断行した」という事実は、公文書に記録されなければなりませんし、のち公開されなければなりません（情報公開制度）。政治過程についてメディアや議会が検証し、責任追究が行われなければなりません。最終的には政権支持率や投票行動に還元されなければなりません。そのようなサンクション（あるいはフィードバック）がなければ、民主主義は機能しません。</p>
+  <h2 id="バグのないゴミアプリ">バグのないゴミアプリ</h2>
+  <p>いま日本政府は、COCOAのバグ（不具合）を解消すべく、開発・保守の体制を立て直そうとしています。しかし、単にバグを解消したところで、まったくの無意味です。「バグだらけのゴミアプリ」が、「バグのないゴミアプリ」になるだけです。</p>
+  <p>バグがなくても、役に立たないアプリはゴミに過ぎません。単に役立たないだけでなく、人々に偽りの希望を与えて裏切るのです。日本社会にとって極めて有害なゴミです。</p>
+  <p>想像してみましょう。いずれ厚生労働大臣が「COCOAのバグを解消しました。改めてインストールして頂き、感染拡大の抑制にご協力ください」と呼びかけます。それから半年か一年ほど経過した頃に、「COCOAに感染抑制の効果なし」という研究結果が報じられます。</p>
+  <p>国民は、「一体何度失敗すれば気が済むのか」と、うんざりするでしょう。政治家は責任を取らないでしょうし、いよいよ政府・厚労省・デジタル庁の信頼も地に落ちます。</p>
+  <p>国民に様々な協力を呼びかけても、かつてのようには応じてもらえなくなります。自粛要請も緊急事態宣言も効きません。この信頼崩壊は、コロナ禍のあとも続くでしょう。</p>
+  <h2 id="正しい立て直し方">正しい立て直し方</h2>
+  <p>COCOAを「走りながら立て直そう」とすべきではありません。</p>
+  <p>いったん運用を停止し、国会に事故調査委を設置し、政治過程を究明すべきです。そして、COCOAとHER-SYSを立て直す計画を慎重に策定すべきです。その実行チームと伴走しながら監督する（民間企業なら取締役会に相当するような）有識者会議を設置すべきです。</p>
+  <p>科学的に有効なシステムにしていくため、必要なデータを収集し、エビデンスを集めながら、感染制御のためのフィードバックシステムとしてチューニングし続けていくべきです。英国<sup id="fnref:17" role="doc-noteref"><a href="#fn:17" class="footnote" rel="footnote">17</a></sup>、ドイツ<sup id="fnref:18" role="doc-noteref"><a href="#fn:18" class="footnote" rel="footnote">18</a></sup>、スイス<sup id="fnref:19" role="doc-noteref"><a href="#fn:19" class="footnote" rel="footnote">19</a></sup>、カナダ<sup id="fnref:20" role="doc-noteref"><a href="#fn:20" class="footnote" rel="footnote">20</a></sup>などの取り組みを参考に。そのために法改正等が必要なら実施すべきです。</p>
+  <p>また、GoogleとAppleが開発し、COCOAの基盤となっているExposure Notification System (ENS)の問題も解決されなければなりません。ENSはユーザーのプライバシーを最重視した設計になっています。各国保健当局が必要とする最低限のデータすら満足に取得できません。そのことは今回COCOAの不具合が何ヶ月も放置されたことの一因ともなっています。</p>
+  <p>このように手足を縛られた状態で、アプリを継続的に改善し、感染抑制という成果につなげることはできません。ENSの仕様や規約の改訂を要求すべきです。もはやENSはAppleやGoogleの所有物ではありません。国際社会の公共財です。その仕様や規約は、国際社会で共同管理されるべきです。このように再概念化し、主導権を二社から奪い、もっと役立つものにしていかなければなりません。</p>
+  <p>一応言っておくと、単に感染を抑制するだけなら簡単です。「1メートル、15分」の判定を甘くして、COCOAアプリへの通知を乱発すればいい。なんなら接触記録も無関係に、ランダムに通知すればいい。それで「COCOAの感染抑制効果」は捏造できます。しかし、それは無意味どころか有害です。</p>
+  <p>COCOAで通知を乱発すれば、実際には濃厚接触リスクがほとんどないような人にも自己隔離を促すことになります。人々の行動を無闇矢鱈と抑制すれば、感染が減るのは当たり前です。</p>
+  <p>接触確認アプリの存在意義は、濃厚接触リスクの高い人に、ピンポイントに通知することです。その精度（陽性適中率）が問題なのです。</p>
+  <p>甘い判定基準で通知を乱発する接触確認アプリは、緊急事態宣言を乱発する政治家と同じです。まったく合理的でない感染抑制手段によって、経済・社会活動に深刻なダメージを与えるのです。政治的思惑によりCOCOAが乱用されないか、注視していく必要があります。</p>
+  <p>あくまでも、科学的に合理的で、社会的なコストとベネフィットが釣り合うような手段によって、感染が抑制されなければなりません。まったくランダムでデタラメに曝露通知を送りまくるのと比較して、陽性適中率において統計的に優位な差が見いだせない限り、COCOAは有害なゴミです。</p>
+  <p>まさにそういう効果検証と継続的改善のために、諸外国は様々な工夫をしているわけです。一方、本邦ではそのような工夫が見られない。まったくもって論外です。接触確認アプリを運用する資格がないと言わざるをえません。</p>
+  <h2 id="真摯な反省">真摯な反省</h2>
+  <p>もはや政府に期待すること自体が虚しい。ここに書いたようなことは、後知恵ではなく、やる前から分かっていたことばかりです。それができない政府に、いまさら何を期待できるというのでしょう。これまでできていなかったことが、どうすれば一朝一夕にして、できるようになるというのでしょう。まったく非現実的な夢想です。</p>
+  <p>現実主義的に考えて、COCOAが感染抑制に成功するという期待は持てません。</p>
+  <p>僕は絶望しています。問題を論理的に分析すれば、絶望せざるをえません。</p>
+  <p>日本人には絶望が足りない。「どうすればCOCOAを上手くやれたか」という問いを止めてください。それは現実逃避です。負け惜しみです。我々は現実を直視すべきです。根本的な能力不足によって、やる前から失敗していたのです。対米戦争のように。</p>
+  <p>この無力感。徹底的な絶望。「デジタル敗戦」の認識。そこに至らずして、本質的な立て直しなど不可能です。単なる去勢で立て直しを叫ぶべきではありません。それは不誠実な現実逃避です。絶望こそが現実主義的で真摯な反省なのです。</p>
+  <p>それによって、はじめて「どうすれば敗戦を回避できたか」「どうすればCOCOAをうまくやれる政府を作れたか」という真に有意義な議論が可能になるのです。</p>
+  <p>いちど徹底的に絶望してください。敗戦から真に復興する道は、その絶望からしか始まりません。</p>
+  <h2 id="民主主義で考える">民主主義で考える</h2>
+  <p>大前提、政府は「我々の政府」なのであって、こんな馬鹿な失敗をする政府が我々の政府なのだと、問題を引き受けなければなりません。それこそが真摯な反省というものです。「民間に比べて政府はダメだ」などと「お上」を批判する態度も止めるべきです。今は江戸時代ではなく民主国家なのですから。</p>
+  <p>ITガバナンスをやるには、精神を近代化しなければなりません。「我々」と「お上」を分ける江戸時代の精神から、「我々の政府」と考える近代人の精神へ。だから「民間はマシなのに」という発想はダメなのです。COCOAの失敗は、日本社会の「ショボさ」の表れです。</p>
+  <p>『失敗の本質 日本軍の組織論的研究』という名著があるのに、同じ失敗を繰り返す日本社会とは何なんでしょうか<sup id="fnref:21" role="doc-noteref"><a href="#fn:21" class="footnote" rel="footnote">21</a></sup>。読んでも理解できないか、理解できても実践を変えられない。それはそもそも認識がおかしいからです。江戸時代的な物の見方と考え方を、近代化しなければなりません<sup id="fnref:22" role="doc-noteref"><a href="#fn:22" class="footnote" rel="footnote">22</a></sup>。</p>
+  <h2 id="認識の問題">認識の問題</h2>
+  <p>大きな枠組みから考えてみましょう（下図：M3メタモデル・メソドロジー<sup id="fnref:23" role="doc-noteref"><a href="#fn:23" class="footnote" rel="footnote">23</a></sup>）。ある認識論（物の見方や考え方）に基づいて科学が構築されます。そして、科学に基づく実践が生じます。</p>
+  <ul>
+    <li>認識論はメタレベル</li>
+    <li>科学はオブジェクト・レベル</li>
+    <li>実践は応用レベル</li>
+  </ul>
+  <figure>
+    <p><img src="/assets/blog/2021-02-22-true-reason-why-cocoa-failed/M3-framework.png" alt="M3メタモデル・メソドロジーの図解" /></p>
+    <figcaption>M3メタモデル・メソドロジーの図解</figcaption>
+  </figure>
+  <p>「どうすれば上手くやれたか」は実践（応用）レベルの議論です。しかし、COCOA失敗の本質は、認識論（メタ）レベルにあります。</p>
+  <ul>
+    <li>見たくない現実から目を背ける現実逃避</li>
+    <li>自己の能力評価に関する認知の歪み（自信過剰）</li>
+    <li>気の持ちようでなんとでもなるという精神論</li>
+    <li>無根拠な楽観論</li>
+  </ul>
+  <p>これが<strong>戦争に敗ける日本人の認識論</strong>です。これを改めない限り、何をやってもダメなのです。</p>
+  <h2 id="結論">結論</h2>
+  <p>COCOAプロジェクトは、一時中断して、失敗を総括すべきです。それなしに小手先で取り繕う限り、失敗は繰り返されるでしょう。アプリの不具合を解消したところで、感染抑制の効果が出なければ無意味です。失敗の本質を真摯に総括したうえで、プロジェクトを再開するか、中止するか、ゼロベースで議論すべきです。</p>
+  <p>もし再開するなら、感染抑制の効果を得るための科学的プロセスを正しく設計し、それが正しく運用されるためのガバナンスも構築すべきです。必要なら、法改正や、ENSの仕様や規約の改訂も行うべきです。</p>
+  <p>しかし、残念ながら、日本にはそれができないでしょう。そう確信できてしまうことに、僕の絶望はあります。戦争に敗ける認識論を改めない限り、何をやってもダメなのです。みなさんにも、いちどこの絶望に到達して頂きたい。細かい議論は、そのあとでしましょう。</p>
+  <p>結局、この文章で問題にしてきたのは、「どうすればCOCOAを上手くやれたか」という現場レベルの問いと、「どうすればCOCOAをうまくやれる政府を作れたか」という統治レベルの問いの違いです。みな現場レベルの議論ばかりします。しかし、それは本質的な問いではない。そのことを理解してほしいのです。</p>
+  <h2 id="希望は数十年後">希望は数十年後</h2>
+  <p>その上で、もし希望があるとすれば、政治の失敗を自分ごととして引き受け、自ら考え、手を動かして解決しようとする人たちの存在です。</p>
+  <p>採用されなかったものの、接触確認アプリの開発に名乗りを上げたCode for Japanという民間の非営利団体があります。そのミッション・ステートメントは「ともに考え、ともにつくる」です<sup id="fnref:24" role="doc-noteref"><a href="#fn:24" class="footnote" rel="footnote">24</a></sup>。それは北欧の参加型デザイン運動の流れを汲む「コ・デザイン」の精神でもあります<sup id="fnref:25" role="doc-noteref"><a href="#fn:25" class="footnote" rel="footnote">25</a></sup>。つまり、人民が社会問題を自分事として引き受け、自ら考え、手を動かして解決していく。そういう社会運動の精神です。<sup id="fnref:26" role="doc-noteref"><a href="#fn:26" class="footnote" rel="footnote">26</a></sup></p>
+  <p>日本でも、政府がダメな以上は、民間からボトムアップの社会改革を地道にやっていくしかありません。</p>
+  <p>何世代かの交代を経て、何十年後かには、Code for Japanのような市民運動に理解のあるエリートが、政府中枢に増えてくるかもしれません。そうすれば、日本でもまともなITガバナンスが実現するかもしれません。そのとき、真の意味で、政府と人民が「ともに考え、ともにつくる」時代が到来するのです。</p>
+  <p>これは「デジタル庁の設立」だとかいった、数年単位の取り組みで、どうにかなるような簡単な問題ではありません。短期的な成功という非現実的な夢想を止めるべきです。いちど絶望すべきです。その上で、数十年後を見据えて、草の根の活動を地道に続けていくしかありません。</p>
+  <p>社会の変化は、絶望するほどゆっくりとしか起こりません。だとしても、それを信じるしかありません。</p>
+  <blockquote>
+    <p>希望は残っているよ。どんなときにもね。<sup id="fnref:27" role="doc-noteref"><a href="#fn:27" class="footnote" rel="footnote">27</a></sup></p>
+  </blockquote>
+  <h2 id="追記2021年3月24日">追記（2021年3月24日）</h2>
+  <p>COCOAの失敗は、技術の失敗である以前に、統治の失敗です。日本政府や日本社会がその在り方を変えない限り、同じような失敗は何度でも繰り返されます。この話が受け入れられない人もいるようです。しかし、原発の現状を考えてみてください。2011年の原発事故以降、日本社会で原発に対する信頼は大きく損なわれました<sup id="fnref:28" role="doc-noteref"><a href="#fn:28" class="footnote" rel="footnote">28</a></sup>。一方、米国ではビル・ゲイツ氏が次世代原子炉の開発を進めています<sup id="fnref:29" role="doc-noteref"><a href="#fn:29" class="footnote" rel="footnote">29</a></sup>。仮にその「安全な小型の原発」を米国から買ってきたとしても、日本人は原発の新設に反対するでしょう。それを運用するのが日本の電力会社であり、それを規制するのが日本の政府である限り。COCOA失敗の本質も、これと同じです。問題は技術ではなく、統治や社会のあり方なのです。</p>
+  <h2 id="追記2021年5月5日">追記（2021年5月5日）</h2>
+  <p>厚生労働省は4月16日付でCOCOA不具合調査・再発防止策検討チームの報告書を公表しました<sup id="fnref:30" role="doc-noteref"><a href="#fn:30" class="footnote" rel="footnote">30</a></sup>。注目すべきは「CIO補佐官B」の証言です。</p>
+  <blockquote>
+    <p>CIO補佐官Bは、実機という意味では事業者側もテストしていたが、HER-SYSの機能を模擬するテスト環境がなく、陽性登録をして接触の検知をするという一連の流れのテストはできない状況だった旨、昨年9月頃から、COCOA通知を受けた方の検査を公費でできるようにしたということもあり、保健所の負荷が非常に高まっている状態で問い合わせもすごい数が来ていたため、かなり急ぎで対応すべき状況であった旨、その中で、自身もソースコードを一行一行チェックし、変更想定範囲に対しての実装は正しいということを確認した上で、ある意味リスクを取って決定した旨、管理職級Bに相談した上で、現場の判断としては自身がリリースを判断した旨を述べている。<sup id="fnref:31" role="doc-noteref"><a href="#fn:31" class="footnote" rel="footnote">31</a></sup></p>
+  </blockquote>
+  <p>注目すべきポイントは2つあります。</p>
+  <ol>
+    <li>保健所からクレームが来た時点で、なぜ「一旦運用停止」の判断ができなかったのか。</li>
+    <li>そもそも、なぜ無謀な6月リリースを強行したのか。</li>
+  </ol>
+  <p>この疑問に答える報告書ではありませんでした。また、この点を指摘する報道もありませんでした。国会での追及もありませんでした<sup id="fnref:32" role="doc-noteref"><a href="#fn:32" class="footnote" rel="footnote">32</a></sup>。</p>
+  <p>そもそも、厚労省の内部調査です。身内の不手際を強く追及することなんて、役人にできるわけがありません。「お手盛り」調査報告書になるのは自明です。こういう場合、第三者委員会に調査させるのが王道です。今回のような「ヌルい」報告書で、お茶を濁したままではいけません。</p>
+  <p>改めて第三者委員会を設置し、徹底的に再調査すべきです。いわゆる「首相案件」で、閣僚や官僚が「忖度」した結果として、無理なスケジュールを強行したのではないか。当時の政権の政治責任を追及する必要があります。国会に調査委員会を設置する形がふさわしいでしょう。</p>
+  <p>当然ながら、問題を起こした政権が自ら徹底的に調査することなど期待できません。自公政権の問題ではありません。どんな政権でも同じです。そもそも権力とはそういうものです。</p>
+  <p>立憲民主党の田嶋要議員は、2月10日の衆議院予算委員会で、第三者委員会での検証を要求していました<sup id="fnref:33" role="doc-noteref"><a href="#fn:33" class="footnote" rel="footnote">33</a></sup>。もしそれが実現していたとしても、結局は「ヌルい」報告書が出たことでしょう。第三者委員会は「雇い主」に忖度します。政権交代しない限り、どんな第三者委員会も「御用委員会」にしかならないでしょう<sup id="fnref:34" role="doc-noteref"><a href="#fn:34" class="footnote" rel="footnote">34</a></sup>。</p>
+  <p>COCOAは、このままいけば、「バグだらけのゴミアプリ」から「バグのないゴミアプリ」に変わるだけです。いずれ「感染抑制効果は得られなかった」という問題が明るみに出ます。安倍首相・菅首相・厚労省・デジタル庁へのバッシングが始まります。COCOAプロジェクトの再調査を求める声も高まります。</p>
+  <p>COCOAプロジェクト失敗の真相究明と、本質的な再発防止策が必要です。そのために、政権交代後、国会に調査委員会が設置されることを期待します。（正直、ほとんど期待してないのですが……）</p>
+  <p>本質的な再発防止策とは、例えば、エビデンスに基づく政策立案(EBPM)プロセスの制度化や、いわゆる「首相案件」「忖度」問題を引き起こしている人事制度や、公文書管理や情報公開に関する制度の見直しなど多岐にわたるでしょう。「総合的・俯瞰的観点」からの全体構想が問われます。</p>
+  <p>今回たまたま「接触確認アプリCOCOAの失敗」という形で、政府の問題が明らかになりました。問題の本質は、政府のガバナンスです。COCOAの失敗に「本質的な再発防止策」を実現するということは、今後の日本の統治を本質的に改善するということを意味します。</p>
+  <p>たかがCOCOA、されどCOCOAです。この問題を奇貨として、統治を改善することができるか。それが問われています。（まあ難しいのではないかと……民間で草の根の社会変革を地道にやっていきましょう）</p>
+  <h2 id="追記2021年5月18日">追記（2021年5月18日）</h2>
+  <p>楠正憲氏（内閣官房 政府CIO 補佐官）の「接触確認アプリCOCOAからの教訓」という文章が、5月15日付で情報処理学会・学会誌「情報処理」に掲載されました<sup id="fnref:35" role="doc-noteref"><a href="#fn:35" class="footnote" rel="footnote">35</a></sup>。必見です。以下、ご本人のFacebookコメントを引用します：</p>
+  <blockquote>
+    <p>（…）アプリを出すことは総理レベルで決まって、ベンダーも出せるといってるのだから、それで出すという結論しかありません。まだ結合テストの途中ですよ、こんな状態でリリースできませんよ、という話は何度もしましたが通りませんでした。そもそも厚生労働省に対しては技術サポートで入っただけで、何度もまずいぞと警告はしましたが、わたしにリリースを止める権限はありませんでした。<sup id="fnref:36" role="doc-noteref"><a href="#fn:36" class="footnote" rel="footnote">36</a></sup></p>
+  </blockquote>
+  <blockquote>
+    <p>民間企業であれば、社長が粉飾を指示しようが、それができないようにするのがコーポレートガバナンスですが、役所において政務なり大臣、総理がやるといったら、それはやる訳です。総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構が必要ということで、恥を忍んでこういった落ち穂拾いをしている訳ですから。<sup id="fnref:37" role="doc-noteref"><a href="#fn:37" class="footnote" rel="footnote">37</a></sup></p>
+  </blockquote>
+  <blockquote>
+    <p>あれだけ時間をかけて、外部有識者も入れて、どうして真相究明というよりも中途半端に感想をまとめただけのような報告書が出てきてしまうのか、このまま風化させてしまうと、また同じことが起こってしまうのではないかという危機感があります。<sup id="fnref:38" role="doc-noteref"><a href="#fn:38" class="footnote" rel="footnote">38</a></sup></p>
+  </blockquote>
+  <p>まさに「総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構」を作るべきです。COCOAの失敗を繰り返さないための、本質的な再発防止策は、立憲主義の問題になるということです。</p>
+  <div class="footnotes" role="doc-endnotes">
+    <ol>
+      <li id="fn:1" role="doc-endnote">
+        <p><a href="https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html">令和2年5月25日 新型コロナウイルス感染症に関する安倍内閣総理大臣記者会見 令和2年 総理の演説・記者会見など ニュース 首相官邸ホームページ</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+      </li>
+      <li id="fn:2" role="doc-endnote">
+        <p><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html">新型コロナウイルス接触確認アプリ（COCOA) COVID-19 Contact-Confirming Application 厚生労働省</a> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:3" role="doc-endnote">
+        <p>2月3日にAndroid版の不具合が公表され、同18日に修正版がリリースされました：<a href="https://www3.nhk.or.jp/news/html/20210203/k10012847671000.html?utm_int=detail_contents_news-related_001">新型コロナ 接触確認アプリ「COCOA」一部で検知や通知行われず 新型コロナウイルス NHKニュース</a> (2021年2月3日)、<a href="https://www.watch.impress.co.jp/docs/news/1307389.html">COCOA、Androidで接触通知しない不具合を解消。1日1回起動を - Impress Watch</a> (2021年2月18日) <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:4" role="doc-endnote">
+        <p><a href="https://mainichi.jp/articles/20210217/k00/00m/040/255000c">接触アプリ「COCOA」 「iOS」の一部でも通知届かぬ不具合 毎日新聞</a> (2021年2月17日) <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:5" role="doc-endnote">
+        <p><a href="https://www.itmedia.co.jp/news/articles/2102/12/news142.html">COCOA不具合の原因は「APIの使い方を誤った」 平井デジタル相、改善を約束 開発の下請け構造改善も — ITmedia NEWS</a> (2021年2月12日) <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:6" role="doc-endnote">
+        <p><a href="https://mainichi.jp/articles/20210209/k00/00m/040/217000c">ココア巡り関係者処分へ 接触通知届かず 年度内に検証 厚労省 毎日新聞</a> (2021年2月9日) <a href="#fnref:6" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:7" role="doc-endnote">
+        <p>猪瀬直樹著『<a href="https://www.chuko.co.jp/bunko/2020/06/206892.html">昭和16年夏の敗戦</a>』中央公論新社、新版初版、2020年 <a href="#fnref:7" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:8" role="doc-endnote">
+        <p><a href="https://www.bluetooth.com/blog/proximity-and-rssi/">Proximity and RSSI, Bluetooth® Technology Website</a> (2015年) <a href="#fnref:8" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:9" role="doc-endnote">
+        <p><a href="https://hideishi.com/blog/2020/05/26/ethical-guidelines-for-contact-tracing-apps.html">新型コロナウイルス接触追跡アプリのための倫理的指針 正しいアプリが正しく作られているかを評価するための16の問い 石橋秀仁</a> (2020年5月26日) <a href="#fnref:9" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:9:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:9:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a></p>
+      </li>
+      <li id="fn:10" role="doc-endnote">
+        <p><a href="https://www.asahi.com/articles/ASP2F6GZRP2DULBJ01V.html">COCOA、スピード開発あだ 首相会見後に余裕なくす [新型コロナウイルス]：朝日新聞デジタル</a> (2021年2月14日) <a href="#fnref:10" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:11" role="doc-endnote">
+        <p><a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/05203/">COCOA不具合放置の遠因か、開発ベンダー選定で繰り返された「丸投げ」の実態 日経クロステック（xTECH）</a> (2021年2月15日) <a href="#fnref:11" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:12" role="doc-endnote">
+        <p><a href="https://www.yomiuri.co.jp/national/20210210-OYT1T50248/">接触アプリ、外部から不具合指摘も対応せず…厚労省ずさんな管理 : 社会 : ニュース : 読売新聞オンライン</a> (2021年2月10日) <a href="#fnref:12" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:13" role="doc-endnote">
+        <p><a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/05159/">Android版COCOAを「無用の長物」にした重大バグ、4カ月以上見過ごされた理由 日経クロステック（xTECH）</a> (2021年2月5日) <a href="#fnref:13" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:14" role="doc-endnote">
+        <p><a href="https://cio.go.jp/techteam">新型コロナウイルス感染症対策 テックチーム Anti-Covid-19 Tech Team 政府CIOポータル</a> <a href="#fnref:14" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:15" role="doc-endnote">
+        <p><a href="https://ja.wikipedia.org/wiki/%E7%B7%8F%E5%8A%9B%E6%88%A6%E7%A0%94%E7%A9%B6%E6%89%80">総力戦研究所 — Wikipedia</a> <a href="#fnref:15" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:16" role="doc-endnote">
+        <p>ハンナ・アーレント『<a href="https://www.msz.co.jp/book/detail/08628/">新版 エルサレムのアイヒマン──悪の陳腐さについての報告</a>』1963=2017年、みすず書房 <a href="#fnref:16" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:17" role="doc-endnote">
+        <p><a href="https://www.turing.ac.uk/blog/demonstrating-impact-nhs-covid-19-app">Demonstrating the impact of the NHS COVID-19 app, The Alan Turing Institute</a> (2021年2月9日) <a href="#fnref:17" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:18" role="doc-endnote">
+        <p><a href="https://news.sap.com/2021/02/germanys-covid-19-app-break-infection-chain/">Designing Germany’s COVID-19 App, SAP News Center</a> (2021年2月1日) <a href="#fnref:18" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:19" role="doc-endnote">
+        <p><a href="https://github.com/admin-ch/PT-System-Documents/blob/master/SwissCovid-ExposureScore.pdf">SwissCovid Exposure Score Calculation Version of 11 September 2020 (Proximity Tracing System (PT-S) documents, GitHub)</a> (2020年9月11日) <a href="#fnref:19" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:20" role="doc-endnote">
+        <p><a href="https://www.canada.ca/en/health-canada/news/2021/02/covid-alert-updated-to-help-evaluate-its-effectiveness-in-reducing-the-spread-of-covid-19.html">COVID Alert updated to help evaluate its effectiveness in reducing the spread of COVID-19  - Canada.ca</a> <a href="#fnref:20" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:21" role="doc-endnote">
+        戸部良一、寺本義也、鎌田伸一、杉之尾孝生、村井友秀、野中郁次郎共著『<a href="https://www.chuko.co.jp/bunko/1991/08/201833.html">失敗の本質 日本軍の組織論的研究</a>』1984=1991年、ダイヤモンド社
+        <p><a href="#fnref:21" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:22" role="doc-endnote">
+        <p>石橋秀仁『<a href="/blog/2016/12/29/japan-productivity.html">日本人の低すぎる生産性とIT百姓一揆</a>』2016年、ブログ <a href="#fnref:22" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:23" role="doc-endnote">
+        <p><a href="https://link.springer.com/article/10.1007/s13347-018-0332-4/figures/1">The M3 Metamodel Methodology (Van Gigch and Pipino 1986. Adapted by Lacerda and Lima-Marques 2014)</a>（※情報システム分野において、科学的対象とイノベーション過程を論じる枠組みとして提唱された） <a href="#fnref:23" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:24" role="doc-endnote">
+        <p><a href="https://www.code4japan.org/">Code for Japan</a> <a href="#fnref:24" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:25" role="doc-endnote">
+        <p>上平崇仁著『<a href="https://www.nttpub.co.jp/search/books/detail/100002509.html">コ・デザイン デザインすることをみんなの手に</a>』 NTT出版、2020年 <a href="#fnref:25" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:26" role="doc-endnote">
+        <p>石橋秀仁『<a href="/blog/2020/10/14/philosophy-for-startup.html">起業がふたたび社会変革の前衛になるために 「スタートアップのための思想史・運動史」序説</a>』2020年、ブログ <a href="#fnref:26" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:27" role="doc-endnote">
+        <p>映画「ヱヴァンゲリヲン新劇場版:Q」より渚カヲルの台詞 <a href="#fnref:27" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:28" role="doc-endnote">
+        <p><a href="https://www3.nhk.or.jp/news/html/20210302/k10012893841000.html">国内の原発を今後どうすべきか？原発事故10年 NHK世論調査</a> (2021年3月2日) “国内の原発を今後、どうすべきか尋ねたところ、全国では、「増やすべきだ」は3％、「現状を維持すべきだ」は29％、「減らすべきだ」は50％、「すべて廃止すべきだ」は17％でした。” <a href="#fnref:28" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:29" role="doc-endnote">
+        <p><a href="https://news.yahoo.co.jp/articles/59a5c47e4a85e937666d1ec85ce0766cfd734143">ビル・ゲイツが熱弁「原発に希望を託す」理由 極秘会見で明かした気候変動への考えと解決法（東洋経済オンライン） - Yahoo!ニュース</a> (2021年2月15日) <a href="#fnref:29" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:30" role="doc-endnote">
+        <p><a href="https://www.watch.impress.co.jp/docs/news/1319229.html">COCOA不具合で報告書。「発注者としてプロジェクト管理できていない」 - Impress Watch</a> (2021年4月16日) <a href="#fnref:30" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:31" role="doc-endnote">
+        <p><a href="https://www.mhlw.go.jp/stf/newpage_18108.html">接触確認アプリ「COCOA」の不具合の発生経緯の調査と再発防止の検討について（報告書）</a> (2021年4月16日) <a href="#fnref:31" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:32" role="doc-endnote">
+        <p><a href="https://kokkai.ndl.go.jp/">国会会議録検索システム</a>で「接触確認アプリ」か「COCOA」を含む資料を全件調べました。2021年5月5日時点で開示されていた会議録は同年4月16日分まで。4月16日といえば報告書が出た当日です。国会で本格的に取り上げられるのは、翌日以降でしょう。翌日以降の会議録についても、開示され次第、調べるつもりです。 <a href="#fnref:32" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:33" role="doc-endnote">
+        <p><a href="https://kokkai.ndl.go.jp/#/detail?minId=120405261X00820210210&amp;spkNum=270&amp;current=29">第204回国会 衆議院 予算委員会 第8号 令和3年2月10日 国会会議録検索システム</a> <a href="#fnref:33" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:34" role="doc-endnote">
+        <p><a href="https://www.videonews.com/marugeki-talk/805">第三者「御用」委員会が後を絶たないのはなぜか(久保利英明弁護士・第三者委員会報告書格付け委員会委員長) -マル激</a> (2016年9月10日) <a href="#fnref:34" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:35" role="doc-endnote">
+        <p>楠正憲『<a href="https://note.com/ipsj/n/ne9eeb88adb64">接触確認アプリCOCOAからの教訓</a>』情報処理、2021年5月15日 <a href="#fnref:35" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:36" role="doc-endnote">
+        <p><a href="https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&amp;reply_comment_id=10157797898901583&amp;__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&amp;__tn__=R%5D-R">楠正憲氏のFacebookコメント</a>、2021年5月15日 <a href="#fnref:36" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:37" role="doc-endnote">
+        <p><a href="https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&amp;reply_comment_id=10157797906766583&amp;__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&amp;__tn__=R%5D-R">楠正憲氏のFacebookコメント</a>、2021年5月15日 <a href="#fnref:37" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:38" role="doc-endnote">
+        <p><a href="https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157799763581583&amp;reply_comment_id=10157799795591583&amp;__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&amp;__tn__=R%5D-R">楠正憲氏のFacebookコメント</a>、2021年5月16日 <a href="#fnref:38" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+    </ol>
+  </div>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[Chrome拡張機能「Hide 'Like' Notifications」の提供を終了しました]]></title>
+  <link href="https://hideishi.com/activity/2021/02/13/farewell-hide-like-notifs.html"/>
+  <updated>2021-02-13T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2021/02/13/farewell-hide-like-notifs</id>
+  <content type="html"><![CDATA[<p>2013年から提供してきたChrome拡張機能「<a href="https://chrome.google.com/webstore/detail/hide-like-notifications/kbfakkkdllpodegeoggpfcmjabodhpca">Hide ‘Like’ Notifications</a>」の提供を終えました。この製品はFacebook上の「あなたの〇〇が〇〇さんにいいね！されました」といった、あまり内容のない（いささかわずらわしい）通知を非表示にします。Facebook自体が同様の機能を提供するようになったため、その役割を終えたのです。</p>
+  <p><img src="/assets/activity/2021-02-13-farewell-hide-like-notifs/icon.png" alt="" class="fig-small" /></p>
+  <h1 id="デジタルウェルビーイングという思想">デジタル・ウェルビーイングという思想</h1>
+  <p>なぜそもそもこのような製品を作らなければならなかったのでしょうか。改めて振り返っておきたいと思います。</p>
+  <p>ささいなことでもユーザーに通知することで「エンゲージメント」を最大化しようとする設計方針があります。Facebookの通知機能もそういうものでした。エンゲージメントの最大化とは、要するにユーザーを中毒にするということです。ソーシャル・メディアの収益源は広告です。いかに多くのユーザーの可処分時間を奪い、滞在時間を長くして、広告収益を最大化するか。そのことに各社が腐心してきました。</p>
+  <p>しかし、それが果たしてこの社会にとって望ましいことなのかについて、多くの疑問が呈されてきました。近年では「デジタル・ウェルビーイング」（デジタル生活における心身の健全性）という概念化で広く知られるようになってきています。例えば、デジタル・デバイスの使いすぎに注意を促す「スクリーンタイム」機能などのように。デジタル・ウェルビーイングの思想が、人々のポケットの中のスマートフォンにも実装されるようになってきました。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.android.com/intl/ja_jp/digital-wellbeing/" target="_blank">https://www.android.com/intl/ja_jp/digital-wellbeing/</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.android.com/intl/ja_jp/digital-wellbeing/" target="_blank">
+            <img src="https://lh3.googleusercontent.com/E9GzAdsMHnMi7O5SqgiQd2H8x9j8fqc462Qr8aUhsBmdZ9x9ZjjxtctdssBDJPw3C7wT2Jc_iSdq1hKht95df6Vm4vrM1SIB8BWi" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.android.com/intl/ja_jp/digital-wellbeing/" target="_blank">Digital Wellbeing | Android</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">Android の Digital Wellbeing ツールを使用して、スマートフォンとのバランスのよい付き合い方を見つけましょう。生産性を高めたり、スマートフォンを利用しない時間を増やしたり、家族のスマートフォンの利用を管理したりできます。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.android.com/intl/ja_jp/digital-wellbeing/" target="_blank">www.android.com</a>
+      </div>
+    </div>
+  </div>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://support.apple.com/ja-jp/HT208982" target="_blank">https://support.apple.com/ja-jp/HT208982</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://support.apple.com/ja-jp/HT208982" target="_blank">iPhone、iPad、iPod touch でスクリーンタイムを使う</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">スクリーンタイムを使えば、iPhone、iPad、iPod touch でどのくらい時間を費やしているのかリアルタイムでまとめたレポートを確認できます。管理しておきたいものについては制限を設けることもできます。
+          </div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="//support.apple.com" target="_blank">support.apple.com</a>
+      </div>
+    </div>
+  </div>
+  <p>Hide ‘Like’ Notificationsは、こうした議論に先駆け、2013年にデジタル・ウェルビーイングの思想を実装した製品です。このたびFacebook自身が同様の機能を実装したことで、その役割を終えることになりました。大変喜ばしいことです。</p>
+  <h1 id="さようならユーザーのみなさん">さようなら、ユーザーのみなさん</h1>
+  <p>もはやこの拡張機能が不要になったことを、ユーザーに知らせることにしました。画面最上部に目立つバナー（帯状の情報枠）を掲示して：</p>
+  <p><img src="/assets/activity/2021-02-13-farewell-hide-like-notifs/farewell-banner.png" alt="Important Noticeと書かれた黄色いバナー" /></p>
+  <p>そのリンク先であるChrome拡張機能の公式ページに、次のようなお別れのメッセージを掲載しました：</p>
+  <blockquote>
+    <p>Farewell</p>
+    <p>Facebook has changed its design to allow users to suppress distractive notifications. Just turn the More Activity About You option off in the Notifications Settings<a href="https://www.facebook.com/settings/?tab=notifications">1</a>.</p>
+    <p>Now that you do not need this Chrome extension. Just remove it.</p>
+    <p>I hope you enjoy Facebook without distraction.</p>
+    <p>Regards,
+      Hide</p>
+  </blockquote>
+  <p><img src="/assets/activity/2021-02-13-farewell-hide-like-notifs/Hide-Like-Notifications.png" alt="Chrome Web Store上のHide 'Like' Notificationsのページのスクリーン・ショット" /></p>
+  <p>それから思いがけないレスポンスを頂きました：</p>
+  <p><img src="/assets/activity/2021-02-13-farewell-hide-like-notifs/farewell-responses.png" alt="Joey Paris, 2021/02/19: Used this for a few years now and it's been amazing. Sorry I never wrote a review sooner. Glad this feature is being rolled into Facebook though. Thank you for an amazing extension that's helped meme lords across the globe!
+Leszek Nowak, 2021/02/15: I used this extension for years and I am deeply grateful for it! :) Additional respect goes to the author for notifying us that we don't have to use it anymore because fb added new functionality in settings. Hideto, cheers from Poland! :)
+Chematronix Quarantamila, 2021/02/15: Useful plugin, and also elegant farewell.  Stay classy hide!
+Brennan Gregory Hatton, 2021/02/15: Thanks for the less distracting times, and info on facebooks new settings that means this plug-in is redundant. Whoever made this, youre awesome and I hope your life is full of lovely things :)" /></p>
+  <p>訳：</p>
+  <blockquote>
+    <ul>
+      <li>数年前から使用していますが、素晴らしいものでした。もっと早くレビューを書いておけばよかったと後悔しています。この機能がFacebookにも導入されるのは嬉しいですね。世界中のおもしろネタ好きな人たちを助ける素晴らしい拡張機能をありがとうございました。</li>
+      <li>私はこのエクステンションを何年も使っていて、深く感謝しています。:) さらに、fbが設定に新しい機能を追加したため、もうこれを使う必要がないことを知らせてくれた作者にも敬意を表したいと思います。Hidetoさん、ポーランドから応援しています! :)</li>
+      <li>便利なプラグイン、そして上品なお別れ。いけてるね。</li>
+      <li>これまでの気が散らない時間と、このプラグインが不要になるようなフェイスブックの新しい設定についての情報をありがとうございます。このプラグインを作った人、あなたは最高です！あなたの人生が素敵なことでいっぱいになることを願っています。:)</li>
+    </ul>
+  </blockquote>
+  <p>ユーザーの方々から大変暖かい言葉を頂いて、心温まりました。大変誇らしい気持ちです。このような製品を提供する機会を頂けたことに、感謝したいと思います。</p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[金沢美術工芸大学でワークショップを実施しました]]></title>
+  <link href="https://hideishi.com/activity/2021/02/09/kanazawa-bidai-workshop.html"/>
+  <updated>2021-02-09T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2021/02/09/kanazawa-bidai-workshop</id>
+  <content type="html"><![CDATA[<p><a href="https://www.kanazawa-bidai.ac.jp/">金沢美術工芸大学</a>で博物館情報・メディア論の講義に登壇し、「インクルーシブなミュージアムを構想するワークショップ」をファシリテートしました。</p>
+  <p>このワークショップはWorld IA Day Fukuoka 2020のために設計したものですが、さまざまなところで再利用できるように設計したつもりです。このたび再演の機会を頂き、関係各位に感謝します。</p>
+  <p>参加者の方々の成果は、いずれもこれまで聞いたことのないようなユニークなアイデアでした。アクセシビリティを「障害者対応」の「義務」の話としてではなく、「サービスの提供手段や利用手段の多様化」の「機会」の話として捉えて頂けたという手応えがありました。</p>
+  <p>反省点としては、アイス・ブレイキングが不十分でした。ふだんこのようなワークショップの機会がほとんどなく、ましてやオンライン（Zoom）で、ランダムに割り当てられたグループです。会話がまったく盛り上がらないグループもありました。もちろん参加者のせいではありません。ファシリテーターとして議論を成り立たせるべく介入しましたが、本来ならアイス・ブレイキングでやるべきことです。リモート・ワークショップの難しさを感じました。</p>
+  <p>このワークショップのツールキット（進行スライドとカード・デッキ）を下記ウェブページで公開しています。どなたでも自由に利用することができます。ワークショップ前のレクチャー（大橋正司氏による）の内容も参考にして頂ければと思います。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html" target="_blank">https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html" target="_blank">
+            <img src="https://hideishi.com/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html" target="_blank">World IA Day Fukuoka 2020 でワークショップを実施しました 来るべきユーザーのためのインクルーシブな美術館構想 @WIAD_Fukuoka</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">情報アーキテクチャ(IA)のグローバル・イベントWIADの福岡支部を立ち上げ、美術館のサービス・デザインを考えるワークショップを行いました。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html" target="_blank">hideishi.com</a>
+      </div>
+    </div>
+  </div>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[「アート思考」の話]]></title>
+  <link href="https://hideishi.com/blog/2020/11/23/art-thinking.html"/>
+  <updated>2020-11-23T00:00:00+00:00</updated>
+  <id>https://hideishi.com/blog/2020/11/23/art-thinking</id>
+  <content type="html"><![CDATA[<figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/Sandro_Botticelli-La_nascita_di_Venere.jpg" alt="《ヴィーナスの誕生》の図像" /></p>
+    <figcaption>サンドロ・ボッティチェッリの絵画《ヴィーナスの誕生》</figcaption>
+  </figure>
+  <p>ビジネス界隈で「アート思考」と呼ばれるものの実態は「クリエイティブ思考」だろう。では、言葉の本来の意味での「アート思考」は一体どういう意味になるべきか。それは、<strong>アートの営みが拠って立つ原理のように思考すること</strong>だと思う。</p>
+  <p>ちょっと分かりにくい言い方かもしれないので、易しく言い直してみる。アートという営みは、一体どういう作動原理によって動いているのだろうか。その原理を理解し、その原理に従って様々な物事について考えてみるということ。そのような思考を「アート思考」と呼びたい。</p>
+  <p>では、アートの営みの根底にあるのは、一体どういう原理なのだろうか。それは、人工物の制作における<strong>規範と逸脱の歴史的動力学</strong>だろう。</p>
+  <p>これも簡単に言い直しておくことにする。道具にせよ作品にせよ、何らかの物を作り出す人々がいる。物を作る人は、必ず何かを手本とする。そこには従うべきルール、つまり規範がある。</p>
+  <p>そのような規範は、時代とともに移り変わっていく。移り変わるということは、つまりこういうことだ。ある時点での規範を逸脱する美意識があり、それが次第に支持を得ることで、新たな規範として取り込まれていく。逸脱のダイナミズムによって規範が更新されていく。</p>
+  <p><img src="/assets/blog/2020-11-23-art-thinking/norm-and-deviation.png" alt="規範から逸脱し、その逸脱が規範に取り込まれる流れの図解" /></p>
+  <p>そのような運動は人類史に渡って繰り返されてきたし、今後も繰り返されていく。</p>
+  <p>逸脱もまた完全に新奇であることなどない。かつて歴史上存在した規範を参照し、それを復興するという形を取ることがほとんどである。その代表例が、教会の宗教的美意識が支配的だった時代に、古代ギリシアの人間中心的美意識を復興したルネサンスだ。規範と逸脱の動力学は、過去の歴史を参照しながら繰り返される。</p>
+  <p>以上のことを短く言うと、「人工物の制作における<strong>規範と逸脱の歴史的動力学</strong>」という言葉になる。</p>
+  <hr />
+  <p>さて、身近なiPhoneという例について考えてみたい。それ以前の携帯電話のユーザーインターフェイスは、テンキー、カーソルキー、スタイラス（タッチペン）などを使うことが常識（規範）だった。そこに「フィンガータッチの方が優れている」という異質な美意識をぶつけた。そう、「美意識」なのだ。iPhoneの勝利は単なる技術的合理性では説明できない。これは「より便利」「より高性能」だとかいう話ではない。</p>
+  <p>2007年に最初のiPhoneを紹介したスティーブ・ジョブズのプレゼンテーションを思い出してみればいい。彼はスタイラスという当時の規範に対して、「ウンザリ」という負のレッテル貼りをした。</p>
+  <p><img src="/assets/blog/2020-11-23-art-thinking/who-wants-stylus.png" alt="&quot;Who wants a stylus?&quot; と書かれたスライドとスティーブ・ジョブズの写真" /></p>
+  <p>その上で、指で直接タッチできるスクリーンは「魔法のようだ」という美意識を訴求した。</p>
+  <p><img src="/assets/blog/2020-11-23-art-thinking/works-like-magic.png" alt="&quot;Works like magic&quot; と書かれたスライドとスティーブ・ジョブズの写真" /></p>
+  <p>iPhoneをひっさげたスティーブ・ジョブズが当時の競合スマートフォンに対して挑んだのは、技術の戦争ではない。美意識の戦争だった。この点は誤解されがちだ。</p>
+  <p>このような規範と逸脱の動力学は、まさにアートヒストリーのアナロジーで理解できる。アートの世界でも、規範を逸脱するような表現がいくつも登場してきた。その多くは単に黙殺されてきただろう。しかしその中で、当初は批判されつつも支持を集め、結果として美術史に登録されたものがある。例えば印象派、キュビズム、フォービズム、もの派など。そういった、今日我々が知るトレンド（芸術運動、アートムーブメント）も、最初は規範からの逸脱であり、批判の対象だった。</p>
+  <p>ついでに言えば、「〜派」「〜イズム」などの言葉は、当初は蔑称だったものが次第に正式名称として定着したものも多い。それらの運動が当初は逸脱として始まったことの動かぬ証拠だ。</p>
+  <p>忘れがちだが、iPhoneだって最初から理解されたわけではない。「こんなもの流行るはずがない」という懐疑的・批判的な意見の方が多かったと思う。そもそも最初から全員に理解されるものは、規範からまったく逸脱していないということになる。逆に言えば、新たなトレンドを作りたい者は、万人に理解されることをしてはならない。</p>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/Phase-Mother_Earth.jpg" alt="《位相-大地》の写真" /></p>
+    <figcaption>もの派の代表的な作品：関根伸夫《位相-大地》1968年<br />
+      <small>出典：作者自身による, CC BY-SA 4.0 License（<a href="https://commons.wikimedia.org/w/index.php?curid=40068012">リンク</a>）</small></figcaption>
+  </figure>
+  <p>iPhoneが作り出したスマートフォンのあり方が、現在のファッショントレンドになっている。これはあくまでトレンドであって、将来は分からない。ブラックベリー型やスタイラス型、あるいはフィーチャーフォン型の復権もありえると思う。</p>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/BlackBerry_Torch.jpg" alt="BlackBerry Torch 9800の写真" /></p>
+    <figcaption>BlackBerry Torch 9800 タッチパネル+スライドキーボード<br />
+      <small>出典：edans / Enrique Dans による, CC BY 2.0 License（<a href="https://commons.wikimedia.org/w/index.php?curid=12475879">リンク</a>）</small></figcaption>
+  </figure>
+  <p>技術にばかり関心が向いている人は、「携帯電話はスマートフォンに<strong>進歩</strong>した」と考えがちだ。単純な進歩史観。しかし、実際にはそうではない。</p>
+  <p>例えば、なぜ2020年にアナログレコードが売れているのか。「中高年の懐古趣味」では説明がつかない。若者に人気なのだから。彼らは技術的に優れている（と一般に思われている）配信やCDよりも、劣った（と一般的に思われている）アナログレコードを好む。これが美意識だ。技術の問題ではない。</p>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/analog-records.jpg" alt="アナログレコードの写真" /></p>
+    <figcaption>アナログレコード<br />
+      <small>出典：Pexelsによる, Simplified Pixabay License（<a href="https://pixabay.com/images/id-1867697/">リンク</a>）</small></figcaption>
+  </figure>
+  <p>同じことが携帯電話についても言える。そもそも携帯電話にはアクセサリー（服飾小物）としての役割もある。ファッショントレンドの変遷と無関係なはずがない。</p>
+  <hr />
+  <p>冒頭の問題意識に戻る。「アート的な思考」という言葉は、本来こういう思考を指すべきだと思う。<strong>規範と逸脱の歴史的動力学</strong>という枠組みを用いて状況を分析する思考。より抽象的に言えば、過去を参照しながら規範を逸脱していく<strong>再帰的な経路依存性</strong>において、社会の運動性を理解するということ。</p>
+  <p>「再帰的な経路依存性」を言い換えれば、要するに「新しいアイデアは無から生まれることはなく、必ず過去の歴史の中から再発見されたものの変奏として現れてくる」ということを「再帰的」と呼んでいる。</p>
+  <p>また、「過去にこうだったから、今こうなっている」という歴史的経緯が全ての物事を制約しているということ。そこから自由な逸脱や飛躍など人間社会にはありえないという制約、あるいは法則のことを「経路依存性」と呼ぶ。（余談だが、経路依存性への意識は、良い意味で、そして本来の意味での保守主義に通じる）</p>
+  <p>アート的思考とは、トレンドが移り変わっていく運動の法則を、</p>
+  <ul>
+    <li>過去の歴史を参照して自らを更新していこうとする<strong>再帰性</strong>と、</li>
+    <li>あらゆるものが過去の経緯によって制約されるという<strong>経路依存性</strong></li>
+  </ul>
+  <p>とを通じて理解していく思考のことだ。先に「規範と逸脱の歴史的動力学」について説明した。そのダイナミズムを生み出す、より根底的な力が再帰的な経路依存性だということになる。</p>
+  <hr />
+  <p>同じことはファッションについても言える。ファッションにおける美意識（おしゃれ）の本質は「差異」（人とは違うこと）だ。</p>
+  <p>あるトレンドがあまりにも普及しきって、みんな同じようになってしまえば、先進的な人（おしゃれな人）はそこから逸脱しようとする。人と違うことをしようとする。その結果、新しいトレンドが生まれる。それもまた人々に真似され、しまいにはみんなに行き渡る。そうすればまた先進的な人は差異を求めて違うことを始める。</p>
+  <p>その運動はまるで回転運動や潮の満ち引きのように定期的に繰り返す。逸脱のリソース（元ネタ）は、ほとんどの場合、過去のファッション史から引っ張り出されてくる。過去の歴史があるからこそ、新たな創造が可能になっている。</p>
+  <p><img src="/assets/blog/2020-11-23-art-thinking/norm-and-deviation-referencing-past.png" alt="過去のある時点を参照している逸脱が、再び規範に取り込まれていく流れの図解" /></p>
+  <p>アートにせよ、ファッションにせよ、デザインにせよ、学問にせよ、なんであれ人間が関わる物事（人文）には、こういう循環運動がある。いわば敗者復活戦がある。</p>
+  <p>これこそ文系（人文知）と、理系（科学・工学）との違いでもある。文系の対象が人文（人間に関わる事物）であるのに対して、理系の対象は自然（人間でないもの）である。理系の論理の中には、過去に「敗者」となった理論が復活してくることはない（ごく稀に例外はあるが）。天動説の復活はないだろう。理論は単線的に進歩し続ける。後戻りはない。そういうシンプルな進歩史観が理系の世界観だ。</p>
+  <p>しかし、アートやファッションなど文系の領域においては、過去のトレンドが何度も再来してくる。この点において理系と文系の世界観は全く違う。文系では単純な進歩史観を採用することは難しい。</p>
+  <hr />
+  <p>これまでIT業界は歴史が短かった（というのも本当は誤解なのだが、一般大衆にとってのIT業界史はせいぜい1995年くらいから始まっているだろう）。したがって、IT業界の中で歴史的循環を意識することなどなかったかもしれない。だが、IT業界の歴史も充分に長くなってきた。今後はアートやファッションと同じように、過去のトレンドの再来が普通になってくるだろう。</p>
+  <p>IT業界に多い技術的進歩史観の人には理解しづらいことだろう。彼らの考えでは、「過去は全てにおいて現在より劣っており、未来は全てにおいて現在より優れている」ということになっている。しかし現実はそうなっていない。単にIT業界の歴史が短く、過去のトレンドの再来を目にしたことがないために、単線的に進歩してきたのだと勘違いしているだけだ。</p>
+  <p>今月（2020年11月）発表された話題の新型コンピューター <a href="https://www.raspberrypi.org/products/raspberry-pi-400/">Raspberry Pi 400</a> （ラズベリーパイ400）を見てみよう。キーボードにパソコン本体が組み込まれている。電源とマウスとディスプレイを接続すれば、完全なコンピューターとして使える。このようなコンピューターは現在の市場にほとんど存在していない。</p>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/raspberry-pi-400.jpg" alt="Raspberry Pi 400の写真" /></p>
+    <figcaption>Raspberry Pi 400<br />
+      <small>出典：<a href="https://www.raspberrypi.org/products/raspberry-pi-400">The Raspberry Pi Foundation</a> ©</small></figcaption>
+  </figure>
+  <p>キーボード一体型パーソナル・コンピューターという形態を「新しい！」と思う人もいるかもしれない。ところが、これはむしろパーソナル・コンピューター史的には先祖返りに近い。40年ほど前には、むしろ主流だった。</p>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/Apple_II_typical_configuration_1977.png" alt="Apple IIおよび周辺機器の写真" /></p>
+    <figcaption>Apple II（1977年）<br />
+      本体およびモノクロ・モニター、ゲーム・パドル、カセット・デッキ<br />
+      <small>出典：FozzTexx, CC BY-SA 4.0 License（<a href="https://commons.wikimedia.org/w/index.php?curid=79580939">リンク</a>）</small></figcaption>
+  </figure>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/pc-6001.png" alt="PC-6001の写真" /></p>
+    <figcaption>NEC PC-6001（1981年）<br />
+      <small>出典：Morianuによる, CC BY-SA 4.0 License（<a href="https://commons.wikimedia.org/w/index.php?curid=79547564による">リンク</a>）</small></figcaption>
+  </figure>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/Sharp_MZ-700.jpg" alt="MZ-700の写真" /></p>
+    <figcaption>シャープMZ-700（1982年）<br />
+      <small>出典：Bilbyによる, CC BY 3.0 License（<a href="https://commons.wikimedia.org/wiki/File:Sharp_MZ-700.jpg">リンク</a>）</small></figcaption>
+  </figure>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/commodore-64.png" alt="コモドール64の写真" /></p>
+    <figcaption>コモドール64（1982年）</figcaption>
+  </figure>
+  <figure>
+    <p><img src="/assets/blog/2020-11-23-art-thinking/Sony_HitBit_HB-10P.jpg" alt="Sony MSX HitBit 10-Pの写真" /></p>
+    <figcaption>Sony HitBit 10-P（1985年頃？）<br />
+      MSX規格の製品例</figcaption>
+  </figure>
+  <p>ラズベリーパイ400のようなキーボード一体型デザインが、今後のトレンドになるかどうかは分からない。ただ、「過去の歴史を参照しつつ、現在の規範から逸脱する」という創造の運動性を見出すことはできるだろう。IT業界にも、アート界と同じような創造の運動がある。だからアート思考はIT業界も射程に入れることができる。</p>
+  <hr />
+  <p>この話も終わりに近づいてきた。最後に、アート思考でアイデアを出すための方法について考えておきたい。それは「歴史を学べ」という一言に尽きる。歴史の中にヒントがある。歴史上の出来事を単に点で捉えるのではなく、線として、物語として理解することだ。例えば「シンプルなトレンドが流行した後には、複雑なトレンドが来て、またその次はシンプルになる」といった具合に。</p>
+  <p>世間で「アート思考」という言葉が使われるとき、その意味は「過去や常識に囚われることなく、自由にアイデアを出す発想法」といったものだ。しかし、実際のアーティストやファッションデザイナーがやっていることは全く異なる。</p>
+  <p>作家は歴史上の作品を驚くほどたくさん知っている（専門家なのだから当然だ）。過去の作品やトレンドを参照しつつ、同時代の作品やトレンドも横目に見ながら制作している（展覧会やコレクションをまめにチェックする作家は多い）。主流の規範に、かなりの程度まで従っている（そうしないと、そもそも「作品」として成立しない）。しかし、どこかで逸脱することも常に模索している（創造の価値は、他との差異から生じるのだから）。自分の逸脱が人々に支持され、トレンドになっていけば、「新たなトレンドの創始者」として歴史に名を残すことができる。</p>
+  <p>ある種のハードコアなアーティストたちは、こういうゲームをプレイしている。村上隆を思い浮かべてもらえれば分かりやすい。彼はこのゲームのプレイヤー役を、露悪的なまでに徹底的に演じている。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.gentosha.jp/article/11800/" target="_blank">https://www.gentosha.jp/article/11800/</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.gentosha.jp/article/11800/" target="_blank">
+            <img src="http://www.gentosha.jp/files/uploads/series/1545227430_rectangle_icon.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.gentosha.jp/article/11800/" target="_blank">日本人アーティストはなぜ世界で通用しないのか？｜芸術起業論｜村上隆</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">海外で高く評価され、作品が高く取引される村上隆。彼は、他のアーティストと何が大きく違ったのか？　稀代の芸術家が熱い情熱と冷静な分析をもって綴った名著『芸術起業論』『芸術闘争論』の待望の文庫化を記念して、まず『芸術起業論』の冒頭をお届けします。
+            芸術には、世界基準の戦略が必要である
+            　なぜ、これまで、日本人アーティストは、片手で数えるほどしか世界で通用しなかったのでしょうか。
+            　単純です。
+            「欧米の芸術の世界のルールをふまえていなかったから」なのです。
+            　欧米の芸術の世界は、確固たる不文律が存在しており、ガチガチに整備されております。
+            　そのルールに沿わない作品は「評価の対象外」</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.gentosha.jp/article/11800/" target="_blank">www.gentosha.jp</a>
+      </div>
+    </div>
+  </div>
+  <p>こう考えれば分かるように、アーティストは通俗的な「アート思考」の理解とは異なり、むしろ「過去や常識に囚われ」まくっている。まったく「自由」ではない。しかし、それは決して悪いことではなく、むしろ創造の源泉となっている。</p>
+  <p>アートというゲームにはルールがあり、観客もいる。ルールと観客の存在こそが、アーティストによるアートのプレイを可能にしている。アート思考とは、つまりはルールと観客について考えることである。それらは固定的ではない。ルールを書き換えたり、新たな観客を作り出す試みもまた、アートというゲームにおいては高得点（美術史への登録）につながりうるプレイなのである。</p>
+  <hr />
+  <p>これで「アート思考」の話は終わり。まとめておく。</p>
+  <p>創造におけるトレンドの変遷は、<strong>規範と逸脱の歴史的動力学</strong>によって理解できる。その動力学は<strong>再帰的な経路依存性</strong>の法則に支配されている。アーティストは規範という不自由なものに従ったり、逸脱したりする。規範とダンスする。その運動から価値を生み出していく。それがアーティストという存在であり、そのプレイを支えるのが（私が考える）<strong>アート思考</strong>である。それはゲームのルールと観客についての思考である。</p>
+  <p>このようなアート思考は、「過去や常識に囚われない自由な発想」などという、通俗的な「アート思考」の理解とは全く異なる。むしろ真逆に位置するものだ。そして、遥かに射程が広いものだ。あらゆる人文領域におけるトレンドの変遷を理解することに役立つ。さらには、新たな価値の創造にも役立つ。</p>
+  <p>結局のところ、アート思考とは、<strong>歴史を使って歴史に介入し、自分に有利な歴史を作っていくための戦略思考</strong>なのだ。</p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[起業がふたたび社会変革の前衛になるために]]></title>
+  <link href="https://hideishi.com/blog/2020/10/14/philosophy-for-startup.html"/>
+  <updated>2020-10-14T00:00:00+00:00</updated>
+  <id>https://hideishi.com/blog/2020/10/14/philosophy-for-startup</id>
+  <content type="html"><![CDATA[<p><img src="/assets/blog/2020-10-14-philosophy-for-startup/fist.png" alt="突き上げた拳のイラスト" /></p>
+  <p>先日、ベンチャー・キャピタリストの方が来訪された。近況を話し合う中で、「最近のスタートアップには社会変革の大志がなくなった」という認識で一致してしまった。では、なぜ起業家から大志が失われてしまったのか。来客に話したことを、文章として残しておく。</p>
+  <h2 id="社会を変える">社会を変える</h2>
+  <p>多くのスタートアップは「社会を変える」と言う。「社会を変える」とは、社会問題を解決するということだ。</p>
+  <p>貧困、医療、搾取、経済格差、教育格差、機会格差、男女格差、ジェンダー差別、人種差別、民族差別、国籍差別、職業差別、暴力、ハラスメント、環境汚染、災害、エネルギー、食糧、住宅……数え上げればキリがない。</p>
+  <p>「社会を変える」と言っているスタートアップは、こういった類の社会問題に取り組んでいるだろうか。生活をちょっと便利にするアプリを提供することが「社会を変える」ことなのだろうか。ちょっとした不便が「社会問題」なのだろうか。</p>
+  <p>「社会を変える」という言葉の耐えられない軽さ。</p>
+  <h2 id="お金配りおじさん">お金配りおじさん</h2>
+  <p>全共闘以後、若者は政治音痴になった。運動嫌いになった。だから起業家もノンポリになった。目的は自己実現か金儲けになった。その成れの果てが「<a href="https://www.itmedia.co.jp/news/articles/2006/29/news098.html">お金配りおじさん</a>」。</p>
+  <p>何のために金を集めるのか。金を使って何をするのか。思想のない者が大金を稼いだところで、やることといえば金を配るくらい。そういう身も蓋もない事実が、誰の目にも明らかになった。じつに最悪で、それゆえ最良の反面教師だ。今後は説明しやすくなった。</p>
+  <p>「お金配りおじさんになりたくなかったら、ちゃんとした思想を持って起業しよう」</p>
+  <h2 id="カウンターカルチャー">カウンターカルチャー</h2>
+  <p>若者は「何か意味のあること」をしたがるもの。昔ならロックバンドをやっていたような若者が、今はスタートアップをしている。だから<a href="https://www.buzzfeed.com/jp/narumi/a-sha">スタートアップの写真がアー写っぽくなる</a>としても、何ら不思議ではない。スタートアップは格好良くなければならないと思われている。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.buzzfeed.com/jp/narumi/a-sha" target="_blank">https://www.buzzfeed.com/jp/narumi/a-sha</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.buzzfeed.com/jp/narumi/a-sha" target="_blank">
+            <img src="https://img.buzzfeed.com/buzzfeed-static/static/2018-11/27/7/enhanced/buzzfeed-prod-web-03/original-15872-1543321201-3.jpg?crop=1724:902;0,399%26downsize=1250:*" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.buzzfeed.com/jp/narumi/a-sha" target="_blank">最近のスタートアップの記事、サムネ画像がアー写感すごい説</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">「ろくろ」はもう古い。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.buzzfeed.com/jp/narumi/a-sha" target="_blank">www.buzzfeed.com</a>
+      </div>
+    </div>
+  </div>
+  <p>ただし、昔のロックバンドと現代のスタートアップには決定的な違いがある。昔のロックバンドには思想や政治性があった。彼らは「今の社会は腐っている」と歌った。つまり反権力、反政府、反体制、反主流、反権威、反商業主義、反資本主義などの思想があった。そういう文化を<strong>カウンターカルチャー</strong>（対抗文化）と呼ぶ。そもそもパーソナル・コンピューターだってカウンターカルチャーだった。それを象徴したブランドがAppleだ。</p>
+  <p>ところが今のスタートアップにはカウンター（対抗）の思想がない。「社会を変える」と言っているが、口先で言っているだけだ。内実が伴っていない。今の社会を肯定し、その中で小金を稼ぐだけ。彼らの会社が経済的に成功したところで、社会はまったく変わらない。なんと保守的なスタートアップだろうか。</p>
+  <p>まあ保守的なスタートアップが多数派でも構わない。しかし、少数派であってもカウンター勢力が一定数は必要だ。カウンター勢力がいない社会では、さまざまな問題が放置されてしまう。多数派や既得権益層による不当な支配体制が温存される。不正義が放置される。そのしわ寄せは少数派や弱者へと向かう。</p>
+  <p>というわけで、<strong>カウンターカルチャーとしてのスタートアップ</strong>というものについて、いまから論じていきたい。</p>
+  <p>注釈しておくと、「前衛」という言葉には「マルクス主義」「革命運動」「左翼思想」などの含意がある。共産党が自らを「前衛党」と呼称してきたように。しかし、僕の主張は「起業家は左翼思想に染まれ」「起業家は革命を目指せ」ということではない。この文章において「前衛」とは「左」という意味ではない。社会変革の最前線で闘う、その立ち位置を「前衛」と呼んでいる。</p>
+  <h2 id="全共闘以後">全共闘以後</h2>
+  <p>かつて社会問題に真摯に取り組んだ若者がいた。1968年を頂点とする<a href="https://kotobank.jp/word/%E5%AD%A6%E7%94%9F%E9%81%8B%E5%8B%95-43684">学生運動</a>（<a href="https://kotobank.jp/word/%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%83%91%E3%83%AF%E3%83%BC-1347148">スチューデント・パワー</a>）の時代のことだ。彼らは国家と闘い、そして挫折した。</p>
+  <p>日本における学生運動（または学園闘争）の象徴が東大安田講堂事件。若者は派閥（セクト）の違いを超えて「全学共闘会議（全共闘）」を結成し、一丸となって大学や国家と闘った。そして敗れた。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.sankei.com/affairs/news/190117/afr1901170050-n1.html" target="_blank">https://www.sankei.com/affairs/news/190117/afr1901170050-n1.html</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.sankei.com/affairs/news/190117/afr1901170050-n1.html" target="_blank">
+            <img src="https://www.sankei.com/images/news/190117/afr1901170050-p1.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.sankei.com/affairs/news/190117/afr1901170050-n1.html" target="_blank">過激派、武装闘争の分岐点　安田講堂事件５０年</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">大学の頂点・東京大学の安田講堂に昭和４４年１月、火炎ビンなどで武装した学生らが立てこもった。大学の自治確立や医学部の民主化といった要求を掲げた一大学の闘争に始ま…</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.sankei.com/affairs/news/190117/afr1901170050-n1.html" target="_blank">www.sankei.com</a>
+      </div>
+    </div>
+  </div>
+  <p>これが歴史の分水嶺。熱い「政治の季節」が終わった。若者は政治から撤退し、「<a href="https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%89%E3%81%91%E4%B8%96%E4%BB%A3">しらけ世代</a>」となった。全共闘以後、現在までの半世紀にわたり非政治的な季節が続いている。<sup id="fnref:season-of-politics" role="doc-noteref"><a href="#fn:season-of-politics" class="footnote" rel="footnote">1</a></sup></p>
+  <p>全共闘以後、問題意識を持つ若者には、一体どんな運動が可能なのだろうか。連合赤軍のように、より過激な武力闘争へ身を投じた若者がいた。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://kc.kodansha.co.jp/product?item=0000043680" target="_blank">https://kc.kodansha.co.jp/product?item=0000043680</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://kc.kodansha.co.jp/product?item=0000043680" target="_blank">
+            <img src="https://cv.bkmkn.kodansha.co.jp/9784063723229/9784063723229_w.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://kc.kodansha.co.jp/product?item=0000043680" target="_blank">『レッド（１）』（山本　直樹）　製品詳細　講談社コミックプラス</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">この物語の舞台は１９６９年から１９７２年にかけての日本。ベトナム戦争や公害問題など高度成長の歪みを背景に、当たり前のように学生運動に参加していった普通の若者たちが、やがて矛盾に満ちた国家体制を打倒するという革命運動に身を投じていく様と、その行き着く先をクールに描き出す、若き革命家たちの青春群像劇である。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://kc.kodansha.co.jp/product?item=0000043680" target="_blank">kc.kodansha.co.jp</a>
+      </div>
+    </div>
+  </div>
+  <p>あるいは、政治家として議会活動に転じた若者もいた。大学人や塾講師として学生をオルグする道を選んだ者もいたし、マスコミの社員になった者もいた。さらには、社会問題を解決するための事業を起こし、自ら経営していく道を選んだ若者もいた。<sup id="fnref:zensho" role="doc-noteref"><a href="#fn:zensho" class="footnote" rel="footnote">2</a></sup></p>
+  <h2 id="大地を守る会">大地を守る会</h2>
+  <p>元全学連委員長の<a href="https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E6%95%8F%E5%A4%AB">藤本敏夫</a>氏は、大地を守る会（発足時「大地を守る市民の会」、現オイシックス・ラ・大地）の初代会長になった。以下、戎谷徹也氏のオーラルヒストリーから引用する：</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.daichi-m.co.jp/history/572/" target="_blank">https://www.daichi-m.co.jp/history/572/</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.daichi-m.co.jp/history/572/" target="_blank">
+            <img src="https://www.daichi-m.co.jp/wp-content/uploads/2015/06/064aed51ec004cd42e38cf6675562067-e1451032934671.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.daichi-m.co.jp/history/572/" target="_blank">【第1話】 目標は「大地を守る会」を消滅させること！</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">【第1話】目標は「大地を守る会」を消滅させること！大地を守る会が2015年の夏でついに設立40年を迎える。有機農業が当たり前で、農薬による健康被害などない、食べものや水や環境が当たり前に大切にされる社会、大地を守る会のような組織がいらなくな</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.daichi-m.co.jp/history/572/" target="_blank">www.daichi-m.co.jp</a>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    <p>気が付けば設立当時のメンバーも藤田代表含め３名になって、そのメンバーと僕の間にいた諸先輩は一人も残っていない。そして「40周年」という年月。この節目にあたって、改めて大地を守る会が歩んできた道のりを振り返り、原点を見つめ直したいと思う。カッコよく言えば、大地を守る会の「魂」の部分を次の世代に託しておきたいと思うのである。数少ない”生き残り”の義務として。</p>
+    <p>そこでまずはあの頃の議論、「俺たちの目標は……」から始めたい。 この意味は簡単なことで、”大地を守る”などと掲げる団体が存在すること自体が、よろしくない社会だということだ。有機農業が当たり前で、農薬による健康被害などない、食べものや水や環境が当たり前に大切にされる社会、こんな組織がいらなくなる社会をつくるために、大地を守る会は設立されたんだと。</p>
+    <p>「僕らは解散に向かって、前進する！」</p>
+    <p>解散したらオイラは…と不安そうに質問した者がいて、藤本さんは胸を張って答えた。ただの八百屋になればいいのだ。あるいは農民になろう。君は肥料屋、肥料製造は静脈産業になるぞ。しかしそのためには、社会の価値観が有機農業（オーガニック）的に変わらなければならない。社会運動と事業の拡大はそんな時代を創るためにある。<sup id="fnref:daichi-history-1" role="doc-noteref"><a href="#fn:daichi-history-1" class="footnote" rel="footnote">3</a></sup></p>
+  </blockquote>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.daichi-m.co.jp/history/980/" target="_blank">https://www.daichi-m.co.jp/history/980/</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.daichi-m.co.jp/history/980/" target="_blank">
+            <img src="https://www.daichi-m.co.jp/wp-content/uploads/2015/06/632fe5786ceb3e2afa0bde0dc3f1fc6b.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.daichi-m.co.jp/history/980/" target="_blank">【第4話】大地を守る会は「希望」であり続けているか</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">【第4話】大地を守る会は「希望」であり続けているか。社会は公害問題で揺れる時代に入っていて、高度経済成長の夢を砕くオイルショックがあり、有吉佐和子さんの『複合汚染』がベストセラーになっていた。1975年8月19日、大地を守る会の前身となる「</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.daichi-m.co.jp/history/980/" target="_blank">www.daichi-m.co.jp</a>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    <p>社会は公害問題で揺れる時代に入っていて、高度経済成長の夢を砕くオイルショックがあり、ローマクラブが発表した『成長の限界』が議論を呼び、有吉佐和子さんの『複合汚染』がベストセラーになっていた。</p>
+    <p>この運動に確信を持った藤田や同じ出版社に勤めていた加藤保明（現：(株)フルーツバスケット会長）たちは1975年8月19日、大手町・農協ホールを借り、大地を守る会の前身となる「大地を守る市民の会」設立集会を開催する。生産者・消費者200人が集まってくれた。会場にはまだ駆け出しの毎日新聞記者・鳥越俊太郎さんの顔があったと聞いている。<sup id="fnref:daichi-history-4" role="doc-noteref"><a href="#fn:daichi-history-4" class="footnote" rel="footnote">4</a></sup></p>
+  </blockquote>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.daichi-m.co.jp/history/1057/" target="_blank">https://www.daichi-m.co.jp/history/1057/</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.daichi-m.co.jp/history/1057/" target="_blank">
+            <img src="https://www.daichi-m.co.jp/wp-content/uploads/2015/07/637b355282267b97676e224674d3c8ae.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.daichi-m.co.jp/history/1057/" target="_blank">【第5話】藤本敏夫・加藤登紀子の登場、そして伝説のフェアへ</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">【第5話】藤本敏夫・加藤登紀子の登場、そして伝説のフェアへ。大地を守る会の設立には至ったが、設立初期は困窮にあえぐときもあった。しかし藤本敏夫・加藤登紀子夫妻をはじめ、人に恵まれ開催した「無農薬農産物フェア」は評判を呼ぶこととなった。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.daichi-m.co.jp/history/1057/" target="_blank">www.daichi-m.co.jp</a>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    <p>1975年8月19日の「大地を守る市民の会」設立集会は、マスコミでも小さく取り上げられた。そのニュースを見てやってきたのが、藤本敏夫さんである。</p>
+    <p>藤本敏夫、元全学連委員長。「火の出るようなアジテーション、演説の天才だった」と藤田から聞かされたことがある。防衛庁突入なる過激な行動を指揮したカドでお縄を頂戴し、服役中に東大出身の歌手・加藤登紀子さんと結婚する。<sup id="fnref:daichi-history-5" role="doc-noteref"><a href="#fn:daichi-history-5" class="footnote" rel="footnote">5</a></sup></p>
+  </blockquote>
+  <h2 id="前衛的な社会運動としてのスタートアップ">前衛的な社会運動としてのスタートアップ</h2>
+  <p>活動家が具体的な運動論として「起業」という選択肢を選ぶことがある。「社会を変える」と口で言ってるだけのノンポリ起業家ではない。実際に社会を変えていく社会運動のビジョンがあり、その方法論として事業経営という手段が選ばれている。これが<strong>前衛的な社会運動としてのスタートアップ</strong>のあり方だ。</p>
+  <p>もちろん、みんながみんな前衛でなくてもいい。むしろ、前衛的な起業家なんて、いつの時代だって少数派でしかありえない。とはいえ、それにしても今の時代には少なすぎる。それでは世の中が良くならない。だいいち面白くもない。僕には「応援したい」と思える起業家がほとんどいなくなってしまった。「<strong>カウンターカルチャーとしてのスタートアップ</strong>」の文化は失われてしまったのだ。</p>
+  <p>そういう起業家が全くいないわけではない。しかし「文化」としては残っていない。この文化を復興するには、まさにこうした知識を伝えていかなければならないのだろうと思う。言論の力で起業家予備軍を啓蒙していくこと。それしかない。</p>
+  <h2 id="トムザッキー">トム・ザッキー</h2>
+  <p>現代の前衛起業家も紹介しておこう。現代の起業家にとってロールモデルとなりうる人物を。</p>
+  <p>まずはテラサイクルのトム・ザッキー氏だ。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.nikkei.com/article/DGXMZO57456440R30C20A3TL3000/" target="_blank">https://www.nikkei.com/article/DGXMZO57456440R30C20A3TL3000/</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.nikkei.com/article/DGXMZO57456440R30C20A3TL3000/" target="_blank">
+            <img src="https://cf-images.ap-northeast-1.prod.boltdns.net/v1/static/4504957054001/025924dc-0aa1-4085-a7b4-2389d5c7ee30/b7b4a615-a154-4ae4-b0b9-0af0207a4346/640x360/match/image.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.nikkei.com/article/DGXMZO57456440R30C20A3TL3000/" target="_blank">祖国と別れ、ごみと出合った　リサイクルの革命児: 日本経済新聞</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">「世の中から捨てるという概念をなくす。それが創業当初から一貫した我が社のパーパス（存在意義）だ」米テラサイクルの創業者で最高経営責任者（CEO）のトム・ザッキー（38）は相手の目を真っすぐ見つめて熱く語る。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.nikkei.com/article/DGXMZO57456440R30C20A3TL3000/" target="_blank">www.nikkei.com</a>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    <p>テラサイクルのミミズ堆肥は質のよさで評判を呼び、米ホームセンターのホーム・デポなど大手チェーンも販売する人気商品になった。事業は軌道に乗っていた。だが、ザッキーは満足できなかった。「生ごみをミミズに処理させているだけでは、社会からゴミはなくならない」。08年、ザッキーは周囲の反対を押し切り、ミミズ堆肥事業を売却。テラサイクルを「リサイクル困難と思われていた素材をリサイクル可能にする企業」に転換させた。</p>
+  </blockquote>
+  <p>上手くいっている事業を売却し、また新たなスタートアップに挑戦する。金儲けが目的ならば考えられないことだ。金儲けではないのだ。</p>
+  <blockquote>
+    <p>「資本主義が利益の奴隷なのはおかしい。利益は経営の健全性を示す指標にすぎない。企業の存在意義ではない」</p>
+  </blockquote>
+  <p>まさにその通りだ。企業の目的は利益を上げることではない。目的を実現するために利益が必要なだけだ。</p>
+  <p>僕が彼を知ったのは、サービスデザイン・グローバル・カンファレンス(SDGC)2019だった。彼の<a href="https://youtu.be/ChgIUcohsIY">キーノート</a>をトロントで聴き、大きな感銘を受けた。会場も湧いていた。彼の新たな容器再利用事業Loopは、グローバル企業のCEOらと共同で<a href="https://www.nikkei.com/article/DGXMZO40452320V20C19A1000000/">ダボス会議で発表</a>された<sup id="fnref:loop-tokyo" role="doc-noteref"><a href="#fn:loop-tokyo" class="footnote" rel="footnote">6</a></sup>。トム・ザッキー氏はミレニアル世代の若者を代表する前衛起業家だ。</p>
+  <h2 id="東浩紀">東浩紀</h2>
+  <p>1971年生まれの哲学者、東浩紀氏が創業した<a href="https://genron.co.jp/">株式会社ゲンロン</a>も、前衛的な社会運動としてのスタートアップだ：</p>
+  <blockquote>
+    <p>ゲンロンは、2010年4月に、批評家の東浩紀によって創業された小さな企業です。2020年4月で創立10周年を迎えます。</p>
+    <p>ゲンロンは、学会や人文書の常識には囚われない、領域横断的な「知のプラットフォーム」の構築を目指して創業されました。批評誌『ゲンロン』や単行本シリーズ《ゲンロン叢書》の刊行のほか、東京・五反田にあるイベントスペース「ゲンロンカフェ」の運営、友の会会員の交流事業、関連する放送プラットフォームの開発などを行っています。最先端の知を市民に開く公共的使命を担いつつも、助成金や補助金には頼らない独立の運営姿勢が高く評価され、多くのかたから支援をいただいています。</p>
+    <p>哲学（フィロソフィー）はもともと、古代ギリシア語で知（ソフィア）を愛する（フィロ）ことを意味する言葉でした。哲学の起源に戻り、知をふたたび愛されるものに変えること。それがゲンロンのミッションです。<sup id="fnref:genron-about" role="doc-noteref"><a href="#fn:genron-about" class="footnote" rel="footnote">7</a></sup></p>
+  </blockquote>
+  <p>ゲンロンは商売ありきの会社ではない。コンテンツ事業のために人文知という商材が選ばれたのではない。その逆で、思想を実践するために起業という手段が選ばれている。大学を辞め、在野にこだわる哲学者が、株式会社という組織形態を使って社会変革の前衛で闘っている。「最先端の知を市民に開く公共的使命を担いつつも、助成金や補助金には頼らない独立の運営姿勢」。まさにカウンターカルチャーとしてのスタートアップだ。<sup id="fnref:genron-counter-culture" role="doc-noteref"><a href="#fn:genron-counter-culture" class="footnote" rel="footnote">8</a></sup></p>
+  <p>今年、ゲンロンは独自の動画配信プラットフォーム「<a href="https://shirasu.io/">シラス</a>」を立ち上げた。驚くべきことだ。そんなものを作ろうと思ったら、数千万円は必要になるだろう。普通、哲学者は動画配信プラットフォームなど作らない。何のためにそんな事業を立ち上げるのか：</p>
+  <blockquote>
+    <p>ゲンロンを創業して10年。ゲンロンカフェを開業して7年。<br />
+      なぜ似た場所がもっと増えないのか、ずっと考え続けてきました。<br />
+      その疑問への答えがシラスです。<br />
+      いまのネットは、みなが自分の一部を切り売りして<br />
+      閲覧数を稼ぐしかなくなっています。<br />
+      だからみな同じ言葉しか発せられなくなっています。<br />
+      けれどもネットには別の可能性もあったはずです。<br />
+      ツイッターとニコ生が民主主義を更新すると（少なくとも一部では）<br />
+      信じられた時代があった。<br />
+      その理想をふたたび手繰り寄せるために、<br />
+      人間が人間でいられるための小さな空間を、泡のようにたくさん作りたい。<br />
+      シラスはそんな願いを込めて開発しました。<br />
+      シラスは広告モデルに頼りません。無料放送もしません。<br />
+      だから100万人に見られても意味がありません。<br />
+      いっときバズるよりも100人の心をしっかり掴む、<br />
+      そんな番組を作りたい配信者と、<br />
+      そんな番組を見たい観客をともに支援する<br />
+      プラットフォームを目指しています。<sup id="fnref:shirasu" role="doc-noteref"><a href="#fn:shirasu" class="footnote" rel="footnote">9</a></sup></p>
+  </blockquote>
+  <p>シラスというプラットフォームは、東氏の思想を実装したものだ。彼はアーキテクチャの力でインターネット上の言論環境を変えようとしている。だから、これは単なる伊達や酔狂ではなく、思想的な必然性のある事業なのだ。これぞ本質的な「デザイン」の営みだ。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://hideishi.com/blog/2013/12/03/semantic-turn.html" target="_blank">https://hideishi.com/blog/2013/12/03/semantic-turn.html</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://hideishi.com/blog/2013/12/03/semantic-turn.html" target="_blank">
+            <img src="https://hideishi.com/assets/blog/2013-12-03-semantic-turn/thumbnail.png" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://hideishi.com/blog/2013/12/03/semantic-turn.html" target="_blank">ユーザー・エクスペリエンスについて考える人に読んで欲しいクリッペンドルフの『意味論的転回−デザインの新しい基礎理論』</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">『意味論的転回』は、「デザインとは、そもそも何なのか？」という根源的な問いに答える哲学書でありつつ、実践的手法を紹介する本でもあります。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://hideishi.com/blog/2013/12/03/semantic-turn.html" target="_blank">hideishi.com</a>
+      </div>
+    </div>
+  </div>
+  <p>トム・ザッキー氏と東浩紀氏の活動について見てきた。彼らような前衛起業家がもっと必要だ。そのほうが社会はより良くなっていくし、なにより面白くなっていくはずだ。そうは思わないだろうか？</p>
+  <h2 id="前衛起業家の理論武装">前衛起業家の理論武装</h2>
+  <p>起業志望の若者へ提言しておきたい。まずは『<a href="https://morning.kodansha.co.jp/c/strangelessonsbyprofessorterror.html">テロール教授の怪しい授業</a>』を読んで、カルトや洗脳への免疫をつけておこう。これは大事な準備だ。軽い気持ちで社会運動に興味を持った結果、いつの間にかカルトに洗脳されることがある。彼らの勧誘は実に巧みなので、「自分は十分に賢いから大丈夫」と思っている者ほど危ない。多くの東大生がオウム真理教のテロリストになったことを思い出そう。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://morning.kodansha.co.jp/" target="_blank">https://morning.kodansha.co.jp/</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://morning.kodansha.co.jp/" target="_blank">
+            <img src="https://morning.kodansha.co.jp/content/images/c/strangelessonsbyprofessorterror/wide.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://morning.kodansha.co.jp/" target="_blank">テロール教授の怪しい授業</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">泣く子も黙るローレンツ・ゼミには、今年もそうとは知らない学生たちが集まっている。
+            「あなたたちはテロリスト予備軍です。」
+            予想だにしない一言に愕然とする生徒たち。脱落＝テロリスト認定。恐ろしすぎる授業が始まる——。
+            そもそもテロリズムとは何か？　日常に潜むテロの根っことは？
+            今までメディアで語られてきたテロ論は全部ウソ。テロ教授が教える、知るのは怖い、知らないのはもっと怖い「テロとカルト」の真実。
+          </div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://morning.kodansha.co.jp/" target="_blank">morning.kodansha.co.jp</a>
+      </div>
+    </div>
+  </div>
+  <p>その次は『<a href="https://www.eastpress.co.jp/goods/detail/9784781617466">全共闘以後</a>』だ。1968年以後の半世紀にわたる若者の運動史を学ぼう。時代時代の若者たちは、何に怒り、どのように闘ってきたか。それはほとんど失敗と敗北の歴史でもある。先人の失敗を繰り返さないためにも、歴史を学んでおきたい。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.eastpress.co.jp/goods/detail/9784781617466" target="_blank">https://www.eastpress.co.jp/goods/detail/9784781617466</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.eastpress.co.jp/goods/detail/9784781617466" target="_blank">
+            <img src="https://www.eastpress.co.jp:443/img/cover_image_l/9784781617466.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.eastpress.co.jp/goods/detail/9784781617466" target="_blank">書籍詳細 - 改訂版　全共闘以後｜イースト・プレス</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">1968年の全共闘から50年。1972年の連合赤軍事件を境に学生運動は急速に退潮し、その後は「シラケでバブルでオタクでサブカル」の時代――。そんな歴史認識は間違っている！　70年代以降も若者たちの社会運動・学生運動は、ほぼ10年おきに高揚していた。ただ、それらを一貫した視点で記述した「通史」が存在せず、これまで不可視になっていたのである。全共闘以後50年の歴史を新しく塗りかえる著者渾身の原稿用紙1000枚超の大冊！　絓秀実氏、推薦。菅野完氏、解説。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.eastpress.co.jp/goods/detail/9784781617466" target="_blank">www.eastpress.co.jp</a>
+      </div>
+    </div>
+  </div>
+  <p>いま起業する人にとって、パーソナル・コンピューターやインターネットは不可欠なツールだ。では、それらは歴史的にどういうものとして構想され、実現され、普及してきたのか。その歴史を理解することは、これらのツールの本質を理解する上でも極めて有意義なことだ。カウンターカルチャー史としてのパーソナル・コンピューター史、インターネット史を語ったことがある。そのための<a href="https://www.evernote.com/shard/s7/client/snv?noteGuid=90040ece-63fb-4ce8-bf06-d0ede90b2705&amp;noteKey=97c03a8c0100d956&amp;sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs7%2Fsh%2F90040ece-63fb-4ce8-bf06-d0ede90b2705%2F97c03a8c0100d956&amp;title=%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E6%258C%2587%25E5%2590%2591%25E5%25B9%25BB%25E8%25A6%259A%25E5%2589%25A4%2B%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25AE%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BD%25E3%2583%258A%25E3%2583%25AB%25E3%2583%25BB%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2594%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E5%25B0%258F%25E5%258F%25B2%25EF%25BC%2588%25E4%25BB%25AE%25EF%25BC%2589">年表</a>も用意した。いずれバージョンアップして再演したい。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.zerobase.jp/salon/2019/12/01/object-oriented-psychedelics.html" target="_blank">https://www.zerobase.jp/salon/2019/12/01/object-oriented-psychedelics.html</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.zerobase.jp/salon/2019/12/01/object-oriented-psychedelics.html" target="_blank">
+            <img src="https://www.zerobase.jp/salon/images/2019-12-01-object-oriented-psychedelics.png" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.zerobase.jp/salon/2019/12/01/object-oriented-psychedelics.html" target="_blank">オブジェクト指向幻覚剤 カウンターカルチャーとしてのパーソナル・コンピューティング小史（仮）</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">2019年12月1日、Fukuoka Growth NextにてFGNエンジニアMeetup vol. 4に当社代表の石橋が登壇した際の記録映像を公開しました。タイトルは「オブジェクト指向幻覚剤 カウンターカルチャーとしてのパーソナル・コンピューティング小史（仮）」といいます。やばい歴史の話です。やばい年表もあります。
+          </div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.zerobase.jp/salon/2019/12/01/object-oriented-psychedelics.html" target="_blank">www.zerobase.jp</a>
+      </div>
+    </div>
+  </div>
+  <p>大地を守る市民の会が発足した時代、ローマクラブ『成長の限界』(1972)が世界的に話題となっていた。その主執筆者ドネラ・H・メドウズは、のちにシステム思考の啓蒙書を書いている。その知恵は起業家の武器になるはずだ。「社会問題の元凶はXだ」と考えてXを叩いた結果、問題は解決するどころかむしろ悪化することがある。問題の理解が表層的なまま、解決策を考えてはいけない。物事はそう単純ではない。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://eijipress.ocnk.net/product/449" target="_blank">https://eijipress.ocnk.net/product/449</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://eijipress.ocnk.net/product/449" target="_blank">
+            <img src="https://eijipress.ocnk.net/data/eijipress/product/20150127_d0f053.gif" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://eijipress.ocnk.net/product/449" target="_blank">世界はシステムで動く――いま起きていることの本質をつかむ考え方</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">『世界がもし100人の村だったら』『成長の限界』ドネラ・H・メドウズに学ぶ「氷山の全体」を見る技術。株価の暴落、資源枯渇、価格競争のエスカレート…さまざまな出来事の裏側では何が起きているのか?　　 「…</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://eijipress.ocnk.net/product/449" target="_blank">eijipress.ocnk.net</a>
+      </div>
+    </div>
+  </div>
+  <p>もちろん、基礎教養として、人文知の諸分野にも幅広く興味を持ってほしい。そうすることで、様々な社会問題への意識が高まり、その問題を解決するための事業構想も湧いてくる。</p>
+  <p>教養が足りない者には、その存在も知覚できないし、その意味も理解できないような問題というものがある。複雑な問題の全体像を多角的に理解することなしに、その解決などできるはずもない。誤った「解決」は、しばしば現状維持にも劣る。これは保守主義の知恵だ。急進的な改革や革命の失敗を反面教師としつつ、先に進まなければならない。</p>
+  <h2 id="あとがき">あとがき</h2>
+  <p>このようなことを来客に話したら、「スタートアップのための思想史・運動史」を講義してくれと言われた。確かにそういう啓蒙活動が必要なのだろう。僕なりにやってきたけれど、質・量ともにまったく足りない。もっと勉強して、きちんと体系化して、なにより面白がってもらえるコンテンツにして伝えていきたいと思う。</p>
+  <p>そして最後に、この文章を読んだ人なら誰でも抱くであろう疑問に応えておかなければならない。「偉そうに語っているけど、お前自身は何かやってるの？」という問いに。何かを批判する者は、その同じ批判によって自らもまた批判されなければならないのだ。</p>
+  <p>僕自身のプロジェクトについては、<a href="/">このサイト</a>に書いてある通り。中でも<a href="https://www.zerobase.jp/za/">セルフマネジメントテクノロジー Za</a>は、近代的な企業経営のイデオロギーを批判し、そこから人々を自由にするためのプロジェクトであり、僕のライフワークだ<sup id="fnref:za" role="doc-noteref"><a href="#fn:za" class="footnote" rel="footnote">10</a></sup>。まだ偉大な成果を出すには至っていない。自社では10年を超える実践の蓄積があるが、まだ世に出せてはいない。まだまだこれから。まさにスタートアップの段階にある。</p>
+  <p>それはさておき、「成功した経営者の言うことは正しいに違いない」という<a href="https://kotobank.jp/word/%E5%BE%8C%E5%85%89%E5%8A%B9%E6%9E%9C-64519">ハロー効果</a>のバイアスには注意が必要だ。僕がこの文章で論じたことは、「金が儲かる経営術」や「組織を大きくする経営術」ではない。むしろ、単なる金儲けや規模拡大とは異なる、オルタナティブなスタートアップのあり方を論じた。したがって、僕にはこの問題について論じる資格があると思うのだが、あとは読者の判断に委ねたい。</p>
+  <hr />
+  <p>僕がこんな<a href="/blog/">ブログ</a>を書いたり、あちこちで講演などの<a href="/activity/">活動</a>をしたり、<a href="/podcast/">Podcast</a>したり、<a href="https://www.youtube.com/channel/UCacqUBssrpC-_0gjNRJ98RA">YouTube動画</a>を配信したり、<a href="https://www.zerobase.jp/salon/">前衛的なサロン</a>を運営したりしているのは、<strong>物事を深く考えて物を作る仲間</strong>を増やしたいからだ。興味を持ってフォローしてもらえると嬉しい。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.zerobase.jp/salon/2019/05/25/hardcore-oo.html" target="_blank">https://www.zerobase.jp/salon/2019/05/25/hardcore-oo.html</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.zerobase.jp/salon/2019/05/25/hardcore-oo.html" target="_blank">
+            <img src="https://www.zerobase.jp/salon/images/2019-05-25-hardcore-oo-thumbnail.png" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.zerobase.jp/salon/2019/05/25/hardcore-oo.html" target="_blank">オブジェクト指向のハードコア</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">オブジェクト指向のハードコアは2019年5月25日にゼロベースサロンで行われたイベントです。「オブジェクト指向」というキーワードについて、プログラミング、デザイン、哲学などの分野を横断しつつ知的な議論ができました。記録映像は必見。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.zerobase.jp/salon/2019/05/25/hardcore-oo.html" target="_blank">www.zerobase.jp</a>
+      </div>
+    </div>
+  </div>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://hideishi.com/blog/2014/04/25/future-of-information-architect.html" target="_blank">https://hideishi.com/blog/2014/04/25/future-of-information-architect.html</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://hideishi.com/blog/2014/04/25/future-of-information-architect.html" target="_blank">
+            <img src="https://hideishi.com/assets/blog/2014-04-25-future-of-information-architect/thumbnail.png" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://hideishi.com/blog/2014/04/25/future-of-information-architect.html" target="_blank">建築家の歴史と情報建築家の未来</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">情報建築家（インフォメーション・アーキテクト）は、どこから来て、どこへ向かうのか。建築家の歴史を辿りつつ考えました。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://hideishi.com/blog/2014/04/25/future-of-information-architect.html" target="_blank">hideishi.com</a>
+      </div>
+    </div>
+  </div>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://hideishi.com/blog/2015/08/03/consulting-for-startups.html" target="_blank">https://hideishi.com/blog/2015/08/03/consulting-for-startups.html</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://hideishi.com/blog/2015/08/03/consulting-for-startups.html" target="_blank">
+            <img src="https://hideishi.com/assets/blog/2015-08-03-consulting-for-startups/thumbnail.png" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://hideishi.com/blog/2015/08/03/consulting-for-startups.html" target="_blank">アーキテクトが起業家やベンチャー企業のためにできること</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">特定分野の専門家としてのコンサルティングではなく、総合的なプライマリ・ケアができます。また、エコシステムへの思考や、SF的想像力を呼びおこすことで、事業を大きく構想するためのお手伝いができます。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://hideishi.com/blog/2015/08/03/consulting-for-startups.html" target="_blank">hideishi.com</a>
+      </div>
+    </div>
+  </div>
+  <div class="footnotes" role="doc-endnotes">
+    <ol>
+      <li id="fn:season-of-politics" role="doc-endnote">
+        <p>実際には、全共闘以後も若者の運動は続いていた。それが外山恒一著『<a href="https://www.eastpress.co.jp/goods/detail/9784781617466">全共闘以後</a>』の主張だ。しかし、一般にはそう思われていない。2015年のSEALDsですら、1968年とは比較にならない。その意味で、やはり「政治の季節」は全共闘で終わっている。 <a href="#fnref:season-of-politics" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:zensho" role="doc-endnote">
+        <p>全共闘の活動家だった小川賢太郎氏はゼンショーを創業した。すき家は日本を代表する外食チェーンの一つにまで成長した。そのゼンショーが<a href="https://withnews.jp/article/f0140731009qq000000000000000W00a1001qq000010545A">労働者を搾取する企業</a>に成り果ててしまった。資本家を打倒して労働者のユートピアを作るという革命の夢を見た若者は、どこで道を誤ってしまったのだろうか。 <a href="#fnref:zensho" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:daichi-history-1" role="doc-endnote">
+        <p><a href="https://www.daichi-m.co.jp/history/572/">戎谷徹也「大地を守る会40年の歩み【第1話】 目標は「大地を守る会」を消滅させること！」</a>より引用 <a href="#fnref:daichi-history-1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:daichi-history-4" role="doc-endnote">
+        <p><a href="https://www.daichi-m.co.jp/history/980/">戎谷徹也「大地を守る会40年の歩み【第4話】大地を守る会は「希望」であり続けているか」</a>より引用 <a href="#fnref:daichi-history-4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:daichi-history-5" role="doc-endnote">
+        <p><a href="https://www.daichi-m.co.jp/history/1057/">戎谷徹也「大地を守る会40年の歩み【第5話】藤本敏夫・加藤登紀子の登場、そして伝説のフェアへ」</a>より引用 <a href="#fnref:daichi-history-5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:loop-tokyo" role="doc-endnote">
+        <p>Loopは<a href="https://www.sustainablebrands.jp/news/jp/detail/1195100_1501.html">2020年秋から東京でも試験運用が始まる予定</a>になっていた。実際には2020年10月時点でサービスが開始されていない。新型コロナウイルス感染症(COVID-19)の影響だろう。 <a href="#fnref:loop-tokyo" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:genron-about" role="doc-endnote">
+        <p><a href="https://genron.co.jp/about">「株式会社ゲンロン 会社概要」（代表 上田洋子、創業者 東浩紀）</a>より引用 <a href="#fnref:genron-about" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:genron-counter-culture" role="doc-endnote">
+        <p>東浩紀氏自身は<a href="https://genron-cafe.jp/event/20201025b/">2020年10月25日の放送</a>で自身を「オルタナティブ」の側に位置付け、「カウンター」と区別している。つまり、狭義のカウンターの目的が究極的には権力奪取（革命）であるのに対して、オルタナティブの目的は我が道を行くこと（独立）である。それはそれとして、一般的には「カウンター」と言えばオルタナティブも含む広義の批判的立場を意味するので、本文でもゲンロンを「カウンター」という括りに入れた。逆に言えば、本文全体にわたって「カウンター」という言葉にはオルタナティブの意味も込めている。 <a href="#fnref:genron-counter-culture" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:shirasu" role="doc-endnote">
+        <p><a href="https://shirasu.io/">「シラス 開設にあたって」（シラス代表 東浩紀）</a>より引用 <a href="#fnref:shirasu" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:za" role="doc-endnote">
+        <p>セルフマネジメントテクノロジー Za は、昨今ブームのホロクラシーなどとは本質的に異なる「自営の思想」だ。また改めて論じたいが、それ以上に、言葉ではなくプロダクトとして世に問いたい。僕のモットーは「<a href="/about/philosophy.html">思想を実装する</a>」だから。 <a href="#fnref:za" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+    </ol>
+  </div>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[Account Code 5 勉強会でセルフマネジメントテクノロジーZaについて講演しました]]></title>
+  <link href="https://hideishi.com/activity/2020/09/11/account-code-5.html"/>
+  <updated>2020-09-11T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2020/09/11/account-code-5</id>
+  <content type="html"><![CDATA[<p>IT を武器に経営企画・経理・人事・営業などの計数管理に携わる人のためのコミュニティ Account Coders のイベント <a href="https://fp-coders.connpass.com/event/186395/">Account Code 5</a> で、<a href="https://www.zerobase.jp/za/">セルフマネジメントテクノロジーZa</a>について講演しました。</p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[新型コロナウイルス接触追跡アプリのための倫理的指針]]></title>
+  <link href="https://hideishi.com/blog/2020/05/26/ethical-guidelines-for-contact-tracing-apps.html"/>
+  <updated>2020-05-26T00:00:00+00:00</updated>
+  <id>https://hideishi.com/blog/2020/05/26/ethical-guidelines-for-contact-tracing-apps</id>
+  <content type="html"><![CDATA[<p><img src="/assets/blog/2020-05-26-ethical-guidelines-for-contact-tracing-apps/contact-tracing-app.png" alt="接触追跡アプリのイラスト" /></p>
+  <blockquote class="big-quote">
+    <p>失敗の繰り返しや高過ぎるコストが市民の信頼を裏切ることにつながる以上、政府には正しく介入するチャンスがただの一度しか与えられていないというべきです。</p>
+  </blockquote>
+  <h2 id="訳者まえがき">訳者まえがき</h2>
+  <p>COVID-19のパンデミックは当面収束の目処が立たず、第二波・第三波の到来も予見されている中で、各国は接触追跡アプリの開発に取り組んでいます。日本でも「接触確認アプリ」の開発が発表されました。安倍首相は5月25日に緊急事態宣言を全国で解除し、<a href="https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html">記者会見</a>で接触確認アプリの利用を広く呼びかけました：</p>
+  <blockquote>
+    <p>　こうした取組を重ねてもなお、感染者の増加スピードが再び高まり、最悪の場合には、残念ながら２度目の緊急事態宣言発出の可能性もあります。しかし、私は、外出自粛のような社会経済活動を制限するようなやり方はできる限り避けたいと考えています。市中感染のリスクを大きく引き下げていけば、それが可能となります。</p>
+    <p>　そして、そのためには、感染者をできるだけ早期に発見するクラスター対策を一層強化することが必要です。その鍵は、接触確認アプリの導入です。スマートフォンの通信機能により、陽性が判明した人と一定時間近くにいたことが判明した方々、すなわち濃厚接触の可能性が高い皆さんに自動的に通知することで、早期の対策につなげるアプリです。</p>
+    <p>　先月、オックスフォード大学が発表したシミュレーションによれば、このアプリが人口の６割近くに普及し、濃厚接触者の早期の隔離につなげることができれば、ロックダウンを避けることが可能となる大きな効果が期待できるという研究があります。我が国では、個人情報は全く取得しない、安心して使えるアプリを、来月中旬をめどに導入する予定です。どうか多くの皆さんに御活用いただきたいと思います。</p>
+  </blockquote>
+  <p>このように接触追跡アプリの効果に期待が寄せられる一方、プライバシー上の問題が多くの専門家から指摘されています。この4月にオックスフォード・インターネット研究所とアラン・チューリング研究所に所属する四人の研究者たちは共同で新型コロナウイルス接触追跡アプリのための倫理的指針（ガイドライン）を発表しました。共著者には情報倫理学で知られるルチアーノ・フロリディ教授がいます<sup id="fnref:fn-floridi" role="doc-noteref"><a href="#fn:fn-floridi" class="footnote" rel="footnote">1</a></sup>。この指針は、情報倫理上の様々な論点を含む包括的なフレームワークです。日本版「接触確認アプリ」の設計・実装・運用を市民が監視・検証する上でも、この指針が役に立つはずです。</p>
+  <p>以下に掲載するのは、あくまでも抄訳かつ意訳です。訳出を省略した箇所もありますので、正確な内容については原文をあたってください。全体で6ページの短い論文です。訳出の底本としては5月24日付でフロリディ教授から直接ご提供頂いた版を用いました。現時点で公開されている版とは差異があるかもしれません。以上、ご了承ください。［追記：<a href="https://www.nature.com/articles/d41586-020-01578-0">5月28日付の別バージョンがNatureに掲載されました。</a>］</p>
+  <p>なお、この論文で “Digital Tracking and Tracing (DTT) Systems” と呼ばれているものは、一般的には “contact tracing apps” （接触追跡アプリ）と呼ばれています。また、日本政府が開発中のものは「接触確認アプリ」と呼ばれています。各国の状況については<a href="https://news.yahoo.co.jp/byline/kazuhirotaira/20200515-00178594/">平和博氏の5月15日の記事</a>で詳しく紹介されています。</p>
+  <p>［抄訳ここから］</p>
+  <p>Ethical Guidelines for SARS-CoV-2 Digital Tracking and Tracing Systems<br />
+    by Jessica Morley, Josh Cowls, Mariarosaria Taddeo, Luciano Floridi<br />
+    Available at SSRN: <a href="https://ssrn.com/abstract=3582550">https://ssrn.com/abstract=3582550</a> or <a href="http://dx.doi.org/10.2139/ssrn.3582550">http://dx.doi.org/10.2139/ssrn.3582550</a></p>
+  <h1 id="サマリー">サマリー</h1>
+  <p>世界保健機関は目下の新型コロナウイルス(SARS-CoV-2)が第二次世界大戦以来最大の世界的危機を引き起こしたとして2020年3月11日にCOVID-19のグローバル・パンデミックを宣言しました。この記事では、感染の可能性がある個人を追跡するデジタルシステムの使用が、単に合法であるだけでなく倫理的であるかどうか、およびどの程度まで倫理的なのかを評価するためのフレームワークを提示します。デジタル追跡システムは、基本的人権と自由を厳しく制限する可能性がありますが、それらが倫理的に正当化できること、つまり社会の期待や価値観と一致していることを保証するためには、なんら指針のないまま展開されるべきではありません。介入は特定の公衆衛生目標を達成するために<strong>必要</strong>でなければならず、公衆衛生上の脅威の深刻さに<strong>比例</strong>しなければならず、その有効性を支持するために<strong>科学的に正しく</strong>なければならず、<strong>時限的</strong>でなければなりません(<a href="#ref1">1</a>, <a href="#ref2">2</a>)。それでもなお十分とは言えません。この論文では、倫理的なDTTシステムの設計と開発をガイドする12の要素を含む、より包括的なフレームワークを提示します。</p>
+  <h1 id="covid-19-dttシステムの倫理的リスク">COVID-19 DTTシステムの倫理的リスク</h1>
+  <p>COVID-19パンデミックによって物質空間とデジタル空間の両方における政府の異常な介入が余儀なくされました。物質空間においては移動や集会の自由を制限し、デジタル空間においては大量のデータを収集して有効な対策を導き出すために。COVID-19 Digital Rights Trackerによると世界中で43の接触追跡アプリが利用可能となっています（4月20日時点）(<a href="#ref3">3</a>, <a href="#ref4">4</a>)。これらのシステムの中には、位置情報や健康状態（症状、感染確認）などの個人情報や、他者との接触情報を収集しうるものも含まれます。危機の拡大に伴ってDTTシステムの開発を求める声も増え続けています。欧州だけでも、欧州データ保護監督当局が欧州統一アプリを呼びかけました(<a href="#ref5">5</a>)。欧州委員会はDTTシステムの開発を支援する「ツールボックス」を定義しました(<a href="#ref6">6</a>)。PEPP-PTやDP-3Tなどのプロトコルは欧州レベルで開発中です(<a href="#ref7">7</a>)。イタリアは接触追跡アプリを開発中です(<a href="#ref8">8</a>)。英国NHSXも同等のアプリを計画中です(<a href="#ref9">9</a>, <a href="#ref10">10</a>)。一方、アップルとグーグルは、世界中での接触追跡を支援するAPIとOSレベルの技術に共同で取り組んでいます(<a href="#ref11">11</a>)。</p>
+  <p>COVID-19の潜伏期間の長さと、無症状者からの感染拡大のリスクを踏まえれば、DTTシステムが潜在的感染者の自主隔離を促進することで、パンデミックの早期収束に貢献する可能性はあります(<a href="#ref6">6</a>, <a href="#ref12">12</a>-<a href="#ref14">14</a>)。この場合、ある程度の基本的人権や自由の制限も倫理的に正当化され得ます。同様に、DTTシステムを<strong>使わないこと</strong>が非倫理的となり得るかもしれません。しかし、それには個別具体的なDTTシステムの倫理的側面の入念な検討を要します。とは言え、状況が刻々と変わる中での分析は困難です。政府がパンデミックへの緊急対応に取り組む中、倫理的な考察など表面的で二の次だと見られてしまえば、より一層の困難につながります。ですが、倫理的に正当化し得ないDTTシステムの開発は、無駄なだけでなく、危険でさえあります。社会的混乱、ネットリンチ、政府や公衆衛生当局への信頼低下も、問題を深刻化します。さらには、接触追跡アプリにより収集されたパーソナル・データが、それ以外の非倫理的な用途に用いられることで、深刻かつ不可逆なインパクトをもたらす危険性もあります。したがって、このようなグローバル危機の時にあっても、倫理的リスクを考慮し、それらを回避・最小化するための適切な指標を持たなければなりません。</p>
+  <h1 id="倫理的に正当化しうるdttシステム設計開発指針">倫理的に正当化しうるDTTシステム設計開発指針</h1>
+  <p>EUや国連の様々な原理原則<sup id="fnref:fn-principles" role="doc-noteref"><a href="#fn:fn-principles" class="footnote" rel="footnote">2</a></sup>が、感染症の拡大を抑えるための基本的人権の制限は<strong>時限的</strong>で、<strong>必要性</strong>・<strong>比例原則</strong>・<strong>科学的正しさ</strong>の基準を満たすべきだとしています。我々もまたDTTシステムはこれらの原理原則に依拠すべきだと考えます。これらの基礎の上に、DTTシステムの倫理的正当性を評価するための16の問いを開発しました。</p>
+  <p>フレームワーク（図1）は<strong>高次原則</strong>と<strong>実現要因</strong>に分かれています。高次原則は先述の4項目であり、「<strong>正しい</strong>DTTシステムが開発されていますか？」という問いになります（エンジニアリングでは製品の「妥当性確認」（バリデーション）として知られます）。一方、実現要因は、より具体的なDTTシステムについての、「<strong>正しく</strong>開発されていますか？」という問いになります（エンジニアリングでは製品の「検証」（ベリフィケーション）として知られます）。実現要因は、長年の普遍的な高次原則（<strong>何を？</strong>）を、DTTシステムの設計者と展開者のための実用的で現場的な配慮事項（<strong>どのようにして？</strong>）に翻訳します。実際のDTTがどの程度倫理的に正当化しうるものかの目安として、それぞれの問いへの回答に「＋」（より良い）と「ー」（より悪い）のマークを付けました。達成すべき倫理的基準が（理論的に、可変のものとして）存在しますが、達成度は単なる「＋」の数だけでなく、様々な状況（コンテキスト）を踏まえた上で評価されなければなりません。その判断は最終的には政治的なものとなります。DTTシステムの展開における様々なコンテキスト次第で倫理的正当性は変わりやすく、例えばシンガポールのようにデジタル・リテラシーが高い小国で正当化できるアプリを、人口が多くデジタル・デバイドが深刻な英国に持っていくことはできないでしょう。また、パンデミックの状況や人々の態度が変わることで、昨日は倫理的に正当化できたことが、明日には正当化できなくなってしまうかもしれません。したがって、この指針の問いは定期的に繰り返されるべきです。</p>
+  <p>図1. DTTシステムの倫理的設計を確認するためのフレームワーク</p>
+  <p>［図1ここから］</p>
+  <h2 id="dttが倫理的に正当化できる範囲を決定するための質問">DTTが倫理的に正当化できる範囲を決定するための質問</h2>
+  <h3 id="高次原則質問に答えてください正しいdttシステムが開発されていますか">高次原則（質問に答えてください：正しいDTTシステムが開発されていますか？）</h3>
+  <h4 id="1-必要な解決策ですか">1) 必要な解決策ですか？</h4>
+  <p>+ はい、人命を救うためにアプリを開発する必要があります。</p>
+  <p>- いいえ、より良い解決策が利用できます。</p>
+  <h4 id="2-それは問題に比例した解決策ですか">2) それは問題に比例した解決策ですか？<sup id="fnref:fn-prop" role="doc-noteref"><a href="#fn:fn-prop" class="footnote" rel="footnote">3</a></sup></h4>
+  <p>+ はい、DTTシステムの潜在的な悪影響は、状況の深刻さによって正当化されます。</p>
+  <p>- いいえ、DTTシステムの潜在的な負の影響は状況に不釣り合いです。</p>
+  <h4 id="3-科学的に正しいですか">3) 科学的に正しいですか？</h4>
+  <p>i) 効果的になりますか？<br />
+    ii) タイミングは「正しい」ですか？<br />
+    iii) 採用率は十分に高くなりますか？<br />
+    iv) 正確になりますか？</p>
+  <p>+ はい、システムが機能し、タイムリーな解決策であり、十分な数の人々に採用され、正確なデータとインサイトをもたらすであろうとエビデンスが示しています。</p>
+  <p>- いいえ、アプリはうまく機能せず、稼動は遅すぎるか早すぎて、広く採用されることはなく、（偽陽性や偽陰性が多すぎて）正確性において不十分なデータを収集しそうです。</p>
+  <h4 id="4-一時的なものですか">4) 一時的なものですか？</h4>
+  <p>+ はい、明示的かつ合理的なサンセット条項<sup id="fnref:fn-sunset" role="doc-noteref"><a href="#fn:fn-sunset" class="footnote" rel="footnote">4</a></sup>があります。</p>
+  <p>- いいえ、終了日は定義されていません。</p>
+  <h3 id="実現要因質問に答えてくださいdttシステムは正しく開発されていますか">実現要因（質問に答えてください：DTTシステムは正しく開発されていますか？）</h3>
+  <h4 id="5-自発的ですか">5) 自発的ですか？</h4>
+  <p>+ はい、アプリのダウンロードとインストールは任意です。</p>
+  <p>- いいえ、無駄に義務化されており、従わなければ制裁が適用されるかもしれません。</p>
+  <h4 id="6-同意が必要ですか">6) 同意が必要ですか？</h4>
+  <p>+ はい、いつどのデータが共有されるかは完全にユーザーの選択に委ねられていますし、その選択はいつでも変更できます。</p>
+  <p>- いいえ、アプリのデフォルトのデータ設定は「ずっとすべてを共有」ですし、この設定を変更することはできません。</p>
+  <h4 id="7-データは非公開にされユーザーの匿名性は保たれますか">7) データは非公開にされ、ユーザーの匿名性は保たれますか？</h4>
+  <p>+ はい、データは完全に匿名で、ユーザーの電話上にのみ保存されます。接触したとされる相手には、感染につながる恐れのある接触があったことのみが通知され、どこの誰かは通知されません。これを保証するため、差分プライバシーなどの手法が用いられます。サイバー・レジリエンスは高いです。<sup id="fnref:fn-cyber-resilience" role="doc-noteref"><a href="#fn:fn-cyber-resilience" class="footnote" rel="footnote">5</a></sup></p>
+  <p>- いいえ、データ収集レベルの問題で、データは完全に（再）識別可能であり、集中的に保存されています。接触場所も利用可能です。サイバー・レジリエンスは低いです。</p>
+  <h4 id="8-ユーザーはデータを消去できますか">8) ユーザーはデータを消去できますか？</h4>
+  <p>+ はい、ユーザーは自分の意思でデータを削除できますし、いずれにせよ全てのデータがサンセット時に削除されます。（問4参照）</p>
+  <p>- いいえ、データを削除する手段はありませんし、データが削除される保証もありません。</p>
+  <h4 id="9-目的は定義されていますか">9) 目的は定義されていますか？</h4>
+  <p>+ はい、明確に定義されています。感染が確認された人と接触した場合にのみ個人に通知されます。必須データ（確認された健康状態と接触時刻）のみが収集されます。</p>
+  <p>- いいえ、利用規約は緩やかに定義されており、データが二次的な、ほとんど関連性がない目的に使用されないという保証はありません。収集されたデータは他のデータベースと組み合わされるかもしれません。ユーザーが制御できず、透明性もなく、複数のデータソースが収集されるかもしれません。</p>
+  <h4 id="10-目的は限定されていますか">10) 目的は限定されていますか？</h4>
+  <p>+ はい、アプリは感染の追跡という目的にのみ用いられます。</p>
+  <p>- いいえ、アプリは定期的に更新され、機能追加される可能性があります。</p>
+  <h4 id="11-予防のためだけに使用されますか">11) 予防のためだけに使用されますか？</h4>
+  <p>+ はい、このアプリは人々の自発的な拡散防止のためだけに使用されます。（「曲線の平坦化」）</p>
+  <p>- いいえ、アプリは人々が福利厚生を申請したり、職場に戻ったりできるようにするためのパスポートとしても使用されます。（「第二波への備え」）</p>
+  <h4 id="12-従わせるために使用されますか">12) 従わせるために使用されますか？</h4>
+  <p>+ いいえ、アプリは人々に行動を強制するためには用いられません。</p>
+  <p>- はい、アプリは人々の行動を監視するために使用され、従わない人は罰せられる可能性があります。（罰金や勾留・禁固刑により）</p>
+  <h4 id="13-オープンソースですか">13) オープンソースですか？</h4>
+  <p>+ はい、アプリのソースコードは公開され、設計のすべての側面が検査でき、共有でき、コラボレーションによる改善が促進されます。</p>
+  <p>- いいえ、アプリのソースコードは利用できません。また、アプリに関する情報が他の形式で提供されることもありません。</p>
+  <h4 id="14-平等に利用できますか">14) 平等に利用できますか？</h4>
+  <p>+ はい、アプリはダウンロードして使用したい人に無料で広く配布されています。</p>
+  <p>- いいえ、アプリは選択されたユーザーにのみ恣意的に提供されます。</p>
+  <h4 id="15-平等にアクセスできますか">15) 平等にアクセスできますか？</h4>
+  <p>+ はい、アプリは技術に詳しくない人にもユーザー・フレンドリーであり、できる限り広汎な携帯電話で動作します。</p>
+  <p>- いいえ、アプリを使用できるのは、特定の携帯電話を持ち、特定のデジタル・エコシステムの一部に属し、十分なデジタル教育を受けている人だけです。</p>
+  <h4 id="16-システムを廃止する終末プロセスはありますか">16) システムを廃止する終末プロセスはありますか？</h4>
+  <p>+ はい、アプリの正式な廃止処理のための明確なロードマップがあります。</p>
+  <p>- いいえ、アプリのライフサイクルの最終段階を管理するための適切なポリシーはありません。</p>
+  <p>［ここまで図1］</p>
+  <p>DTTシステムの倫理的正当性は状況に依存しますので、システムの（企画から廃棄までの）全ライフサイクルと、パンデミックの進展も考慮に入れる必要があります。例えば、アプリの利用が任意であるという性質について、状況によっては一考の余地があります。科学的な有効性を獲得するためにはアプリの利用率が人口の60%に達しなければなりませんが、人々の自発性に任せて利用率が20%に止まったとしたら（アクセスしにくさや信頼不足などの理由で）どうでしょうか。利用率の低さは、単にシステムの有効性を無くすだけでなく、間違った安心感を与えたり、個人特定のリスクを高めたり、プライバシーを毀損したり、ネットリンチの恐れを高めたりします。紙上の設計では倫理的に正当だと思えたものが、効果がないだけでなく、必要性もなければ、（比例性を満たさない）不釣り合いなものにもなるのです。同様に、アプリがサイバー攻撃に曝されれば、良くて効果がない、悪ければ危険なシステムに成り下がります。これらの理由から、DTTシステムがもはや必要でない、有用でない、倫理的に正当でない状況になったときのために、適切な出口戦略が必要です（問16）。システムが失敗したら、速やかにその出口戦略を実行しなければなりません。<strong>いつまでに</strong>するかという明確な期限と、<strong>誰が</strong>プロジェクト全体を評価し、必要なら停止したり、改善したり、刷新したりするのかの明確な取り決めも、極めて重要です。</p>
+  <h1 id="上手くやるチャンスは一度だけ">上手くやるチャンスは一度だけ</h1>
+  <p>普通でないときには普通でない手段が必要です。とはいえ、深刻な危機が何もかもを正当化するわけではありません。フィジカルとデジタル両方の空間において、基本的人権と自由は依然として保護されるべきであり、その保護を確かなものにするためのガイダンスが速やかに必要です。</p>
+  <p>すでに見てきたように、必要性、比例性、科学的正しさ、時限性の4原則を満たすDTTシステムの倫理的正統性は、追加で定義した12個の実現要因をどの程度満たしたかにも依存します。たとえDTTシステムの方法論や、正当性や、理論的アプローチが［4原則において］妥当（バリッド）でも、実際の状況を鑑みて［12要因において］設計案の正しさを検証（ベリファイ）できないなら、そのシステムを使うべきではありません。というのも、DTTシステムを稼働させるか否かの選択において直面している状況とは、上手くいけば賞賛され、失敗すれば特に害はないといった「どちらに転んでも構わない」ような状況ではないからです。粗末な設計や限定的な検証にも関わらずDTTを稼働させようとする政府は、「なんでもやってみよう」の精神を示すためにそうしようとするのであり、それゆえ批判を無視し、あらゆる犠牲を払ってでもやりかねません。これは危機の時にあっては危険なことです。間違ったDTTシステムがもたらす外部性には、基本的人権や自由への害も含まれます。これは将来の政府にも禍根を残します。COVID-19状況においては、（あらゆる意味での）コストは高く、「外部性」として無視できません。それは現在の人口と政府を深く速く直撃し、問題全体を悪化させる恐れがあります。なぜなら、倫理的に正しくない類いのDTTシステムは、単に効果がないだけでなく、解決しようとしている問題それ自体を劇化させるかもしれないからです。失敗の繰り返しや高過ぎるコストが市民の信頼を裏切ることにつながる以上、政府には正しく介入するチャンスがただの一度しか与えられていないというべきです。倫理的分析は、リスクと機会に光を当て、緊急の意思決定を、社会を支える長年の価値観と、統治の適切な領域設定に関する社会の期待に合わせるためのコンパスを提供します。ですから危機の時にあっても倫理的な慎重さが成功には不可欠なのです。</p>
+  <h1 id="参考文献">参考文献</h1>
+  <ol>
+    <li><a name="ref1"></a>EDPB. Statement by the EDPB Chair on the processing of personal data in the context of the COVID-19 outbreak [Internet]. 2020 [cited 2020 Mar 30]. Available from: <a href="https://edpb.europa.eu/news/news/2020/statement-edpb-chair-processing-personal-data-context-covid-19-outbreak_en">https://edpb.europa.eu/news/news/2020/statement-edpb-chair-processing-personal-data-context-covid-19-outbreak_en</a></li>
+    <li><a name="ref2"></a>Ada Lovelace Institute. COVID-19 Rapid Evidence Review: Exit through the App Store? [Internet]. 2020 Apr [cited 2020 Apr 20]. Available from: <a href="https://www.adalovelaceinstitute.org/our-work/covid-19/covid-19-exit-through-the-app-store/">https://www.adalovelaceinstitute.org/our-work/covid-19/covid-19-exit-through-the-app-store/</a></li>
+    <li><a name="ref3"></a>Top10vpn. Covid Digital Rights Tracker [Internet]. Available from: <a href="https://www.top10vpn.com/news/surveillance/covid-19-digital-rights-tracker/">https://www.top10vpn.com/news/surveillance/covid-19-digital-rights-tracker/</a></li>
+    <li><a name="ref4"></a>Knight W. Phones Could Track the Spread of Covid-19. Is It a Good Idea? 2020 Mar 15; Available from: <a href="https://www.wired.com/story/phones-track-spread-covid19-good-idea/">https://www.wired.com/story/phones-track-spread-covid19-good-idea/</a></li>
+    <li><a name="ref5"></a>Wiewiórowski W. EU Digital Solidarity: a call for a pan-European approach against the pandemic Wojciech Wiewiórowski [Internet]. 2020 [cited 2020 Apr 20]. Available from: <a href="https://edps.europa.eu/sites/edp/files/publication/2020-04-06_eu_digital_solidarity_covid19_en.pdf">https://edps.europa.eu/sites/edp/files/publication/2020-04-06_eu_digital_solidarity_covid19_en.pdf</a></li>
+    <li><a name="ref6"></a>European Commission. COMMISSION RECOMMENDATION of 8.4.2020 on a common Union toolbox for the use of technology and data to combat and exit from the COVID-19 crisis, in particular concerning mobile applications and the use of anonymised mobility data. Brussels; 2020 Apr.</li>
+    <li><a name="ref7"></a>Troncoso C, Payer M, Hubaux J-P, Salanthe M, Larus J, Bugnion E, et al. Decentralized Privacy-Preserving Proximity Tracing [Internet]. 2020 Apr [cited 2020 Apr 12]. Available from: <a href="https://github.com/DP-3T/documents/blob/master/DP3T%20White%20Paper.pdf">https://github.com/DP-3T/documents/blob/master/DP3T%20White%20Paper.pdf</a></li>
+    <li><a name="ref8"></a>Pollina E, Goodman D. Italy Tests Contact-Tracing App to Speed Lockdown Exit. New York Times [Internet]. 2020 Apr 17 [cited 2020 Apr 20]; Available from: <a href="https://www.nytimes.com/reuters/2020/04/17/technology/17reuters-health-coronavirus-italy-technology.html">https://www.nytimes.com/reuters/2020/04/17/technology/17reuters-health-coronavirus-italy-technology.html</a></li>
+    <li><a name="ref9"></a>Downey A. NHSX working on coronavirus contact tracking app. Digital Health [Internet]. 2020 Mar 20 [cited 2020 Mar 30]; Available from: <a href="https://www.digitalhealth.net/2020/03/nhsx-coronavirus-contact-tracking-app/">https://www.digitalhealth.net/2020/03/nhsx-coronavirus-contact-tracking-app/</a></li>
+    <li><a name="ref10"></a>Keilon L. Coronavirus: UK confirms plan for its own contact tracing app. BBC News [Internet]. 2020 Apr 12 [cited 2020 Apr 16]; Available from: <a href="https://www.bbc.co.uk/news/technology-52263244">https://www.bbc.co.uk/news/technology-52263244</a></li>
+    <li><a name="ref11"></a>Keyword team. Apple and Google partner on COVID-19 contact tracing technology [Internet]. Google. 2020 [cited 2020 Apr 11]. Available from: <a href="https://blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/amp/">https://blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/amp/</a></li>
+    <li><a name="ref12"></a>ECDC. Novel Coronavirus disease 2019 (COVID-19) pandemic: increased transmission in the EU/EEA and the UK - sixth update [Internet]. 2020 Mar [cited 2020 Mar 30]. Available from: <a href="https://www.ecdc.europa.eu/sites/default/files/documents/RRA-sixth-update-Outbreak-of-novel-coronavirus-disease-2019-COVID-19.pdf">https://www.ecdc.europa.eu/sites/default/files/documents/RRA-sixth-update-Outbreak-of-novel-coronavirus-disease-2019-COVID-19.pdf</a></li>
+    <li><a name="ref13"></a>Ferretti L, Wymant C, Kendall M, Zhao L, Nurtay A, Abeler-Dörner L, et al. Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing. Science [Internet]. 2020 Mar 31 [cited 2020 Apr 6];eabb6936. Available from: <a href="https://www.sciencemag.org/lookup/doi/10.1126/science.abb6936">https://www.sciencemag.org/lookup/doi/10.1126/science.abb6936</a></li>
+    <li><a name="ref14"></a>Keeling MJ, Hollingsworth TD, Read JM. The Efficacy of Contact Tracing for the Containment of the 2019 Novel Coronavirus (COVID-19). [Internet]. Public and Global Health; 2020 Feb [cited 2020 Mar 27]. Available from: <a href="http://medrxiv.org/lookup/doi/10.1101/2020.02.14.20023036">http://medrxiv.org/lookup/doi/10.1101/2020.02.14.20023036</a></li>
+  </ol>
+  <p>［抄訳ここまで］</p>
+  <div class="footnotes" role="doc-endnotes">
+    <ol>
+      <li id="fn:fn-floridi" role="doc-endnote">
+        <p>フロリディ教授は<a href="https://ja.wikipedia.org/wiki/%E5%BF%98%E3%82%8C%E3%82%89%E3%82%8C%E3%82%8B%E6%A8%A9%E5%88%A9">忘れられる権利</a>に関する<a href="https://archive.google.com/advisorycouncil/">グーグル諮問委員会</a>のメンバーを務めた人物です。私は<a href="/activity/2013/08/22/luciano-floridi-study-2013-08-20.html">2013年のブログ記事</a>や<a href="/activity/2017/05/12/floridi-talk.html">2017年の書評</a>で彼のことを紹介したことがあります。今回は<a href="https://nhsbsa-socialtracking.powerappsportals.com/EAB%20Letter%20to%20NHSx.pdf">英国版接触追跡アプリの倫理諮問委員会</a>の委員も務めています。 <a href="#fnref:fn-floridi" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:fn-principles" role="doc-endnote">
+        <p>The European Convention on Human Rights、the United Nations International Covenant on Civil and Political Rights、the United Nations Siracusa Principles <a href="#fnref:fn-principles" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:fn-prop" role="doc-endnote">
+        <p>達成されるべき目的とそのために取られる手段としての私権制限が釣り合っているかを問う比例原則のこと。 <a href="#fnref:fn-prop" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:fn-sunset" role="doc-endnote">
+        <p>サンセット条項とは、サービス終了やシステム廃棄に関する条項。 <a href="#fnref:fn-sunset" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:fn-cyber-resilience" role="doc-endnote">
+        <p>サイバー・レジリエンスとは、サイバー攻撃を早期に検知し復旧する能力。 <a href="#fnref:fn-cyber-resilience" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+    </ol>
+  </div>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[来るべきユーザーのためのインクルーシブ・デザイン試論]]></title>
+  <link href="https://hideishi.com/blog/2020/04/01/world-ia-day-fukuoka-2020.html"/>
+  <updated>2020-04-01T00:00:00+00:00</updated>
+  <id>https://hideishi.com/blog/2020/04/01/world-ia-day-fukuoka-2020</id>
+  <content type="html"><![CDATA[<p><img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png" alt="World IA Day のロゴ" class="fig-medium" /></p>
+  <p>これはWorld IA Day Fukuoka 2020で実施したワークショップの理論編です。<a href="/activity/2020/01/28/world-ia-day-fukuoka-2020.html">イベント・レポート</a>もあわせてご覧ください。</p>
+  <h2 id="来るべきユーザーのためのデザイン">来るべきユーザーのためのデザイン</h2>
+  <p>このワークショップを設計する上で考慮した理論的な事柄を紹介しておきます。それによって、このようなワークショップを実施することの意義や、その成果物を用いたデザインを実践するヒントが伝わることを希望します。</p>
+  <p>（※お断り：今回のワークショップの成果物をもとに具体的なデザインを実践することは想定していません。そもそも今回のワークショップは、ある特定のプロジェクトのために実施されたものではありません。メンバーは特定の目的のために集結したわけでもありません。「立派な成果物を作ること」ではなく「各自が有益な気付きを得られること」を目的としてワークショップを設計しました。したがって、今回のワークショップ設計と下記の説明との間には少し差異があります）</p>
+  <p>今回のワークショップ設計において意識したことの一番目は、<strong>オブジェクト指向ユーザー・インターフェース(OOUI)</strong>の議論です。昨年の <a href="https://www.worldiaday.org/events/tokyo/2019">World IA Day Tokyo 2019</a> のテーマでもあります。そのイベントで上野学氏は「<a href="https://www.sociomedia.co.jp/8740">OOUIの目当て</a>」という講演をしました。「タスク」ではなく「オブジェクト」を中心としたUI設計の方法論です。今回のワークショップには「対象」（オブジェクト）というカードが登場します。様々なオブジェクトの「想定外」な使われ方を想像してもらう意図です。ここで新たなオブジェクトを発明するようなアイデアが出れば、望外の収穫といえます。</p>
+  <p>また、<a href="https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%B3">ドナルド・ノーマン教授</a>による「<a href="https://jnd.org/human-centered_design_considered_harmful/">有害とみなされる人間中心デザイン</a>」の議論も念頭にありました。細かい「タスク」ではなく、より高次のまとまりである「活動」（アクション）を中心とする<strong>活動中心デザイン</strong>(ACD)の考え方です。このワークショップに登場する「活動」カードがそれです。</p>
+  <p>このワークショップのポイントは、多様な「オブジェクト」と「活動」の組み合わせとして、様々なユーザー・ストーリーを考えてもらうことです。カードをランダムに引けば、強制的に意外な組み合わせについて考えさせられることになります。それがオブジェクトの利用の幅を広げることになるはずです。</p>
+  <p>例えば、「出品リスト」と「研究」というカードから何を発想できるでしょうか。展覧会の出品リストや図録に掲載されているフロア・マップを大量に集め、画像分析した研究論文が出てくるかもしれません。そういう多様な活動がありえるのだと気付けたら、様々な情報をウェブで公開することの意義も再認識されるはずです。</p>
+  <p>ユーザー・ストーリーは、その経験を通じてユーザーが得る価値も含むことで、より具体的になります。したがって「価値」カードも用意しました。もちろん、参加者がその場で考えた「価値」の言葉を白紙カードに書き込んでもらっても構いません。</p>
+  <p>まだ足りません。人は具体的なユーザー像を想定せずにストーリーを膨らませることができません（主人公の人物像がまったく分からないまま読まされる小説を想像してみてください）。そこで、ユーザー像を表す「条件」と「主体」のカードも組み合わせます。</p>
+  <p>ここで質問ですが、「美術館のユーザー」として、どんな人々を想像するでしょうか？その想像は、社会の多様性を十分に反映しているでしょうか？私たちの想像力には限界があります。その限界を突破し、あらゆるユーザーを受け入れる<strong>インクルーシブ・デザイン</strong>を目指さなければなりません。美術館は万人に向けて公的なサービスを提供する機関なのですから。</p>
+  <p>ですから、「条件」と「主体」のカードには、いわゆる社会的弱者やマイノリティを示すキーワードをたくさん書き込みました。それらのカードをランダムに引いて組み合わせれば、自ずとインクルーシブなサービスを発想できるはずです。もちろん、カードは好きなだけ増やすこともできますし、実際に様々な当事者の人にリサーチしたり、このワークショップに参加してもらったりするのも有益でしょう。</p>
+  <p>現在主流の「<strong>人間中心デザイン</strong>」や「<strong>ペルソナ</strong>」というアプローチの再検討も必要です。普通のやり方なら、インクルーシブ・デザインを実践するためには、多様な想定ユーザー像（ペルソナ）を定義することになるでしょう。しかし、それでは上手くいかないと考えています。ペルソナが多すぎて。一般的にペルソナは1つ、多くても5つくらいまでに抑えるものだとされているはずです。</p>
+  <p>そもそもペルソナは想定ユーザー像に優先順位をつけるためのものです。最優先ペルソナ（プライマリー・ペルソナ）を定義するのが定石ですから。ならばペルソナは排除的な性質を持っていると言えます。包摂的であるべき公共サービスのデザインとは相性が悪いでしょう。</p>
+  <p>事業者にとって「無駄」なユーザーを切り捨てることは、ビジネス上は有利かもしれませんが、美術館のような公共的サービスには向きません。美術館のプライマリー・ペルソナを定義してはいけません。ペルソナに優先順位をつけてはいけないのです。美術館は万人が利用できなければならないのですから。</p>
+  <p>ペルソナに優先順位をつけてはいけません。かといって、ペルソナを無数に作ってもいけません。困ってしまいましたね。どうすれば多様なユーザーのためにデザインできるのでしょうか。</p>
+  <p>そもそも特定のユーザー像を中心におくデザイン手法そのものを疑う必要が出てきました。そこで有効なのが、オブジェクト指向や活動中心といったアプローチです。それらは人間を中心としないデザインですから。もちろん、それらのアプローチでもユーザー理解は重要です。UXリサーチもします。しかし、デザイン・プロセスの中心にいるのは、人間（ユーザー）ではなくオブジェクトです。</p>
+  <p>すべての人間のためにデザインしたかったら、デザインの中心に人間をおいてはならない。それが現時点の私の考えです。<sup id="fnref:average" role="doc-noteref"><a href="#fn:average" class="footnote" rel="footnote">1</a></sup></p>
+  <p>具体的にどうするかというと、ユーザー・ストーリーからオブジェクトや活動を抽出するのです。そのやり方はSophia Voychehovski氏の「<a href="https://postd.cc/object-oriented-ux/">オブジェクト指向UX</a>」という記事で説明されています。その後の進め方はオブジェクト指向アプローチの定石通りです。重要なのは、オブジェクトと活動の本質を深く理解しようと努めることです。</p>
+  <p>インクルーシブなデザインとは、まだそれを利用したことがない人々（ノン・ユーザー）のためのデザインです。来るべきユーザーのために、あらかじめ様々な使われ方（活動）を想定し、オブジェクトにアクセスしやすいようデザインしておきましょう。そう、<strong>アクセシビリティ</strong>も大事です。</p>
+  <p>「特定のユーザーを想定したデザイン」から「あらゆるユーザーを想定したデザイン」へ。さらにその先の「想定外のユーザーをも受け入れるデザイン」へ。それがインクルーシブ・デザインの理想だと考えています。</p>
+  <p>私は昨年「<a href="https://www.zerobase.jp/salon/2019/05/25/hardcore-oo.html">オブジェクト指向のハードコア</a>」というワークショップで「<strong>無前提性</strong>」を論じました。無前提性とは、ユーザーについての前提をおかないこと、つまり「想定外のユーザーをも受け入れるデザイン」のことです。それを可能にするのがオブジェクト指向です。</p>
+  <p><a href="https://waic.jp/docs/WCAG21/">ウェブ・コンテンツ・アクセシビリティ・ガイドライン(WCAG)</a>の抽象的な記述には、多くの実務家が口を揃えて不平を漏らします。抽象的すぎて実務に役立てにくいのだと。しかし、それも「来るべきユーザーのため」に書かれていると考えれば理解できます。まだ存在しないユーザーの姿を具体的に書くことはできませんから。WCAGは「無前提性」を指向したガイドラインになっていると言えるでしょう。</p>
+  <p>来るべきユーザーのためのデザイン。未知の他者のためのデザイン。それは交換ではなく贈与の論理です。資本主義の論理の外に出てデザインすることです。それは祈りにも似ています。「オブジェクト」や「コンテンツ」や「サービス」などと呼ばれるそれが、必要とするすべての人に届きますようにと。</p>
+  <p>こういう考えで今回のワークショップを設計しました。情報アーキテクトとして。そして、いちアートファンとして。</p>
+  <p><a href="/activity/2020/01/28/world-ia-day-fukuoka-2020.html">イベント・レポート</a>もあわせてご覧ください。</p>
+  <div class="footnotes" role="doc-endnotes">
+    <ol>
+      <li id="fn:average" role="doc-endnote">
+        <p>この考えに至る上で、<a href="/blog/2018/03/22/average.html">平均的な人間は存在するか？</a>の議論も重要です。ペルソナとは人間を何通りかに平均化したモデルですが、それでは万人を相手にすることはできないのです。 <a href="#fnref:average" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+    </ol>
+  </div>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[コンピューター・エイジズム]]></title>
+  <link href="https://hideishi.com/blog/2020/03/07/cyber-anti-ageism.html"/>
+  <updated>2020-03-07T00:00:00+00:00</updated>
+  <id>https://hideishi.com/blog/2020/03/07/cyber-anti-ageism</id>
+  <content type="html"><![CDATA[<p>この文章は次の二つのことを言うために書かれている：</p>
+  <ul>
+    <li>「高齢者のためのやさしいコンピューター」を作ろうとしてはならない。そもそもパーソナル・コンピューターは「<strong>あらゆる年齢の子供たち</strong>」のために構想されたのだから。</li>
+    <li>「人は年をとったら新しいことなど学ばなくなる」という思い込みを無くすべきだ。このような思い込みの蔓延によって高齢者は抑圧され、学ぶ意欲を奪われている。</li>
+  </ul>
+  <p>そしてこの文章には何人かの人物と、認知科学・心理学の知見と、広告キャンペーンと映画が登場する。楽しんで頂ければ幸いである。</p>
+  <hr />
+  <p>台湾のデジタル担当大臣を務める唐鳳氏が話題だ。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://www.mag2.com/p/news/439197" target="_blank">https://www.mag2.com/p/news/439197</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://www.mag2.com/p/news/439197" target="_blank">
+            <img src="https://www.mag2.com/p/news/wp-content/uploads/2020/02/852px-Audrey_Tang_showing_a_SwellRT_sticker_in_her_tablet_at_MediaLab-Prado._Madrid_Nov_2016.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://www.mag2.com/p/news/439197" target="_blank">新型肺炎で「神対応」台湾の天才IT大臣やエンジニア達に称賛の声 - まぐまぐニュース！</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">「天才プログラマー」としてネット上でたびたび話題となっている、台湾のデジタル担当政務委員（大臣に相当）のオードリー・タン（唐鳳）氏（38）が、「新型肺炎」についてプログラマーならではの神対応をおこなったと、多くの台湾人か…</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://www.mag2.com/p/news/439197" target="_blank">www.mag2.com</a>
+      </div>
+    </div>
+  </div>
+  <p>2019年末に中国から広まった新型コロナウイルス感染症(COVID-19)は、瞬く間に世界各地へ飛び火した。台湾でもマスクが不足する事態に陥った。</p>
+  <p>その問題に対処すべく、デジタル担当大臣の唐鳳氏が主導して「マスク在庫マップ」が開発され、ウェブで公開された。マスクの購入にはIC保険証の提示が必要で、買い占めできなくなっている。</p>
+  <p>この取り組みの特徴を洗い出してみると：</p>
+  <ul>
+    <li>誰でも自由に利用できる形で公開された「オープン・データ」</li>
+    <li>有志技術者がインターネット上で協力してソフトウェアを開発する「オープン・ソース」</li>
+    <li>技術によって社会問題を解決する市民主体の取り組み「シビック・テック」</li>
+    <li>国民に公平な購入機会を担保する「国民ID」（日本のマイナンバーに相当）</li>
+  </ul>
+  <p>などの先進的な特徴がいくつも含まれている。コンピューターによって社会の問題を解決している。じつに素晴らしいことだ。</p>
+  <p>そんな唐鳳氏のインタビュー記事が話題になっている。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://toyokeizai.net/articles/-/327954" target="_blank">https://toyokeizai.net/articles/-/327954</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://toyokeizai.net/articles/-/327954" target="_blank">
+            <img src="https://toyokeizai.net/mwimgs/e/4/-/img_e4126421d895792c45a1c754817a90e2276436.jpg" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://toyokeizai.net/articles/-/327954" target="_blank">台湾の｢38歳｣デジタル大臣から見た日本の弱点 | 最新の週刊東洋経済</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">――蔡英文政権でのデジタル大臣として3年が経過しました。台湾のIT行政や社会はどう変わりましたか。就任直後、行政院（政府）の公務員たちは「デジタル民主主義」「開かれた政府」という言葉に不安を隠しきれず…</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://toyokeizai.net/articles/-/327954" target="_blank">toyokeizai.net</a>
+      </div>
+    </div>
+  </div>
+  <p>この記事の中でも特に次のフレーズが共感を集めているようだ：</p>
+  <blockquote>
+    <p>高齢者はIT社会で何一つ変わる必要はありません。ITのほうこそ、人間に近くなるように調整されるべきなのですから。</p>
+  </blockquote>
+  <p>この発言を称賛している人が多い。なるほど、人々は「高齢者はコンピューターが苦手だ」「高齢者はそもそも新しいことを覚えることが苦手だ」などと言っている。高齢者に「あなたは何一つ変わる必要などない」と言えれば素晴らしい。これこそ来るべき情報化社会だ。</p>
+  <p>人々はそう考え、この発言に共感しているのだろう。</p>
+  <p>しかし、本当にそうなのだろうか。</p>
+  <hr />
+  <p>パーソナル・コンピューター黎明期の議論を振り返ってみよう。現代のパーソナル・コンピューターにつながる主要なアイデアは、アラン・ケイによって半世紀ほど前に構想された。その有名な論文には、「<a href="https://swikis.ddo.jp/abee/74"><strong>あらゆる年齢の子供たち</strong>のためのパーソナル・コンピューター</a>」という、いささか奇妙な題名が付けられている。</p>
+  <p>「<strong>あらゆる年齢の子供たち</strong>」とは一体どういう意味だろうか。</p>
+  <p>ケイはパーソナル・コンピューターの構想を書いた論文の中で、子供の発達や学習について多くの言葉を費やしている。ケイは発達心理学のジャン・ピアジェや、児童教育用プログラミング言語LOGOを開発したシーモア・パパートからの影響を受けてもいる。</p>
+  <p>つまり「<strong>あらゆる年齢の子供たち</strong>」という言葉は、「あらゆる年齢の人にも子供と同じような学習力が備わっている」「人はいくつになっても学び続けることができる」という信念の表明に他ならない。それがパーソナル・コンピューターという理念に埋め込まれている。</p>
+  <p>パーソナル・コンピューターを通じて、人々は物事を学び、よりよい自己を実現していく。そのような生涯学習プロジェクトを支援するために、パーソナル・コンピューターは構想された。その理念は今日も生き続けている。</p>
+  <p>アラン・ケイのパーソナル・コンピューターの理念から強い影響を受けたのがAppleだ。Appleが広告で発しているイメージを考えてみよう。自宅で簡単に確定申告できるとか、職場で経営管理の効率が上がるとか言っているだろうか。そうではない。絵を描いたり、写真を撮ったり、音楽や映像を作ったりするイメージだろう。人間が創造的に成長するための道具というイメージを売っている。<sup id="fnref:ipad-criticism" role="doc-noteref"><a href="#fn:ipad-criticism" class="footnote" rel="footnote">1</a></sup></p>
+  <p>パーソナル・コンピューターという理念は、人間は一生成長し続けるという信念によって基礎づけられている。高齢者の成長可能性も見限ってはならない。</p>
+  <p>もちろん高齢者がコンピューターをうまく使えないこともある。より良い設計へと改善する機会だ。ただし、そこで「高齢者向けバージョン」を派生させるのはまずい。<strong>あらゆる年齢の子供たち</strong>が使えるように改善すべきだ。</p>
+  <p>コンピューターの開発には多くの人が携わっている。ハードウェアだけでなく、ソフトウェアも。オペレーティング・システム(OS)だけでなく、アプリケーションやウェブサイトも。技術者だけでなく、デザイナーやプロダクト・マネジャーも。みんなコンピューターを作る仕事だ。</p>
+  <p>コンピューターを作る仕事は、社会の未来を作る仕事だ。そういう仕事だから、「より良い社会とは何か」という問いに向き合わなければならない。つまり、コンピューターを作ることは、<strong>思想を実装すること</strong>でなければならない。</p>
+  <p>私たちはすでに思想を引き継いでいる。人間は一生学び続ける主体であるという思想を、アラン・ケイから引き継いでいるのだ。コンピューターの作り手には、その思想を実装するというプロジェクトが託されている。</p>
+  <p><strong>あらゆる年齢の子供たちのためのパーソナル・コンピューター</strong>は、未完のプロジェクトだ。未解決の課題は数多く残されている。それだけに、やりがいも大きい。</p>
+  <p>アクセシビリティ（アクセスしやすさ）やインクルーシブネス（誰でも受け入れ）の価値を実現しよう。ユニバーサル・デザインにしたり、カスタマイズ可能にしたり、パーソナライズしたり、プログラマブルにしたり。</p>
+  <hr />
+  <p>また、ユーザーがそれ以前のやり方を変えなくていいようなIT導入には、別の問題もある。それではITを導入しても効率が上がらないという問題だ。</p>
+  <p>多くのIT導入プロジェクトは、その目的を「ユーザーの手間を減らすこと」や「業務の効率を上げること」に設定している。しかし、ユーザーのやり方を、IT導入以前のアナログなやり方と全く変えずに、ただ単に紙を電子データ化するだけでは、ほとんど意味はない。</p>
+  <p>例えば、役所への届出を電子化することを考えてみよう。多くの事例で、紙の届出様式と全く同じ見た目の入力フォームを再現し、そこに入力させる設計になっている。しかし、それでは、紙に書いて郵送手続きするよりも何か便利になっているのだろうか。むしろ意味不明なエラーに遭遇することも多く、ほとんど紙より退行している事例が多いと思わないだろうか。</p>
+  <p>なにが拙かったのか。紙のときとまったく同じやり方が拙かった。IT導入に際して新しいやり方を導入しなかったから拙かったのだ。</p>
+  <p>真にITを活用した届出とは、一体どういうものだろうか。例えば、入力途中に疑問点・不明点が生じた際に、これまでは自分で解決するしかなかった。解決できず、なんとなく記入して「不備」で返却された経験は誰にでもあるだろう。IT化によって、このような不備を未然に防ぐことができるようになる。</p>
+  <p>具体的には、係員が対面で記入を支援するノウハウを、AIチャットなどで実現することができるだろう。係員に支援してもらうには窓口まで行かなければならないし、窓口が開いている時間も限られているし、待ち行列もありえる。しかし、IT化すればそのような制約から解放される。こういった新たな価値こそIT化の恩恵だ。紙を単にデジタル化しただけのシステムにはない、新たな価値だ。</p>
+  <p>あるいは、多くの届出様式に存在する条件分岐をなくすこともできるだろう。役所の届出様式には、「（5）の回答が（イ）の方は（6）は記入せずに（7）へ進む」といった、複雑な条件分岐が頻出する。しかし、デジタルな入力フォームであれば、このような条件分岐の複雑性をシステムの側で吸収することができる。（5）の回答が（イ）なら、単に（6）欄を非表示にすればいいのだ。これはまだ単純な例であって、もっと複雑な条件分岐（金額が10万円以上100万円未満の方は云々など）もある。そういう届出様式において、このようなデジタル化の恩恵は計り知れない。</p>
+  <p>初めて記入する人が必ず「記入不備」で返却されてしまうような、高エラー率の届出書式というものがある。IT化によって、そういう難解なパズル的届出様式を、劇的にシンプルにできる。人々の記入のストレスが減り、記入不備が減り、業務効率も上がる。これもまた「単なる紙のデジタル化」ならぬ「真のIT化」ならではの価値だ。</p>
+  <p>たった二つの例からでも、それ以前のやり方（紙）とは異なるITの価値を理解して頂けるだろう。早くこういうことが実現されてほしいものだ。</p>
+  <p>この話のポイントは、このようなIT導入の恩恵のためには、ユーザーのやり方も変えなければならないということだ。紙を単にデジタル化すればいいというものではない。それではむしろ紙より不便になる例も多い。ユーザーはデジタルなやり方に適応する必要がある。だから「高齢者はIT社会で何一つ変わる必要はありません」という考え方には賛同できない。</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://hideishi.com/blog/2016/12/29/japan-productivity.html" target="_blank">https://hideishi.com/blog/2016/12/29/japan-productivity.html</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://hideishi.com/blog/2016/12/29/japan-productivity.html" target="_blank">
+            <img src="https://hideishi.com/assets/blog/2016-12-29-japan-productivity/ikki.png" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://hideishi.com/blog/2016/12/29/japan-productivity.html" target="_blank">日本人の低すぎる生産性とIT百姓一揆</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">生産性を上げるためにはIT投資が必要なのに、日本ではIT投資をしても生産性が上がらない。この謎を解く鍵は江戸時代にあるのではないか。</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://hideishi.com/blog/2016/12/29/japan-productivity.html" target="_blank">hideishi.com</a>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <p>そもそも人は年齢によって差別されるべきだろうか。人は全員が老いていく。私も、あなたも。ならば高齢者を差別しない社会にしていくべきだ。自分自身のために。</p>
+  <p>エイジズム（年齢主義）という言葉がある。年齢差別に肯定的な考え方を意味する。そういう考え方を批判するときに用いられる言葉だ。</p>
+  <p>「とはいえ、年を取ると物覚えが悪くなるのは事実なのだから、これは差別などではない」と思う人もいるかもしれない。</p>
+  <p>ここで近年の新しい知見を紹介しよう。先進各国で人口構造の高齢化が進展するにつれ、高齢者の認知機能に関する研究も進んできた。その結果、「年を取ると認知能力が低下する」という社会通念に疑問が呈されるようになってきたのだ：</p>
+  <blockquote>
+    <p>健常な老人の脳には、衰えを示す証拠はほとんど確認できなかった。処理速度の低下や若干の物忘れの傾向が見られたがそれも予想通り。情報量が増えるほど検索対象が広くなり、時間をかけてより多くの情報を吟味するようになるからだ。<br />
+      — 言語学研究者 ミヒャエル・ラムスカー（Michael Ramscar）<br />
+      出典：<a href="https://natgeo.nikkeibp.co.jp/nng/article/news/14/8812/">脳機能の老化は知識量の増大も要因 | ナショナルジオグラフィック日本版サイト</a></p>
+  </blockquote>
+  <blockquote>
+    <p>ほぼどの年齢においても、ある能力については向上が、ある能力については低下が見られる。<br />
+      — 認知科学研究者 ジョシュア・ハーツホーン（Joshua Hartshorne）<br />
+      出典：<a href="https://www.businessinsider.jp/post-100550">集中力は43歳！ 人間の脳のピーク年齢は、能力ごとに違っていた | Business Insider Japan</a></p>
+  </blockquote>
+  <p>さらに興味深い研究がある。高齢者自身の「年を取ると記憶力が衰える」という思い込みが問題なのだという：</p>
+  <blockquote>
+    <p>米タフツ大学の研究グループは、18～22 歳の若者と60～74歳の年配者を集めて次のテストを行いました。「年をとると、どれだけ記憶力が衰えるかを調べます」と伝え、たくさんの単語が書かれたリストを見せます。その後、別の単語リストを見せ、その中に、前のリストと同じものがあるかを言い当ててもらうというものです。正答率は、若者グループは48％、年配者グループは29％。思ったとおりじゃないか！　と言いたくなってしまいますが、面白いのはここからです。研究者たちは別に、「記憶力テスト」ではなく「言語能力を調べるテスト」と伝えてテストを受けてもらいました。内容はまったく同じなのに、結果は……、若者49％、年配者50％。なんと、差がなくなったのです。研究グループは「年をとると記憶力が衰える」という思い込みが、自分の記憶が正しいかどうかの自信をなくす要因の一つになっていると指摘しています。<br />
+      — 医療ジャーナリスト 市川衛<br />
+      出典：<a href="https://kurashinohon.jp/1025.html">「年をとると記憶力が衰える」は誤解だった？ | 講談社くらしの本</a></p>
+  </blockquote>
+  <p>次に紹介するのも同様の研究結果だ。いろんな豆知識を覚えてもらう記憶テストを、若者と高齢者にやってもらったのだという：</p>
+  <blockquote>
+    <p>これを見ると，ほとんどやっぱり高齢者のほうが悪いわけです。ただし，これは記憶テストですよと言われているからです。つまり高齢者の多くの方は，記憶テスト，あかん，思い出せへんと思っちゃうから。一方，そのときに記憶テストじゃなくて，これは豆知識を覚えているだけですからということを最初に言っておきます。豆知識を聞いてくださいと言っただけです。記憶しろと言っていません。そうすると，両者に差がなくなってきます。つまり，ほとんどの高齢者の方々は記憶テストと聞いただけでもう身構えたり，だめだということになってちゃんと覚えられない。<br />
+      — 教育心理学者 高橋雅延<br />
+      出典：<a href="https://www.jstage.jst.go.jp/article/arepj/57/0/57_329/_pdf/-char/ja">日本教育心理学会 公開シンポジウム 加齢に伴い向上・維持する能力を発掘する</a></p>
+  </blockquote>
+  <p>もはや明らかではないか。高齢者が学ばない原因は、記憶力の低下という身体的な問題だけではない。意欲の問題でもある。そして意欲の問題は社会的問題でもある。社会に蔓延した差別と抑圧が、高齢者から学ぶ意欲を奪っているのだ。</p>
+  <p>「年を取ると物覚えが悪くなる」<br />
+    「年を取ったら学ばなくていい」<br />
+    「年寄りは学ばない」</p>
+  <p>こういう社会通念は差別的な偏見だ。</p>
+  <p>このような認識を得たいま、改めて冒頭で紹介した言葉を振り返ってみよう。</p>
+  <p>「高齢者はIT社会で何一つ変わる必要はありません」</p>
+  <p>この言葉もまたエイジズムだと言わざるをえないのではないだろうか。一見やさしい言葉だが、高齢者の可能性を見限っている言葉であることに変わりはない。</p>
+  <p>このようなエイジズム批判は、いささか急進的（ラディカル）に感じられるかもしれない。まだ社会常識には程遠いからだ。しかし、セクハラを最初に批判し始めた人たちも当時は「急進的すぎる」と批判された。今日ではセクハラは社会悪になっている。</p>
+  <p>エイジズム批判も今日から始めなければならない。数十年後の常識にするために。自分自身がエイジズムのない社会を生きるために。</p>
+  <p>私たちの誰もが老いるのだから。</p>
+  <figure>
+    <p><img src="/assets/blog/2020-03-07-cyber-anti-ageism/aging-cream.jpg" alt="アンチ・エイジング・クリームのポスター画像" /></p>
+    <figcaption>この写真は「<a href="https://www.agingcream.ca/">エイジング・クリーム</a>」（熟成クリーム）という商品のポスターだ。よくある「アンチ・エイジング・クリーム」ではないのがミソ。上部には「仕事の自信を最大5倍も回復」などの売り文句。下部には「エイジング・クリームは実在しませんが、年配社員の価値なら実在します」とある。2019年11月にカナダのトロント市が立ち上げたアンチ・エイジズム啓発キャンペーンの広告だ。</figcaption>
+  </figure>
+  <p>パーソナル・コンピューターという理念は、<strong>あらゆる年齢の子供たち</strong>の学習能力を前提にしている。だから「高齢者はIT社会で何一つ変わる必要はありません」というメッセージは間違っている。</p>
+  <p>こう言える社会にしよう。高齢者はIT社会で何一つ諦める必要はありません。コンピューターを使って楽しく学び続けてください、と。</p>
+  <p>そのためには、もちろんコンピューターの方も変わらなければならない。「高齢者向けコンピューター」ではなく「<strong>あらゆる年齢の子供たち</strong>のためのパーソナル・コンピューター」を目指して。</p>
+  <p>そして社会から「年寄りは学ばない」という思い込みを取り除かなければならない。高齢者自身の思い込みも含めて。</p>
+  <p>年をとっても死ぬまで学び続けられる社会にしよう。社会のエイジズムをなくしていこう。そのためにコンピューターにできることは少なくないはずだ。</p>
+  <hr />
+  <p>この文章の最後に、エイジズムの問題を扱ったエンターテイメント作品、映画『マイ・インターン』を紹介したい：</p>
+  <div class="responsive embed aspect16x9"><iframe width="560" height="315" src="//www.youtube.com/embed/eMs-qYM_AeM" allowfullscreen="" style="border: none;"></iframe></div>
+  <blockquote>
+    <p>舞台はニューヨーク。華やかなファッション業界に身を置き、プライベートも充実しているジュールス。そんな彼女の部下に会社の福祉事業として、シニア・インターンのベンが雇われる。最初は40歳も年上のベンに何かとイラつくジュールスだが、やがて彼の心のこもった仕事ぶりと的確な助言を頼りにするようになる。そんな時、ジュールスは仕事とプライベートの両方で思わぬ危機を迎え、大きな選択を迫られる──。</p>
+  </blockquote>
+  <p>この作品に登場するベンは、妻に先立たれ、リタイアして暇を持て余している孤独な70歳の老人だ。しかし、彼は一念発起してインターネット企業でのインターンに挑戦し、充実した日々を取り戻していく。</p>
+  <p>ベンがそのような機会を得られたのは、その社会にシニア・インターン・プログラムという福祉事業があったからだ。高齢者が新しいことに挑戦するのを抑圧せず、むしろ奨励するような社会で、私は生きたい。<sup id="fnref:senior-intern" role="doc-noteref"><a href="#fn:senior-intern" class="footnote" rel="footnote">2</a></sup></p>
+  <p>それでは、みなさん、ハッピー・エイジング！</p>
+  <div class="footnotes" role="doc-endnotes">
+    <ol>
+      <li id="fn:ipad-criticism" role="doc-endnote">
+        <p>iPadはダイナブックとは呼べない代物だとして批判する人もいる。特にiPad上でプログラミングできない点が批判の対象だ。アラン・ケイにとってパーソナル・コンピューターのユーザーとは、与えられたソフトウェアを利用するだけの受動的ユーザーではない。自らソフトウェアを書き換え、それによって問題への理解を深めていく能動的なユーザーだ。ケイにとってプログラミングはオタクや専門家が独占すべき技術ではない。<strong>あらゆる年齢の子供たち</strong>が学びの自由を手にするための技術だ。プログラミングはケイのパーソナル・コンピューター構想の中核を占めている。 <a href="#fnref:ipad-criticism" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+      <li id="fn:senior-intern" role="doc-endnote">
+        <p><a href="http://screenprism.com/insights/article/are-there-senior-interns-like-ben-whittaker-in-the-movie-the-intern-in-real">「『マイ・インターン』のようなシニア・インターンシップは実在するのか？」 (ScreenPrism)</a>という英文記事では、その実例が紹介されている。 <a href="#fnref:senior-intern" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      </li>
+    </ol>
+  </div>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[World IA Day Fukuoka 2020 でワークショップを実施しました]]></title>
+  <link href="https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html"/>
+  <updated>2020-02-22T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020</id>
+  <content type="html"><![CDATA[<p><img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png" alt="World IA Day のロゴ" /></p>
+  <p>これはWorld IA Day Fukuoka 2020で実施したワークショップのイベント・レポート編です。<a href="/blog/2020/04/01/world-ia-day-fukuoka-2020.html">ワークショップの理論編</a>もあわせてご覧ください。</p>
+  <h2 id="world-ia-day">World IA Day</h2>
+  <p><a href="https://www.worldiaday.org/">World IA Day</a> は2012年に始まった情報アーキテクチャ(IA)のグローバル・イベントです。2020年は <a href="https://www.worldiaday.org/2020">‘The IA Element’</a> （情報アーキテクチャの要素）というグローバル・テーマで、2月22日土曜日に世界中61都市でイベントが開催されました。</p>
+  <p>一例として、 <a href="https://www.worldiaday.org/events/toronto/2020">World IA Day Toronto 2020</a> の様子を伝えるツイートをご紹介しましょう：</p>
+  <div class="jekyll-linkpreview-wrapper">
+    <p><a href="https://twitter.com/ruxia68/status/1231243516744880128" target="_blank">https://twitter.com/ruxia68/status/1231243516744880128</a></p>
+    <div class="jekyll-linkpreview-wrapper-inner">
+      <div class="jekyll-linkpreview-content">
+        <div class="jekyll-linkpreview-image">
+          <a href="https://twitter.com/ruxia68/status/1231243516744880128" target="_blank">
+            <img src="https://pbs.twimg.com/media/ERZBc1DUwAAuwpH.jpg:large" />
+          </a>
+        </div>
+        <div class="jekyll-linkpreview-body">
+          <h2 class="jekyll-linkpreview-title">
+            <a href="https://twitter.com/ruxia68/status/1231243516744880128" target="_blank">Summer Z on Twitter</a>
+          </h2>
+          <div class="jekyll-linkpreview-description">““IA is missing from UX and Product.” I also noticed this is common in most of the workplaces, ppl only talk about visual designs until 1 true UX or IA person come to separate the structure. UX designers plz learn it🤓@ShopifyUX @biggeidea #WIAD2020 #WIAD2020Toronto #TheIAElement”</div>
+        </div>
+      </div>
+      <div class="jekyll-linkpreview-footer">
+        <a href="https://twitter.com/ruxia68/status/1231243516744880128" target="_blank">twitter.com</a>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    <p>“IA is missing from UX and Product.” I also noticed this is common in most of the workplaces, ppl only talk about visual designs until 1 true UX or IA person come to separate the structure. UX designers plz learn it🤓</p>
+    <p>（訳：「UXやプロダクトの分野からIA（情報アーキテクチャ）が失われている」　これは多くの職場で散見される。真のUXかIAの人がやって来て構造を切り分けるまで、人々はしきりにビジュアル・デザインの話ばかりしている。UXデザイナーの人にはぜひ学んでほしい）</p>
+  </blockquote>
+  <p>このように、世界中のIA（情報アーキテクチャ）コミュニティで、様々なメッセージが発信されています。Twitterのグローバル・ハッシュタグ <a href="https://twitter.com/search?q=%23WIAD2020&amp;src=typed_query">#WIAD2020</a> と <a href="https://twitter.com/search?q=%23TheIAElement&amp;src=typed_query">#TheIAElement</a> を見れば、その様子が感じられるでしょう。</p>
+  <h2 id="world-ia-day-fukuoka">World IA Day Fukuoka</h2>
+  <p>World IA Day の福岡支部 World IA Day Fukuoka を立ち上げ、 <a href="https://www.worldiaday.org/events/fukuoka/2020">World IA Day Fukuoka 2020</a> を開催しました。</p>
+  <p>グローバル・テーマ ‘The IA Element’ を受けて、ローカル・テーマを ‘Information Alchemist’ （情報錬金術師）としました：</p>
+  <blockquote>
+    <p><em>私たちは様々な情報を集めてきては、分解したり、結合したりする。それによって、より高い価値を持つ情報を生み出す。</em></p>
+  </blockquote>
+  <p>イベント当日はYouTube Live中継を行いました。その録画は6時間に及びます。それを編集して2時間45分に短縮した動画をYouTubeで公開しています：</p>
+  <div class="responsive embed aspect16x9"><iframe width="560" height="315" src="//www.youtube.com/embed/4oOFLE9V7V4" allowfullscreen="" style="border: none;"></iframe></div>
+  <p>公式Twitterアカウントは <a href="https://twitter.com/WIAD_Fukuoka">＠WIAD_Fukuoka</a>、ローカル・ハッシュタグは <a href="https://twitter.com/search?q=%23WIAD_Fukuoka&amp;src=typed_query">#WIAD_Fukuoka</a> です。イベント当日のツイートを見ることができます。</p>
+  <p>ここからは、イベントの内容を具体的に紹介していきます。</p>
+  <h2 id="基調講演">基調講演</h2>
+  <p>冒頭の基調講演は大橋正司さんにお願いしました。このイベントを企画しているタイミングで、ちょうど大橋さんの「<a href="https://note.com/shosira/n/n7b2da70d7973">日本の美術館サイトはどうすればもっと良くなるか</a>」という文章が話題になっていました。その文章を私なりに要約しておきます：</p>
+  <p>これまでウェブサイトは美術館の広報機能の一端として捉えられてきた。そのようにウェブサイトの機能が矮小化されてきたことには、ウェブサイト制作を受注してきた私たちウェブ業界側の責任もある。私たちは美術館界のデザイン投資を活かすことができなかった。この状況から脱するには、「美術館というサービスをデジタル技術を使って定義し直すこと」に取り組まなければならない。そのために必要なのは「ミュージアムのデジタル・トランスフォーメーション(DX)戦略を実行できる業務知識を持ったウェブ人材」である。もし今後、美術館のウェブ機能を強化しようと本当に思うのであれば、サービスデザインができる人材が普段から歩み寄る他はない。</p>
+  <p>これを踏まえた大橋さんの基調講演 ‘Elements of Imagination’ （<a href="https://speakerdeck.com/shosira/world-ia-day-fukuoka-2020-keynote">講演スライド</a>）は、建築家磯崎新氏のテキストを引用しつつ、来るべき「第四世代の美術館」の可能性を探究する内容でした。</p>
+  <p><a href="https://speakerdeck.com/shosira/world-ia-day-fukuoka-2020-keynote?slide=59">スライド59</a>：</p>
+  <blockquote>
+    <p>（※引用注：「第四世代の美術館」は）これまで美術館に接続できなかった人たちへの福音でもあるべきです。これまでの美術館をふくむ公共空間が、どれだけ限られた人のためのものであったかを考える必要があります。子連れのお子さん、障害者、様々な予期せぬディサビリティを持つ瞬間、あるいは外国の方、多様なアクティビティに、今の美術館は耐えられるでしょうか。</p>
+  </blockquote>
+  <p><a href="https://speakerdeck.com/shosira/world-ia-day-fukuoka-2020-keynote?slide=66">スライド66</a>：</p>
+  <blockquote>
+    <p>（※引用注：「美術館はあらゆるところに偏在する」 ‘GLAM Anywhere’ というコンセプトの説明として）</p>
+    <ul>
+      <li>様々な場に出ていき、リアルとデジタルが融合した世界での人々の営みを多面的に支援すること。</li>
+      <li>情報の真正（信頼性）と民間では保証しきれない情報の多様性を継続的に担保すること</li>
+      <li>多様な意見を安全に表明し続ける場を保証すること</li>
+    </ul>
+    <p>これらのはてに、私達の新しいアウラが生み出されていくのです。それこそが新しい美術館の可能性です。</p>
+  </blockquote>
+  <p>また、イベントから約3週間後の3月15日、Artscapeに大橋さんの「<a href="https://artscape.jp/study/digital-achive/10160576_1958.html">ミュージアム・ロストが起動させた“第四世代の美術館”：デジタルアーカイブスタディ</a>」という文章が掲載されました。基調講演の内容と重なりつつ、より掘り下げた内容になっています。「美術館を『センター（中心）』から解き放つ」と題した節では、 World IA Day Fukuoka 2020 のワークショップにも通じることが論じられています。この記事と基調講演の内容を合わせて、私なりに短く要約しておきます：</p>
+  <p>多様なユーザー、多様な利用場所、多様な利用状況、多様な利用目的に向けて、美術館のコンテンツやサービスを開いていく必要がある。そのためには、デジタル技術を使って、サービスやコンテンツのアクセシビリティを極力高めなければならない。また、多様で自由なアートの空間が、無秩序に陥ることなく、自生的な秩序を自ら作り出しつつ健全に発展するためには、信頼できる情報センターが必要になる。来るべき「第四世代の美術館」は、そのように自由なアートの空間を可能にするプラットフォームになる。</p>
+  <p>このような「第四世代の美術館」のコンセプトを基調として、今回のワークショップは実施されました。</p>
+  <h2 id="ワークショップ">ワークショップ</h2>
+  <p>多様な利用者による様々な美術館利用をすべて肯定できるような<strong>インクルーシブ</strong>（包摂的）なサービスのあり方を考えてもらいたいと思いました。そのような狙いでカード・ゲーム型の発想ワークショップを設計しました。</p>
+  <p><img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/card-deck.jpeg" alt="World IA Day Fukuoka 2020 のワークショップで用いる予定だったカード・デッキ" class="fig-small" /></p>
+  <p>当初はカード・デッキを用いて福岡アジア美術館で開催する予定でした。しかし、新型コロナウイルスの感染拡大が懸念される状況となり、急遽オンラインでの開催に切り替えました（もともと現地会場とオンラインの両方でワークショップを実施するつもりではありました）。オンライン会議システムの<a href="https://zoom.us/">Zoom</a>とオンライン・ホワイトボードの<a href="https://miro.com/">Miro</a>を用いたオンライン版を用意しました。</p>
+  <p>ワークショップの概要は<a href="https://youtu.be/4oOFLE9V7V4?t=3976">ガイダンスの映像(1:06:16)</a>をご覧頂くのが分かりやすいかと思いますが、簡単に説明しておきましょう。「以下の5種類のカードを組み合わせて、美術館のサービスを利用するストーリーを作ってください」というワークです。カードは「条件」「主体」「活動」「対象」「価値」の5種類に分かれています。好きなカードを選んで組み合わせてもいいし、ランダムに引いたカードを組み合わせてもいい、というものです。参加者には「最終成果物の優劣を競うのではなく、各自で有益な気付きを持ち帰って頂くことが目的です」とお伝えしました。</p>
+  <p>ワークショップのツールキットを公開しておきますので、自由にご利用ください：</p>
+  <ul>
+    <li><a href="https://docs.google.com/presentation/d/1NGBQ2NgBuQp46P9v2uN2-LOnRiUfclGyPUXbTibnn3g/edit?usp=sharing">ワークショップ進行用スライド（Googleスライド）</a></li>
+    <li><a href="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).rtb">カード・デッキ（オンライン・ホワイトボードMiro用テンプレート）</a></li>
+  </ul>
+  <figure>
+    <p><a href="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).pdf">
+        <img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).jpg" alt="" />
+      </a></p>
+    <figcaption>World IA Day Fukuoka 2020 のワークショップで用いたMiroホワイトボードのテンプレート（※画像をクリックでPDF版へ）</figcaption>
+  </figure>
+  <p><img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/tokyo-fuji-museum-database-structure.png" alt="" class="fig-small" /></p>
+  <p>ワークショップの途中で、大橋さんが東京富士美術館から提供して頂いた資料を紹介して下さいました。作品や展覧会のデータベースは、情報アーキテクチャの観点から興味深いものでした。その様子は<a href="https://youtu.be/4oOFLE9V7V4?t=5293">動画(1:28:13)</a>でご覧頂けます。</p>
+  <p>ワークショップの最終的な成果物（Miroホワイトボード）は下記の通りです：</p>
+  <figure>
+    <p><a href="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 1.pdf">
+        <img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 1.jpg" alt="" />
+      </a></p>
+    <figcaption>ルーム1の成果物（※画像をクリックでPDF版へ）</figcaption>
+  </figure>
+  <figure>
+    <p><a href="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 2.pdf">
+        <img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 2.jpg" alt="" />
+      </a></p>
+    <figcaption>ルーム2の成果物（※画像をクリックでPDF版へ）</figcaption>
+  </figure>
+  <figure>
+    <p><a href="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 3.pdf">
+        <img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 3.jpg" alt="" />
+      </a></p>
+    <figcaption>ルーム3の成果物（※画像をクリックでPDF版へ）</figcaption>
+  </figure>
+  <figure>
+    <p><a href="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 4.pdf">
+        <img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 4.jpg" alt="" />
+      </a></p>
+    <figcaption>ルーム4の成果物（※画像をクリックでPDF版へ）</figcaption>
+  </figure>
+  <figure>
+    <p><a href="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD 2020 Fukuoka Result.pdf">
+        <img src="/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD 2020 Fukuoka Result.jpg" alt="" />
+      </a></p>
+    <figcaption>すべての成果物を整理したもの（※画像をクリックでPDF版へ）</figcaption>
+  </figure>
+  <p>なお、口頭発表（中間報告2回と成果報告の計3回）の様子も動画でご覧頂けます。</p>
+  <p>イベントを通してネットワークやソフトウェアのトラブルにも見舞われましたが、なんとか無事にやり遂げることができました。参加者やボランティア・スタッフの皆様のご協力のおかげです。いいワークショップになったのではないかと思います。 World IA Day Fukuoka は来年以降も開催していきたいと考えています。どうぞお楽しみに。</p>
+  <p><a href="/blog/2020/04/01/world-ia-day-fukuoka-2020.html">ワークショップの理論編</a>もあわせてご覧ください。</p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[アート経験録]]></title>
+  <link href="https://hideishi.com/activity/2020/01/20/art-experience.html"/>
+  <updated>2020-01-20T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2020/01/20/art-experience</id>
+  <content type="html"><![CDATA[<p>2017年から2019年までの3年間に経験したアート・イベント（222件）とコレクション（18人・31点）の記録です。</p>
+  <h2 id="アートイベント">アート・イベント</h2>
+  <p>2017年から2019年までの3年間で222件でした。</p>
+  <ul>
+    <li>2019年12月27日 - BUCKLE KÔBÔ - カオス*ラウンジ 芸術動画ヤミ市</li>
+    <li>2019年12月6日 - アイデムフォトギャラリー「シリウス」 - 下修写真展「風蝕の造形」</li>
+    <li>2019年12月2日 - 福岡アジア美術館 - アジア美術からみるLGBTQと多様性社会</li>
+    <li>2019年12月2日 - 福岡アジア美術館 - アジアの近現代美術 黎明期から激動の時代まで</li>
+    <li>2019年12月1日 - 九州国立博物館 - 縄文にハマる人々 無料上映会＆トークイベント（山岡信貴、鈴木希帆、白井克也）</li>
+    <li>2019年12月1日 - 九州国立博物館 - 縄文王国やまなし</li>
+    <li>2019年11月26日 - 福岡アジア美術館 - アジア美術、100年の旅</li>
+    <li>2019年11月24日 - 岡山市内各所 - 岡山芸術交流2019「もし蛇が」</li>
+    <li>2019年11月23日 - Eukaryote - 香月恵介個展「Hope’s harbinger」（3Fにて菊池遼との2人展）</li>
+    <li>2019年11月23日 - オン・サンデーズ - 名もなき実昌「終わるまで終わらないよ」展覧会図録発売記念サイン会</li>
+    <li>2019年11月16日 - 恵比寿ガーデンシネマ - 去年マリエンバートで 4 Kデジタル・リマスター版</li>
+    <li>2019年10月27日 - Eukaryote - 菊池遼個展「OUTLINES」</li>
+    <li>2019年10月25日 - 李禹煥美術館 - 常設展</li>
+    <li>2019年10月25日 - 地中美術館 - 常設展</li>
+    <li>2019年10月24日 - 高松市美術館 - 常設展</li>
+    <li>2019年10月24日 - 高松市美術館 - 高松コンテンポラリーアート・アニュアル vol. 8 社会を解剖する</li>
+    <li>2019年10月23日 - 香川県立ミュージアム - 日本建築の自画像</li>
+    <li>2019年10月22日~26日 - 高松、女木島、男木島、大島、直島 - 瀬戸内国際芸術祭</li>
+    <li>2019年10月20日 - TODA BUILDING - TOKYO 2021 美術展 慰霊のエンジニアリング</li>
+    <li>2019年10月2日 - Museum of Finnish Architecture - Decades of Finnish Architecture 1900–1970 (常設展)</li>
+    <li>2019年10月2日 - Museum of Finnish Architecture - The Cultivated Landscape of Alvar Aalto</li>
+    <li>2019年10月2日 - Designmuseo (Design Museum Helsinki) - Utopia Now: The Story of Finnish Design</li>
+    <li>2019年10月2日 - Designmuseo (Design Museum Helsinki) - Critical Tide</li>
+    <li>2019年10月2日 - キアズマ現代美術館（ヘルシンキ） - Torbjørn Rødland “Fifth Honeymoon”</li>
+    <li>2019年10月2日 - キアズマ現代美術館（ヘルシンキ） - Coexistence （コレクション展）</li>
+    <li>2019年10月1日 - アテネウム美術館（ヘルシンキ） - SILENT BEAUTY</li>
+    <li>2019年10月1日 - アテネウム美術館（ヘルシンキ） - 常設展</li>
+    <li>2019年9月29日 - ラトビア国立図書館 - Five Homes: Stories about adapting</li>
+    <li>2019年9月29日 - Latvian National Museum of Art, Riga / ラトビア国立美術館（リガ） - 常設展</li>
+    <li>2019年9月27日 - Latvian National Museum of Art, Riga / ラトビア国立美術館（リガ） - Mērija’s Journey: The Grosvalds Family Story</li>
+    <li>2019年9月22-23日 - 石巻 - Art Festival 2019 - Reborn</li>
+    <li>2019年9月21日 - 国立西洋美術館 - 松方コレクション展</li>
+    <li>2019年9月7日~8日 - 名古屋・豊田 - あいちトリエンナーレ</li>
+    <li>2019年8月31日 - 森美術館 - 塩田千春展：魂がふるえる</li>
+    <li>2019年8月31日 - エスパス ルイ･ヴィトン東京 - クリスチャン・ボルタンスキー「アニミタスⅡ」</li>
+    <li>2019年8月31日 - 国立新美術館 - クリスチャン・ボルタンスキー「Lifetime」</li>
+    <li>2019年8月10日~12日 - 名古屋・豊田 - あいちトリエンナーレ</li>
+    <li>2019年6月9日 - 新宿眼科画廊 - 「木と森」宏美</li>
+    <li>2019年4月19日 - ゲンロン カオス*ラウンジ 五反田アトリエ - 木村翔馬、名もなき実昌 「ヴァーチャル・リアリティの居心地  」</li>
+    <li>2019年4月10日 - アップリンク渋谷 - ヨーゼフ・ボイスは挑発する</li>
+    <li>2019年2月17日 - 東京国立博物館 - 顔真卿―王羲之を超えた名筆</li>
+    <li>2019年2月9日 - オン・サンデーズ - 最後の名もなき実昌展（平成）</li>
+    <li>2019年2月9日 - EUKARYOTE - HELLO my name is ________</li>
+    <li>2019年2月9日 - hpgrp gallery - 白田一馬 Mashup</li>
+    <li>2019年2月9日 - 岡本太郎記念館 - 瞬間瞬間に生きるー岡本太郎とジャズー</li>
+    <li>2019年2月9日 - 岡本太郎記念館 - 弓指寛治「太郎は戦場へ行った」</li>
+    <li>2019年1月2日 - 福岡アジア美術館 - 闇に刻む光 アジアの木版画運動1930s－2010s</li>
+    <li>2018年12月28日 - ひろしま美術館 - 常設展</li>
+    <li>2018年12月27日 - 国立国際美術館 - ニュー・ウェイブ 現代美術の80年代 &amp; コレクション 2 : 80年代の時代精神から</li>
+    <li>2018年12月25日 - 京都芸術センター - 松元悠『カオラマ』（戯曲：松原俊太郎『カオラマ』第一稿・第二稿）</li>
+    <li>2018年12月16日 - 出光美術館 - 江戸絵画の文雅 ─魅惑の18世紀</li>
+    <li>2018年12月10日 - 新宿眼科画廊 - 「玉川上水沿いの毛」今井桃子</li>
+    <li>2018年12月10日 - 新宿眼科画廊 - 「偉大なるフィクション」山本直輝</li>
+    <li>2018年12月10日 - 新宿眼科画廊 - 「今日も生きておる」諸川もろみ</li>
+    <li>2018年12月9日 - 東京都美術館 - 喜怒哀楽の書</li>
+    <li>2018年12月9日 - 東京都美術館 - 上野アーティストプロジェクト2018 「見る、知る、感じる──現代の書」</li>
+    <li>2018年12月9日 - 東京国立博物館 - マルセル・デュシャンと日本美術</li>
+    <li>2018年12月8日 - 東京国立近代美術館 - アジアにめざめたら：アートが変わる、世界が変わる 1960 - 1990年代</li>
+    <li>2018年12月5日 - VOLVO STUDIO AOYAMA - 北川フラム × 津田大介 アートはなにを救うのか──『情の時代』と芸術祭の行方</li>
+    <li>2018年12月1日 - 国立新美術館 - ピエール・ボナール展</li>
+    <li>2018年12月1日 - 国立新美術館 - 東山魁夷展</li>
+    <li>2018年11月28日 - 新宿眼科画廊 - 「bench」小松真緒、髙橋天真音、富岡美砂、内藤萌香、深澤珠綺、山下源輝</li>
+    <li>2018年11月23日 - Forestlimit - 野村康生ニューヨークへ行く！の会</li>
+    <li>2018年11月23日 - PROJECT 501 - LOVE ART file2: Shunsuke (Collector×Artistトーク#3 高際俊介 &amp; 篠崎裕美子)</li>
+    <li>2018年11月18日 - スペースエルベ(三鷹) - キュンチョメ 完璧なドーナツを遠くへ投げる #3 完璧なドーナツ投票所</li>
+    <li>2018年11月13日 - シネマート新宿 - 活弁！シネマートライブ『戦艦ポチョムキン』</li>
+    <li>2018年11月11日 - 秋田県立近代美術館 - 今こそ、旅しよう　－所蔵品でたどるすばらしき秋田－</li>
+    <li>2018年11月11日 - 秋田県立近代美術館 - 鴻池朋子「ハンターギャザラー」</li>
+    <li>2018年11月11日 - 日本現代詩歌文学館 - ゲームと詩歌―遊ぶこと、生きること</li>
+    <li>2018年11月10日 - 三菱一号館美術館 - フィリップス・コレクション展</li>
+    <li>2018年11月9日 - Temporary Contemporary - 僕らの書展2018</li>
+    <li>2018年11月7日 - SNACK＆BAR ユートピア - アートスナック大浄土 第２夜 店長『弓指 寛治』トーク「誰も「仏像」など見てはいないーー『仏像と日本人』刊行記念」 黒瀬陽平 ☓ 碧海寿広</li>
+    <li>2018年10月28日 - ゲンロン カオス*ラウンジ 五反田アトリエ - 有地慈 「スーパー・プライベートⅢ 約束された街で」</li>
+    <li>2018年10月28日 - 出光美術館 - 仙厓礼賛</li>
+    <li>2018年10月27日 - KANA KAWANISHI GALLERY - 森 ナナ 個展『Nucleus』 (トーク 現代における墨の芸術的拡張性を探る 栗本高行 × 森ナナ)</li>
+    <li>2018年10月26日 - 旧歌舞伎町ブックセンタービル - Chim↑Pom にんげんレストラン (core of bells × 危口統之「moshing maniac in 歌舞伎町」)</li>
+    <li>2018年10月26日 - 新宿眼科画廊 - 「One Scene」さめほし</li>
+    <li>2018年10月23日 - 代官山 蔦屋書店 - 『直島誕生』刊行記念トーク 秋元雄史×石川康晴 現代アートは地域をどう変えるのか</li>
+    <li>2018年10月17日 - 新宿御苑 - 第32回 森の薪能</li>
+    <li>2018年10月14日 - 国立国際美術館 - コレクション1 : 2014 → 1890</li>
+    <li>2018年10月13日 - 太陽の塔 - 常設展</li>
+    <li>2018年10月13日 - あべのハルカス美術館 - 太陽の塔展</li>
+    <li>2018年10月7日 - 専門学校桑沢デザイン研究所 - 桑沢祭2018</li>
+    <li>2018年10月7日 - 21_21 DESIGN SIGHT - WAKU WORK ―津森千里の仕事展―</li>
+    <li>2018年10月7日 - 21_21 DESIGN SIGHT - AUDIO ARCHITECTURE：音のアーキテクチャ展</li>
+    <li>2018年10月6日 - 新宿眼科画廊 - ポートフォリオ展2018 (福重美幸子、miureel、ハムスターの息子に産まれて良かった)</li>
+    <li>2018年9月29日 - ワタリウム美術館 - 梅沢和木トーク「梅沢和木作品の超詳細解説」</li>
+    <li>2018年9月29日 - EYE OF GYRE - 2018年のフランケンシュタインーバイオアートにみる芸術と科学と社会のいま（Aki INOMATA×高橋洋介×飯田高誉トークセッション）</li>
+    <li>2018年9月28日 - NADiff - 『MASAHISA FUKASE』刊行記念トーク 深瀬昌久にとっての「私性」「エゴイズム」（トモ・コスガ、戸田昌子）</li>
+    <li>2018年9月23日 - 徳川美術館 - もじえもじ―文字が絵になる、絵が文字になる―</li>
+    <li>2018年9月23日 - 徳川美術館 - 常設展</li>
+    <li>2018年9月21日 - ゲンロン カオス*ラウンジ 五反田アトリエ - ゲンロン カオス*ラウンジ新芸術校 第4期生展覧会グループA『オソレの品種改良』</li>
+    <li>2018年9月15日~16日 - 山形（東北芸術工科大学） - 山形ビエンナーレ2018</li>
+    <li>2018年9月9日 - EUKARYOTE - Multi shutter／マルチシャッター</li>
+    <li>2018年9月9日 - 東京国立近代美術館 - ゴードン・マッタ=クラーク展</li>
+    <li>2018年9月8日 - 国立西洋美術館 - ミケランジェロと理想の身体</li>
+    <li>2018年9月8日 - 東京都美術館 - 藤田嗣治展</li>
+    <li>2018年9月8日 - 上野の森美術館 - 世界を変えた書物展</li>
+    <li>2018年9月8日 - Bambianrt Gallery - スクリプカリウ落合安奈『明滅する輪郭』</li>
+    <li>2018年9月8日 - 3331アーツ千代田 - TOHOKU CALLING 大学院レビュー</li>
+    <li>2018年9月8日 - 3331アーツ千代田 - ワンピース倶楽部展VOL.11「はじめてかもしれない」</li>
+    <li>2018年9月2日 - ワタリウム美術館 - 梅沢和木トーク「ハイパー ランドスケープ論」</li>
+    <li>2018年9月1日 - 国立新美術館 - ルーヴル美術館展 肖像芸術―人は人をどう表現してきたか</li>
+    <li>2018年8月25日 - KUNSTARZT - 「呪と祝」 久保ガエタン 久保木要 天牛美矢子 西太志</li>
+    <li>2018年8月24日 - 奈良国立博物館 - 糸のみほとけ―国宝 綴織當麻曼荼羅と繡仏―</li>
+    <li>2018年8月12日 - 東京ビッグサイト - コミックマーケット94</li>
+    <li>2018年8月11日 - 新宿眼科画廊 - 卓上の天国 - がんか食堂</li>
+    <li>2018年8月5日 - 十日町 - 大地の芸術祭 越後妻有アートトリエンナーレ2018</li>
+    <li>2018年8月3日 - EUKARYOTE - 海野林太郎個展 「サスペンデッド・エクスプローラー！」</li>
+    <li>2018年8月3日 - EUKARYOTE - 香月恵介個展 「Les Nymphéas」</li>
+    <li>2018年8月3日 - Bギャラリー - 儀間朝龍 「SOME POP」</li>
+    <li>2018年7月25日 - 新宿眼科画廊 - 「仮想と永遠」名取加奈子</li>
+    <li>2018年7月25日 - 新宿眼科画廊 - 「mmm」FURUSAWA Mikako、MISAWA Haruka、TAMINAGA Momoka</li>
+    <li>2018年7月25日 - 新宿眼科画廊 - 「Motif of M」Aizawa Michiko</li>
+    <li>2018年7月22日 - BUCKLE KÔBÔ - カオス*ラウンジ 現代美術ヤミ市</li>
+    <li>2018年7月14日 - 横浜美術館 - モネ それからの100年</li>
+    <li>2018年7月8日 - 六本木ヒルズA/Dギャラリー - カオス*ラウンジ 破滅*アフター</li>
+    <li>2018年7月8日 - TRADING MUSEUM COMME des GARÇONS - 桑田卓郎作品展</li>
+    <li>2018年6月17日 - 横浜美術館 - コレクション展</li>
+    <li>2018年6月17日 - 横浜美術館 - ヌード展</li>
+    <li>2018年6月16日 - gallery αM - 絵と、vol.2 藤城嘘 Uso FUJISHIRO</li>
+    <li>2018年6月22日 - Zerobase Salon - キュンチョメ「トラを食べたハト」</li>
+    <li>2018年6月13日 - 新宿眼科画廊 - bow、齊藤公太郎、沼澤成毅 - サーフェイス 竹久直樹、cha</li>
+    <li>2018年6月9日 - 名古屋城 - 名古屋城 本丸御殿</li>
+    <li>2018年6月3日 - 原美術館 - 現代美術に魅せられて－原俊夫による原美術館コレクション展【後期】</li>
+    <li>2018年6月2日 - RED Photo Gallery - Tomoya Matsuura [life beside you]</li>
+    <li>2018年6月2日 - Place M - 東京写真月間2018 [アジアの写真家たち2018スリランカ]</li>
+    <li>2018年5月31日 - EYE OF GYRE - 落合陽一 山紫水明∽事事無碍∽計算機自然</li>
+    <li>2018年5月31日 - エスパス ルイ・ヴィトン東京 - ベルトラン・ラヴィエ Medley (Works from the Collection)</li>
+    <li>2018年5月27日 - ゲンロン カオス*ラウンジ 五反田アトリエ - 山縣良和『人山人』</li>
+    <li>2018年5月13日 - 森美術館 - 建築の日本展：その遺伝子のもたらすもの</li>
+    <li>2018年5月13日 - ヒューマントラストシネマ有楽町 - ザ・スクエア　思いやりの聖域</li>
+    <li>2018年5月13日 - 三菱一号館美術館 - ルドンー秘密の花園</li>
+    <li>2018年5月6日 - 京都市立芸術大学ギャラリー@KCUA - 京芸 transmit program 2018</li>
+    <li>2018年5月6日 - 京都芸術センター - ニューミューテーション －変・進・深化</li>
+    <li>2018年5月5日~7日 - 京都市内各所 - KYOTOGRAPHIE 京都国際写真祭</li>
+    <li>2018年5月4日 - 兵庫県立美術館 - Back to 1918: 10年ひとむかしと人は言う</li>
+    <li>2018年5月4日 - 兵庫県立美術館 - 小磯良平と吉原治良</li>
+    <li>2018年5月1日 - 国立民族学博物館 - 太陽の塔からみんぱくへ―70年万博収集資料</li>
+    <li>2018年4月30日 - 国立国際美術館 - トラベラー：まだ見ぬ地を踏むために</li>
+    <li>2018年4月29日 - ondo - 大槻香奈画集「その赤色は少女の瞳」出版記念展</li>
+    <li>2018年4月28日 - 南天満公園 - 劇団唐組第６１回公演『吸血姫』</li>
+    <li>2018年4月28日 - 中之島香雪美術館 - 珠玉の村山コレクション ～愛し､守り､伝えた～ II 美しき金に心をよせて</li>
+    <li>2018年4月28日 - 東京ステーションギャラリー - くまのもの 隈研吾とささやく物質、かたる物質</li>
+    <li>2018年4月21日 - mograg garage - mograg 10th Anniversary Exhibition “てん”</li>
+    <li>2018年4月15日 - 川崎市岡本太郎美術館 - 第21回岡本太郎現代芸術賞展(TARO賞)</li>
+    <li>2018年4月11日 - ゲンロン カオス*ラウンジ 五反田アトリエ - 弓指寛治個展『四月の人魚』</li>
+    <li>2018年3月29日~30日 - 香港コンベンション＆エキシビション・センター - アートバーゼル香港2018</li>
+    <li>2018年3月25日 - 東京オペラシティアートギャラリー - 谷川俊太郎展</li>
+    <li>2018年3月25日 - トーキョーアーツアンドスペース - WONDER SEEDS 2018</li>
+    <li>2018年3月25日 - カマタ_ソーコ - 第1回 Kavli IPMUアーティスト・イン・レジデンスプログラム参加作家展（野村康生）</li>
+    <li>2018年3月24日 - 上野の森美術館 - VOCA展2018</li>
+    <li>2018年3月24日 - ゲンロン カオス*ラウンジ 五反田アトリエ - 『新しい平面の作家その一部コア――梅沢和木、浦川大志、百頭たけし』【梅沢和木作品集刊行記念】 トークイベント：インターフェイスのなかの「震災後」 石岡良治、黒瀬陽平</li>
+    <li>2018年3月11日 - エスパス ルイ・ヴィトン東京 - ヤン・フードン The Coloured Sky: New Women II</li>
+    <li>2018年3月11日 - ワタリウム美術館 - マイク・ケリー展 DAY IS DONE 自由のための見世物小屋</li>
+    <li>2018年3月10日 - Gallery OUT of PLACE TOKIO - Houxo Que “apple”</li>
+    <li>2018年3月10日 - 3331アーツ千代田 - 3331 Art Fair 2018</li>
+    <li>2018年3月10日 - 東京国際フォーラム - Art Fair Tokyo 2018</li>
+    <li>2018年3月4日 - TERRADA ART COMPLEX - Asian Art Award 2018 supported by Warehouse TERRADA – ファイナリスト展</li>
+    <li>2018年3月4日 - 原美術館 - 現代美術に魅せられて－原俊夫による原美術館コレクション展【前期】</li>
+    <li>2018年3月4日 - ゲンロン カオス*ラウンジ 五反田アトリエ - ゲンロン カオス*ラウンジ 新芸術校 第3期 選抜成果展 2018 「サードパーティ」および落選展 「怪獣の時代」</li>
+    <li>2018年3月3日 - The Artcomplex Center of Tokyo - コレクターズウィーク 関一彦、小泉清、佐々真</li>
+    <li>2018年3月2日 - Bギャラリー - 桑田卓郎 『USE/ユーズ』</li>
+    <li>2018年2月24日 - 東京都写真美術館 - 第10回 恵比寿映像祭（2018）インヴィジブル Mapping the Invisible</li>
+    <li>2018年2月12日 - 新宿眼科画廊 - 安東和之  スーパーハンコアート展『TOKYO』</li>
+    <li>2018年2月12日 - 青山クリスタルビル - 会田誠展 GROUND NO PLAN</li>
+    <li>2018年2月11日 - 東京都美術館 - 日本盆栽協会 国風盆栽展</li>
+    <li>2018年2月10日 - 文化学園服飾博物館 - 寒さと衣服</li>
+    <li>2018年2月4日 - Eukaryote - Super Circulation / 超循環</li>
+    <li>2018年2月4日 - KIDO Press - 版画祭/ Printmaking Festival</li>
+    <li>2018年2月3日 - 中央本線画廊 - 杉本憲相 個展『何十年も前に死んだ。』</li>
+    <li>2018年1月19日 - KOKI ARTS - Winter Show (篠田守男、真島明子、エイミー・ジョヴァンナ・リナルディ) トークイベント</li>
+    <li>2018年1月14日 - 新宿武蔵野館 - ドリス・ヴァン・ノッテン ファブリックと花を愛する男</li>
+    <li>2018年1月14日 - 東京都庭園美術館 - 装飾は流転する</li>
+    <li>2018年1月13日 - KANA KAWANISHI GALLERY - アキラトアリキノアラタナアリタ：現代陶芸としての有田焼（トークイベント「『現代陶芸』をかんがえる：伝統工芸と現代美術の摩擦が生み出す新しきもの」）</li>
+    <li>2018年1月13日 - 東京ステーションギャラリー - 鉄道絵画発→ピカソ行 コレクションのドア、ひらきます (山田純嗣 トークイベント)</li>
+    <li>2018年1月13日 - 東京国立近代美術館 - 熊谷守一 生きるよろこび</li>
+    <li>2018年1月12日 - 桑沢ビル - 「ふつう」をつくったデザイナー 桑澤洋子 活動と教育の軌跡</li>
+    <li>2018年1月7日 - いわき市泉 - カオス*ラウンジ新芸術祭2017 市街劇「百五〇年の孤独」</li>
+    <li>2018年1月6日 - 伊勢丹アートギャラリー - アートのチカラ (後半戦)</li>
+    <li>2018年1月5日 - 伊勢丹アートギャラリー - アートのチカラ (前半戦)</li>
+    <li>2018年1月4日 - 福岡アジア美術館 - ようこそ、ミャンマー美術へ！</li>
+    <li>2018年1月3日 - 九州国立博物館 - 白隠ささと仙厓さん</li>
+    <li>2017年12月16日 - スパイラル - spiral take art collection 2017 “SHU SHU SHU SHOW” 蒐集衆商</li>
+    <li>2017年12月16日 - 出光美術館 - 書の流儀Ⅱ ─美の継承と創意</li>
+    <li>2017年12月9日 - ワタリウム美術館 - リボーンアート・フェスティバル東京展</li>
+    <li>2017年12月3日 - WALL原宿 - 愛☆まどんな個展「晴れと天才」</li>
+    <li>2017年12月1日 - 新宿眼科画廊 - 「BOX/RING」 RYOHEI KANEDA &amp; KAZUKI TAKAKURA</li>
+    <li>」 - 不忍画廊 - 2017年11月26日 - 影のない - 山田純嗣個展「絵画をめぐって</li>
+    <li>2017年11月10日 - 青山スパイラル - 山口小夜子 没後10年追悼上映会「宵待月に逢いましょう」</li>
+    <li>2017年10月28日 - サントリー美術館 - 天下を治めた絵師 狩野元信</li>
+    <li>2017年10月8日 - 森美術館 - サンシャワー</li>
+    <li>2017年10月3日 - 国立新美術館 - サンシャワー</li>
+    <li>2017年9月30日 - 六本木 - 六本木アートナイト2017</li>
+    <li>2017年9月30日 - NANATASU GALLERY - 明円光 「ペンギン塗りたて」</li>
+    <li>2017年9月30日 - 青山目黒 - 時間の形式、その制作と方法ーー田中功起作品とテキストから考える</li>
+    <li>2017年9月23日 - 札幌（モエレ沼公園） - 札幌国際芸術祭 2017</li>
+    <li>2017年9月9日 - ホテルオークラ福岡 - ART FAIR ASIA FUKUOKA 2017</li>
+    <li>2017年9月20日 - ビリケンギャラリー - カオス*ラウンジ9『Vapor地獄』</li>
+    <li>2017年9月20日 - SEZON ART GALLERY - ground under</li>
+    <li>2017年9月2日~4日 - 石巻 - リボーンアート・フェスティバル2017</li>
+    <li>2017年8月26日 - KANA KAWANISHI PHOTOGRAPHY - マイヤ・タンミ個展 『白兎熱 / White Rabbit Fever』</li>
+    <li>2017年8月26日 - Kaikai Kiki Gallery - 陶芸↔現代美術の関係性ってどうなってんだろう？（現代美術の系譜に陶芸の文脈も入れ込んで）</li>
+    <li>2017年8月26日 - エスパス ルイ・ヴィトン東京 - ダン･フレイヴィン個展</li>
+    <li>2017年8月25日 - ゲンロンカオス*ラウンジ五反田アトリエ - 藤城嘘 個展「ダストポップ」</li>
+    <li>2017年8月24日 - ディーゼルアートギャラリー - Sensibility and Wonder by John Dove and Molly White</li>
+    <li>2017年8月24日 - EYE OF GYRE - 工芸未来派 Bridge Art and Craft 工芸ブリッジ</li>
+    <li>2017年8月6日 - パークホテル東京 - ホテルアートフェス2017</li>
+    <li>2017年8月6日 - 青山ブックセンター - 「視覚から指先へ」 梅沢和木×東浩紀 トークショー＋サイン会</li>
+    <li>2017年7月16日 - SEZON ART GALLERY - DERIVATION from the TRUNK - 小野耕石・増田将大・菊池遼 「派生する幹」</li>
+    <li>2017年5月14日 - 国立新美術館 - 草間彌生「わが永遠の魂」</li>
+    <li>2017年5月19日 - 3331アーツ千代田 - 3331 Art Fair 2017</li>
+    <li>2017年5月13日 - hpgrp gallery tokyo - 野村康生個展「Dimensionism」トークイベント</li>
+    <li>2017年4月28日 - Kaikai Kiki Gallery - 陶芸・彫刻を考えるきっかけ：信楽に撒かれた種 トークイベント「生活工芸懐疑論」</li>
+    <li>2017年4月21日 - hpgrp gallery tokyo - 野村康生個展 「Dimensionism」</li>
+    <li>2017年4月2日 - KEN NAKAHASHI - Mihoko Ogaki 「Threshold」</li>
+    <li>2017年3月31日 - Frantic Gallery - 菊池遼個展 「無/（分節）」</li>
+    <li>2017年3月20日 - 3331アーツ千代田 - 3331 Art Fair 2017</li>
+    <li>2017年3月19日 - ICC - アート＋コム／ライゾマティクスリサーチ 『光と動きの「ポエティクス／ストラクチャー」』</li>
+    <li>2017年3月17日 - 東京国際フォーラム - Art Fair Tokyo 2017</li>
+    <li>2017年3月12日 - ラフォーレミュージアム原宿 - IAMAS20 Calculated Imagination</li>
+    <li>2017年3月10日 - 国立新美術館 - ミュシャ展</li>
+    <li>2017年2月24日 - 山本現代 - Malformed Objects</li>
+  </ul>
+  <h2 id="アートコレクション">アート・コレクション</h2>
+  <p>2021年7月6日時点で20組・33点です。</p>
+  <ol>
+    <li>愛☆まどんな</li>
+    <li>Lee Du Ri</li>
+    <li>稲葉高志</li>
+    <li>ウィスット・ポンニミット</li>
+    <li>梅沢和木</li>
+    <li>菊池遼</li>
+    <li>キュンチョメ</li>
+    <li>桑田卓郎</li>
+    <li>小林恵実子</li>
+    <li>さめほし</li>
+    <li>柴田謙司</li>
+    <li>杉本憲相</li>
+    <li>名取加奈子</li>
+    <li>名もなき実昌</li>
+    <li>野村康生</li>
+    <li>マイヤ・タンミ</li>
+    <li>明円光</li>
+    <li>MES</li>
+    <li>山田純嗣</li>
+    <li>ヨーゼフ・ボイス</li>
+  </ol>
+  <p>いくつかは <a href="https://www.instagram.com/explore/tags/zerobasecollection/">Instagram (#zerobasecollection)</a> に掲載しています。</p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[UX JAM in FUKUOKA 02 でウィキペディアについて講演]]></title>
+  <link href="https://hideishi.com/activity/2019/12/18/wikipedia.html"/>
+  <updated>2019-12-18T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2019/12/18/wikipedia</id>
+  <content type="html"><![CDATA[<p>2019年12月18日、 UX JAM in FUKUOKA 02 に登壇し、ウィキペディアの「ユーザーエクスペリエンス」を書いた話をしました。</p>
+  <div class="responsive embed aspect16x9"><iframe width="560" height="315" src="//www.youtube.com/embed/RZMebukqLd4" allowfullscreen="" style="border: none;"></iframe></div>
+  <p>関連記事：<a href="https://www.zerobase.jp/2017/09/20/wikipedia-user-experience.html">ウィキペディアの記事「ユーザーエクスペリエンス」を執筆 正しい知識の普及のために - Zerobase</a></p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[Ethical UX Meetup #4 でデザイン倫理の講演]]></title>
+  <link href="https://hideishi.com/activity/2019/12/17/ethical-ux-disobedience.html"/>
+  <updated>2019-12-17T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2019/12/17/ethical-ux-disobedience</id>
+  <content type="html"><![CDATA[<p>2019年12月17日、福岡で開催された Ethical UX Meetup #4 に登壇し、デザイン倫理としての不服従 (disobedience) について話しました。</p>
+  <p>正しいことをする上で、会社や上司の方針に抗わなければならないときが来るかもしれません。そんなとき力になるのは社外のつながりです。</p>
+  <div class="responsive embed aspect16x9"><iframe width="560" height="315" src="//www.youtube.com/embed/lReBCGkMicw" allowfullscreen="" style="border: none;"></iframe></div>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[オブジェクト指向とパーソナル・コンピューティングの歴史について講演しました]]></title>
+  <link href="https://hideishi.com/activity/2019/12/01/object-oriented-psychedelics.html"/>
+  <updated>2019-12-01T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2019/12/01/object-oriented-psychedelics</id>
+  <content type="html"><![CDATA[<p>2019年12月1日、Fukuoka Growth NextにてFGNエンジニアMeetup vol. 4に登壇し、「オブジェクト指向幻覚剤 カウンターカルチャーとしてのパーソナル・コンピューティング小史（仮）」という講演をしました。<a href="https://www.evernote.com/l/AAeQBA7OY_tM6L8G0O3pCycFl8A6jAEA2VY">年表</a>と<a href="https://youtu.be/vF2Z1woA7B8">動画</a>があります。</p>
+  <div class="responsive embed aspect16x9"><iframe width="560" height="315" src="//www.youtube.com/embed/vF2Z1woA7B8" allowfullscreen="" style="border: none;"></iframe></div>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[オブジェクト指向のハードコア]]></title>
+  <link href="https://hideishi.com/activity/2019/05/25/object-orientation.html"/>
+  <updated>2019-05-25T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2019/05/25/object-orientation</id>
+  <content type="html"><![CDATA[<p>オブジェクト指向のハードコアは2019年5月25日にゼロベースサロンで行われたイベントです。「オブジェクト指向」というキーワードについて、プログラミング、デザイン、哲学などの分野を横断しつつ知的な議論ができました。記録映像は必見です。</p>
+  <p>詳しくは<a href="https://www.zerobase.jp/salon/2019/05/25/hardcore-oo.html">ゼロベースのウェブサイト</a>へ。</p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[IAカンファレンス2019に参加し、報告会に登壇しました]]></title>
+  <link href="https://hideishi.com/activity/2019/04/08/iac19.html"/>
+  <updated>2019-04-08T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2019/04/08/iac19</id>
+  <content type="html"><![CDATA[<p>フロリダ州オーランドで開催された<a href="https://www.theiaconference.com/">インフォメーション・アーキテクチャ・カンファレンス (IAC)</a> に参加しました。<a href="/activity/2016/05/08/ia-sumimt.html">2016年</a>以来3年ぶりの参加となります。</p>
+  <p>その後、<a href="https://recruit-lifestyle.connpass.com/event/126174/">東京での報告会</a>に登壇しました。ゼロベースサロンでも<a href="https://www.zerobase.jp/salon/2019/04/24/hardcore-ia.html">IAC19の報告を兼ねたイベント</a>を開催しました（※記録映像を公開）。</p>
+  <p>今回から運営母体が代わり、よりコミュニティ色や政治色が強いイベントになったと思います。また、デザイン倫理の議論が多かったことも印象的でした。そういった議論を日本の人たちとも共有したいと思いました。</p>
+  <p><img src="/assets/activity/2019-04-08-iac19/1.jpg" alt="" />
+    <img src="/assets/activity/2019-04-08-iac19/2.jpg" alt="" />
+    <img src="/assets/activity/2019-04-08-iac19/3.jpg" alt="" /></p>
+  ]]></content>
+</entry>
+<entry>
+  <title type="html"><![CDATA[情報アーキテクチャの最前線 IA Summit 2018報告会]]></title>
+  <link href="https://hideishi.com/activity/2018/07/27/2018-07-27-cutting-edge-ia.html"/>
+  <updated>2018-07-27T00:00:00+00:00</updated>
+  <id>https://hideishi.com/activity/2018/07/27/2018-07-27-cutting-edge-ia</id>
+  <content type="html"><![CDATA[<p>2018年7月27日にゼロベースサロンで情報アーキテクチャの最前線 IA Summit 2018報告会を行いました。</p>
+  <p>詳しくは<a href="https://www.zerobase.jp/salon/2018/07/27/cutting-edge-ia.html">ゼロベース株式会社のウェブサイト</a>へ。</p>
+  ]]></content>
+</entry>
+</feed>

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>なぜインブラウザー・デザインへの移行が必要なのか？（石橋秀仁）</title>
+    <meta name="description" content="ウェブというメディアの技術的側面を理解し、その特性を活かすことで、より良いデザインができます。">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/print.css" media="print">
+    <link rel="canonical" href="https://hideishi.com/blog/2013/04/18/in_browser.html">
+    <link href="/assets/thumbnail.jpg" type="image/png" rel="icon">
+    <link href="/assets/thumbnail.jpg" rel="apple-touch-icon">
+    <link rel="pgpkey" href="/hideishi.pubkey.asc"/>
+    <link href="/atom.xml" rel="alternate" title="石橋秀仁" type="application/atom+xml">
+    <meta property="og:title" content="なぜインブラウザー・デザインへの移行が必要なのか？（石橋秀仁）">
+    <meta property="og:description" content="ウェブというメディアの技術的側面を理解し、その特性を活かすことで、より良いデザインができます。">
+    <meta property="og:url" content="https://hideishi.com/blog/2013/04/18/in_browser.html">
+    <meta property="og:image" content="https://hideishi.com/assets/blog/2013-04-18-in_browser/thumbnail.png">
+    <meta property="og:site_name" content="石橋秀仁">
+    <meta property="og:locale" content="">
+    <meta property="og:type" content="article">
+    <meta property="fb:app_id" content="">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:creator" content="@" />
+    <meta name="twitter:title" content="なぜインブラウザー・デザインへの移行が必要なのか？（石橋秀仁）" />
+    <meta name="twitter:description" content="ウェブというメディアの技術的側面を理解し、その特性を活かすことで、より良いデザインができます。" />
+    <meta name="twitter:image" content="https://hideishi.com/assets/blog/2013-04-18-in_browser/thumbnail.png">
+  </head>
+  <body>
+    <header class="site header">
+      <nav class="top_navigation container">
+        <ul class="top_navigation-items">
+          <li>
+            <a href="/">
+              <img alt="石橋秀仁の顔の写真" src="/assets/thumbnail.jpg" class="vid">
+            </a>
+          </li>
+          <li class="active">
+            <a href="/blog/">ブログ</a>
+          </li>
+          <li >
+            <a href="/activity/">活動</a>
+          </li>
+          <li >
+            <a href="/podcast/">Podcast</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="main container">
+      <main class="blog post">
+        <article>
+          <header>
+            <h1 class="page title">
+              なぜインブラウザー・デザインへの移行が必要なのか？
+            </h1>
+            <p class="meta author">石橋秀仁 (Hideto Ishibashi)</p>
+            <p class="meta time">2013年4月18日</p>
+                </header>
+          <section class="article-body">
+            <p><img src="/assets/blog/2013-04-18-in_browser/screenshot.png" alt="" class="fig"></p>
+            <p>QxilというQ&amp;Aサイトで、藤原由翼さんが興味深い質問をしていました：</p>
+            <blockquote>
+              <p>皆さんはWebデザイナーのキャリアやスキルセットは今後どうあるべきだと思いますか？ (どうあることを期待されているかという経営者視点でのコメントもお待ちしています。)  – <a href="http://qixil.jp/q/303" target="_blank">藤原 由翼さんの質問</a></p>
+            </blockquote>
+            <p>最初に「スキル不足なウェブ・デザイナー」から考えてみることにしましょう。「可変サイズを想定していないレイアウト」「ピクセル単位でない」「CMYKカラー・モデル」などのカンプをデザイナーが作るせいで、マークアップ・エンジニアが無駄な苦労をするハメになる。そういう苦労話（あるいは笑い話）はよく聴きます。ここには「<strong>デザインとテクノロジーの関係についての本質</strong>」が見え隠れしていると思います。そのあたりから考えていきましょう。</p>
+            <p>最初にこの文章の内容を要約しておきます。</p>
+            <ul>
+              <li><strong>メディアの技術的側面を理解し、その特性を活かすことが、より良いデザインに通じる。</strong></li>
+              <li><strong>ウェブ・デザイナーはインブラウザー・デザインを習得する必要がある。</strong></li>
+            </ul>
+            <p>では、始めましょう。</p>
+            <h2 id="デザインとテクノロジーとメディアの関係">デザインとテクノロジーとメディアの関係</h2>
+            <p><strong>デザインにとって重要な課題は、デザインの対象となるメディアの技術的側面を理解し、その特性を活かすことです。</strong></p>
+            <p>印刷物を扱う優れたデザイナーは、<strong>紙というメディア</strong>を熟知しているはずです。様々な紙の種類や寸法を知り、インクや製本も知って、それらを適切に用いるはずです。つまり、印刷テクノロジーについての理解に基づいてデザインするはずです。</p>
+            <p>同様に、ウェブを扱う優れたデザイナーは、<strong>ウェブというメディア</strong>を熟知しているはずです。HTTP、HTML、CSS、JavaScriptを知り、それらを適切に用いるはずです。つまり、ウェブ・テクノロジーについての理解に基づいてデザインするはずです。</p>
+            <p>ですから、良いウェブ・デザインのためにはウェブ・テクノロジーへの理解が欠かせません。</p>
+            <h2 id="ウェブというメディアの特性">ウェブというメディアの特性</h2>
+            <p><strong>ウェブは「見た目の一貫性」を保証せず、「意味上の一貫性」を保証するメディアです。</strong>簡単に言うと、次のようなことです。</p>
+            <p>ウェブというメディアは、「Photoshopで作ったデザイン・カンプ通りに、ユーザーのブラウザーに表示されること」を保証しません。デバイスによって見た目が変わってしまいます。例えばユーザーのOSとブラウザを特定しても、ブラウザーの機能で「文字サイズを拡大」などの操作ができてしまうわけです。<strong>見た目の決定権がユーザー側にもあります。</strong></p>
+            <p>ウェブというメディアは、「コンテンツの意味がきちんとユーザーに伝わること」を最大限に保証します。ユーザーのデバイスによってコンテンツの「見た目」は変わりますが、なるべく同じ「<strong>意味</strong>」を伝えようとします。これがウェブというメディアの技術的特性です。</p>
+            <h2 id="レスポンシブウェブデザインとインブラウザーデザインアプローチ">レスポンシブ・ウェブ・デザインとインブラウザー・デザイン・アプローチ</h2>
+            <p>ウェブというメディアの技術的特性と積極的に向き合うことで、多様なデバイスに対応することができるようになります。その代表的な手法が「<strong>レスポンシブ・ウェブ・デザイン</strong>」です。レスポンシブ・ウェブ・デザインは、ウェブというメディアの特性を活かしたデザイン・アプローチの好例です。</p>
+            <p>スマートフォンの機種が無数に出現してくる現代、すべての機種に個別対応していくことは非現実的です。むしろ「どんなデバイスからアクセスされても、一貫した意味を伝えるデザイン」にする必要があります。そこで、セマンティック（<strong>意味</strong>論的）なマークアップと、レスポンシブ・ウェブ・デザインのような手法が必要になります。</p>
+            <p>次に、セマンティックなマークアップと、レスポンシブ・ウェブ・デザインを実現するためのワークフローを考えましょう。私の考えでは、インブラウザー・デザインが答えです。</p>
+            <p>インブラウザー・デザインは、「最終成果物をブラウザーで閲覧するのだから、最初からHTMLやCSSを書いて、ブラウザー上で確認しながらデザインしていけばいいじゃないか」というアプローチです。ウェブの技術的特性を活かした、筋の良いアプローチだと思います。</p>
+            <h2 id="インブラウザーデザイン側から従来型手法への批判">インブラウザー・デザイン側から従来型手法への批判</h2>
+            <p>歴史的に考えると、インブラウザー・デザインは従来型ワークフローへのアンチテーゼになっています。ここで批判されているのは「Photoshopによるデザイン・カンプ」や、「清書されたワイヤ・フレーム」といった「中間成果物」に偏重した手法です。</p>
+            <p>まず、デザイン・カンプ通りに（つまり「ピクセル・パーフェクト」）に実装することは、可能でもなければ、望ましくもありません。見た目の決定権はユーザー側にもあるからです。</p>
+            <p>また、デザイン作業の中間成果物のほとんどは、デジタルデータとして最終成果物に直接組み込まれるわけではありませんし、制作完了後にもメンテされない「ゴミ」になってしまいます。つまり「無駄」が多いのです。 <sup id="fnref:waste" role="doc-noteref"><a href="#fn:waste" class="footnote" rel="footnote">1</a></sup></p>
+            <p>他にはどのような言論があるでしょうか。例えば <a href="http://webdesign.tutsplus.com/articles/tips-for-designing-in-the-browser--webdesign-10340" target="_blank">“Tips for Designing in the Browser” (Webdesigntuts+)</a> では、従来型手法の問題点を、次のように指摘しています：</p>
+            <blockquote>
+              <ul>
+                <li>Photoshopでのデザインは固定幅ベース</li>
+                <li>ユーザーエクスペリエンスをデモできない</li>
+                <li>作業の重複</li>
+                <li>時間の無駄</li>
+                <li>デザインした通りの見た目にはならない</li>
+              </ul>
+            </blockquote>
+            <p>歴史的経緯として、従来型手法は、印刷物のデザイン・ワークフローに由来しています。従来型手法は「見た目の一貫性」を重視します。ということは、ウェブというメディアにふさわしい手法ではないのです。そのうえ、実際には「見た目の一貫性」も実現されないわけですから、手法として筋が良いとは言えません。</p>
+            <h2 id="インブラウザーデザイン手法の習得">インブラウザー・デザイン手法の習得</h2>
+            <p>従来型手法に馴染んだ人にとっては、インブラウザー・デザインが「難しい」と感じられるかもしれません。ただし、その「難しさ」はインブラウザー・デザイン自体の難しさではありません。これまで学んできたことをいったん捨て、改めて学び直すこと（反学習）の難しさです。ですから、「いったん分かってしまえば、とても簡単に感じられる」ということが往々にしてあります。</p>
+            <p>最後に、インブラウザー・デザインを習得する必要性について、さらなる一押しを加えておきます。インブラウザー・デザインはウェブというメディアの技術的特性を活かしたデザイン手法です。ならば、<strong>ウェブというメディアの技術的特性が大きく変わらない限り有効であり続ける</strong>でしょう。ということは、これは一過性のブームではないし、「離陸」できずに失墜するような「ハイプ」（誇大広告）でもありません。ですから、<strong>長期的には移行は不可避ですし、それゆえ学習は無駄になりません。</strong> <sup id="fnref:forecast" role="doc-noteref"><a href="#fn:forecast" class="footnote" rel="footnote">2</a></sup></p>
+            <h2 id="あとがき">あとがき</h2>
+            <p><strong>「ウェブ業界」は二つあります。</strong></p>
+            <p>「<strong>ウェブ制作系</strong>」あるいは「広告系」のウェブ業界では、デザイナーは、コーポレート・サイトやキャンペーン・サイトなどを中心に手がけます。一方、「<strong>サービス系</strong>」のウェブ業界では、デザイナーは、アプリケーションやサービスをデザインします。いわゆるネット・ベンチャーやウェブ・スタートアップが属するのは後者の「サービス系」です。</p>
+            <p>どちら側に属しているかによっても、見える「世界」は異なります。私自身は両方を理解しようと努めてはいますが、基本的にはサービスとしてのウェブ開発に従事しており、そちら側のバイアスがかかった意見であることは表明しておきます。</p>
+            <p>「ウェブ制作系」と「サービス系」という二分法は、「<strong>ドキュメントとしてのウェブ</strong>」と「<strong>アプリケーションとしてのウェブ</strong>」という対立構図とパラレルです。この構図は、HTML5を紹介するときにもよく引用されます。つまり、HTMLの後者（アプリケーション）の側面を強化したものがHTML5だという説明の仕方です。HTML5では、ドキュメントとアプリケーションの両方を、以前よりうまく扱うことができるようになりました。それによって、ドキュメントの領域とアプリケーションの領域がシームレスにつながってきます。今後はドキュメントとアプリケーションの両方を手がけるウェブ・デザイナーが増えるでしょう。言い換えると、「ウェブ制作系」と「サービス系」のウェブ・デザイナーのスキルセットは重なっていくでしょう。</p>
+            <p>現状では、これら「２つのウェブ業界」の間での、人や知識の交流は案外少ないと思います。ぜひ「もう一方のウェブ業界」のイベントにも参加してみて頂きたいと思います。また、エンジニアの勉強会に参加することで、インブラウザー・デザインの理解が深まるかもしれません。ぜひ「越境」してみてください。</p>
+            <p>HTML5は「二つのウェブ業界」の架け橋になるでしょうか。それは私たちがその橋を渡るかどうかにかかっています。</p>
+            <h2 id="謝辞">謝辞</h2>
+            <p>この文章を書くきっかけを与えてくださった藤原さん、この日に「<a href="https://www.facebook.com/events/369013543216204/376922345758657/" target="_blank">インブラウザーデザイン勉強会</a>」を企画してくださった「こけむさズ」の石嶋さん、講師のこもりさんに感謝します。</p>
+            <h2 id="履歴">履歴</h2>
+            <ul>
+              <li>初版：2013年4月18日</li>
+              <li>第2版：2014年12月16日</li>
+            </ul>
+            <div class="footnotes" role="doc-endnotes">
+              <ol>
+                <li id="fn:waste" role="doc-endnote">
+                  <p>あらゆるドキュメントをムダだと言っているわけではありません。もちろん必要なドキュメントがあります。運用・保守のためのドキュメントは、制作完了後にも参照されます。あるドキュメントが「ゴミ」かどうかを見分けるポイントとして、「最終成果物と共にメンテナンスし続けるドキュメントなら、それはゴミではない」と言うことができます。 <a href="#fnref:waste" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:forecast" role="doc-endnote">
+                  <p>「インブラウザー・デザインは、ウェブというメディアの技術的特性が大きく変わらない限り、有効であり続けるでしょう」と書きました。では、「大きく変わる」とはどういう状況か、想像してみましょう。<a href="http://www.%5Bgoogle.com/glass/start/" target="_blank">Google Glass</a>のような、従来型の「ブラウザー」とはまったく異なるタイプの「ユーザー・エージェント」の普及が想像できます。そうなれば、インブラウザー・デザインと「イングラス(in-glass)・デザイン」を併用するのかもしれません。いずれにせよ、ウェブというメディアでは「見た目の一貫性」よりも「意味上の一貫性」ほうが重要です。つまりは、「レスポンシブ・ウェブ・デザイン」よりも「アクセシビリティ」のほうが本質的あり、「セマンティックなマークアップ」の意義が失われることはないでしょう。 <a href="#fnref:forecast" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+              </ol>
+            </div>
+          </section>
+          <footer>
+          </footer>
+        </article>
+      </main>
+    </div>
+    <footer class="site footer">
+      <div class="copyrights container">
+        <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="/assets/cc-by-88x31.png" width="88" height="31"></a> <a href="/">石橋秀仁 (Hideto Ishibashi)</a>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,37 @@
+@media print {
+  * {
+    background: transparent !important;
+    text-shadow: none !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  body {
+    font-size: 8.5pt;
+  }
+
+  @page {
+    margin: 1.5cm;
+  }
+
+  pre, blockquote {
+    border: 1px solid #999; page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  tr, img {
+    page-break-inside: avoid;
+  }
+
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2, h3 {
+    page-break-after: avoid;
+  }
+}

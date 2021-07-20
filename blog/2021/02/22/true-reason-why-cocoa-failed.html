@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>接触確認アプリCOCOA失敗の本質 ITの問題であると誤認せずに、正しい総括を（石橋秀仁）</title>
+    <meta name="description" content="今回、たまたま「接触確認アプリCOCOAの失敗」という形で、政府の問題が明らかになりました。問題の本質は、政府のガバナンスです。改めるべきは、戦争に負ける日本人の認識論です。">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/print.css" media="print">
+    <link rel="canonical" href="https://hideishi.com/blog/2021/02/22/true-reason-why-cocoa-failed.html">
+    <link href="/assets/thumbnail.jpg" type="image/png" rel="icon">
+    <link href="/assets/thumbnail.jpg" rel="apple-touch-icon">
+    <link rel="pgpkey" href="/hideishi.pubkey.asc"/>
+    <link href="/atom.xml" rel="alternate" title="石橋秀仁" type="application/atom+xml">
+    <meta property="og:title" content="接触確認アプリCOCOA失敗の本質 ITの問題であると誤認せずに、正しい総括を（石橋秀仁）">
+    <meta property="og:description" content="今回、たまたま「接触確認アプリCOCOAの失敗」という形で、政府の問題が明らかになりました。問題の本質は、政府のガバナンスです。改めるべきは、戦争に負ける日本人の認識論です。">
+    <meta property="og:url" content="https://hideishi.com/blog/2021/02/22/true-reason-why-cocoa-failed.html">
+    <meta property="og:image" content="https://hideishi.com/assets/blog/2021-02-22-true-reason-why-cocoa-failed/cocoa-icon.png">
+    <meta property="og:site_name" content="石橋秀仁">
+    <meta property="og:locale" content="">
+    <meta property="og:type" content="article">
+    <meta property="fb:app_id" content="">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:creator" content="@" />
+    <meta name="twitter:title" content="接触確認アプリCOCOA失敗の本質 ITの問題であると誤認せずに、正しい総括を（石橋秀仁）" />
+    <meta name="twitter:description" content="今回、たまたま「接触確認アプリCOCOAの失敗」という形で、政府の問題が明らかになりました。問題の本質は、政府のガバナンスです。改めるべきは、戦争に負ける日本人の認識論です。" />
+    <meta name="twitter:image" content="https://hideishi.com/assets/blog/2021-02-22-true-reason-why-cocoa-failed/cocoa-icon.png">
+  </head>
+  <body>
+    <header class="site header">
+      <nav class="top_navigation container">
+        <ul class="top_navigation-items">
+          <li>
+            <a href="/">
+              <img alt="石橋秀仁の顔の写真" src="/assets/thumbnail.jpg" class="vid">
+            </a>
+          </li>
+          <li class="active">
+            <a href="/blog/">ブログ</a>
+          </li>
+          <li >
+            <a href="/activity/">活動</a>
+          </li>
+          <li >
+            <a href="/podcast/">Podcast</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="main container">
+      <main class="blog post">
+        <article>
+          <header>
+            <h1 class="page title">
+              接触確認アプリCOCOA失敗の本質
+              <span class="meta subtitle">ITの問題であると誤認せずに、正しい総括を</span>
+            </h1>
+            <p class="meta author">石橋秀仁 (Hideto Ishibashi)</p>
+            <p class="meta time">2021年2月22日（2021年5月18日更新）</p>
+                </header>
+          <section class="article-body">
+            <div class="page-description">
+              今回、たまたま「接触確認アプリCOCOAの失敗」という形で、政府の問題が明らかになりました。問題の本質は、政府のガバナンスです。改めるべきは、戦争に負ける日本人の認識論です。
+            </div>
+            <p class="fig-small"><img src="/assets/blog/2021-02-22-true-reason-why-cocoa-failed/cocoa-icon.png" alt="接触確認アプリCOCOAのアイコン"></p>
+            <p>接触確認アプリCOCOAが政治問題化しています。</p>
+            <p>昨年6月、首相の肝煎りでリリースされ、感染対策の切り札担うと期待されました<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>。ダウンロードは2千万件を超えました<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>。しかし、9月末から2月中旬まで、ユーザーの3割ほどを占めるAndroidユーザーに通知が届かない不具合が見つかりました<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>。そしてiOSでも深刻な不具合があると発表されました<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>。政府は、相次ぐ不具合を修正することで、COCOAを正常に機能させようと躍起になっています<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup>。</p>
+            <p>しかし、今回問題になっている不具合より、はるかに大きな問題が放置されたままになっています。そのうえ、それを指摘する人もいません。多くの専門家たちがCOCOA問題について論じているというのに、なぜか問題の本質は語られない。そのような状況に一石を投じるべく、この文章を書いています。</p>
+            <h2 id="cocoaの失敗は統治の失敗">COCOAの失敗は、統治の失敗</h2>
+            <p>COCOAは日本人の能力を超えたプロジェクトでした。そのことを人々が認められないことに、僕は絶望しています。厚労省だけの問題ではありません。犯人探しをして処分すれば済むというものではありません<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup>。ITの問題ですらありません。</p>
+            <p>これは日本の統治能力の問題であり、民度の問題です。なぜそれが分からないのか。</p>
+            <p>「現時点の我々の政府の能力では、このプロジェクトを成功させることはできない」という戦略的思考ができない。精神論でなんでもできると信じている。能力の不足を認めようとしない。あの敗戦から何も学んでいない。</p>
+            <p>COCOAアプリの開発に失敗したことを怒るべきではないのです。やったこと自体が間違いだったのですから。「なぜ無謀なプロジェクトをやったのだ」と怒るべきなのです。その合理的思考ができない人々に絶望しています。あの敗戦から何も学ばなかった人々に。</p>
+            <p>「日本人には能力が足りないから失敗した」という事実を認めることは悔しい。しかし、戦後の日本人なら、この認識に至らないといけません。</p>
+            <p>太平洋戦争は昭和20年ではなく「昭和16年夏」に敗戦していました<sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup>。総力戦研究所が徹底的に合理的な推論によって「日本必敗」の結論を出した時点で。能力不足による必敗を知りつつ、無理に開戦した。その時点ですでに敗戦していたのです。</p>
+            <p>COCOAプロジェクトも同様です。合理的に考えれば、能力不足は明らかだった。それにも関わらず、無理に実行した。それが失敗の本質なのです。結果的にアプリに不具合があったことなんて、どうでもいい話です。後述するように、仮にアプリに不具合がなかったとしても、どうせCOCOAは失敗するのですから。</p>
+            <dl>
+              <dt>COCOAをやるべきでなかった理由(1)</dt>
+              <dd>接触確認アプリ(ENS)が感染制御に有効であるという科学的エビデンスはない。Bluetoothによる距離測定の精度が著しく低く、ENSが原理的に信頼性に乏しいものであることは、ENS発表時点で自明だった<sup id="fnref:8" role="doc-noteref"><a href="#fn:8" class="footnote" rel="footnote">8</a></sup>。エビデンスに基づく政策(EBPM)に関する能力の欠如を示している。</dd>
+              <dt>COCOAをやるべきでなかった理由(2)</dt>
+              <dd>エビデンス不足にも関わらず強行するなら、それ相応の手続き的正統性が必要となる。運用しながらエビデンスを得るための調査計画、及びプロジェクト終了条件やシステム廃棄手続きなど。そういうことができない。統治権力の正統性の欠如。倫理的な正当性の欠如<sup id="fnref:9" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup>。</dd>
+              <dt>COCOAをやるべきでなかった理由(3)</dt>
+              <dd>いわゆる「首相案件」で、緊急事態宣言解除後の県境越え移動解禁に関する首相会見のスケジュールに合わせてリリース日を設定した<sup id="fnref:10" role="doc-noteref"><a href="#fn:10" class="footnote" rel="footnote">10</a></sup>。政治的パフォーマンスありきの無茶な開発スケジュールの設定。実質的な政策成果に対する関心の欠如。ガバナンス能力の欠如。</dd>
+            </dl>
+            <figure>
+              <p><img src="/assets/blog/2021-02-22-true-reason-why-cocoa-failed/shinzo-abe.png" alt=""></p>
+              <figcaption>2020年5月25日の首相記者会見（<a href="https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html" target="_blank">首相官邸ウェブサイト</a>より）</figcaption>
+            </figure>
+            <blockquote>
+              <p>（…）しかし、私は、外出自粛のような社会経済活動を制限するようなやり方はできる限り避けたいと考えています。市中感染のリスクを大きく引き下げていけば、それが可能となります。そして、そのためには、感染者をできるだけ早期に発見するクラスター対策を一層強化することが必要です。その鍵は、接触確認アプリの導入です。<sup id="fnref:1:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+            </blockquote>
+            <p>その他、政府IT調達の問題<sup id="fnref:11" role="doc-noteref"><a href="#fn:11" class="footnote" rel="footnote">11</a></sup>、厚労省のIT担当能力の問題<sup id="fnref:12" role="doc-noteref"><a href="#fn:12" class="footnote" rel="footnote">12</a></sup>、オープンソース開発プロセスの問題<sup id="fnref:13" role="doc-noteref"><a href="#fn:13" class="footnote" rel="footnote">13</a></sup>などは、すでに様々な識者が指摘している通りです。</p>
+            <h2 id="令和2年春の敗戦">令和2年春の敗戦</h2>
+            <p>COCOAをやるべきでなかった理由を3つ上げました。それにもまして問題なのは、それらがCOCOAリリース前から分かっていたということです。後知恵ではなく、やる前から予見できた問題だったのです。それにも関わらず、強行して失敗した。だからこそ、COCOAをやるべきではなかったと、論理的に申し上げているのです。</p>
+            <p>もし「新型コロナウイルス感染症対策テックチーム」や「接触確認アプリに関する有識者検討会合」<sup id="fnref:14" role="doc-noteref"><a href="#fn:14" class="footnote" rel="footnote">14</a></sup>が、昭和16年夏の総力戦研究所のようであったなら、同じ結論に至ったはずです。「接触確認アプリを正しく運用する能力が本邦には不足しているため、このプロジェクトをやるべきではない」という結論に。</p>
+            <p>そのような報告があったのかどうか、検証されるべきだと思います。そして、それがあったとしても、報告を受けた指導者がどのように振る舞ったか。それもまた検証されるべきです。あるいは東条英機のように振る舞ったのかもしれません。</p>
+            <blockquote>
+              <p>諸君の研究の労を多とするが、これはあくまでも机上の演習でありまして、（…）戦というものは、計画通りにいかない。意外裡な事が勝利に繋がっていく。（…）なお、この机上演習の経緯を、諸君は軽はずみに口外してはならぬということであります。 <sup id="fnref:15" role="doc-noteref"><a href="#fn:15" class="footnote" rel="footnote">15</a></sup></p>
+            </blockquote>
+            <h2 id="倫理的な問題">倫理的な問題</h2>
+            <p>このような問題は、すでに情報倫理学者ルチアーノ・フロリディ教授らが指摘していたものです。僕はその論文を翻訳し、COCOAリリース前の5月26日に発表していました。</p>
+            <blockquote>
+              <p>粗末な設計や限定的な検証にも関わらずDTTを稼働させようとする政府は、「なんでもやってみよう」の精神を示すためにそうしようとするのであり、それゆえ批判を無視し、あらゆる犠牲を払ってでもやりかねません。これは危機の時にあっては危険なことです。 <sup id="fnref:9:1" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup></p>
+            </blockquote>
+            <p>COCOAをやらない選択肢はあった。せめて慎重に検討してからやることもできた。しかし、慎重な検討を避け、政治的パフォーマンスありきで強行した。その結果は深刻な失敗です。人々の政府ITシステムに対する信頼が根本的に損なわれる結果となりました。</p>
+            <blockquote>
+              <p>COVID-19状況においては、（あらゆる意味での）コストは高く、「外部性」として無視できません。それは現在の人口と政府を深く速く直撃し、問題全体を悪化させる恐れがあります。なぜなら、倫理的に正しくない類いのDTTシステムは、単に効果がないだけでなく、解決しようとしている問題それ自体を劇化させるかもしれないからです。失敗の繰り返しや高過ぎるコストが市民の信頼を裏切ることにつながる以上、政府には正しく介入するチャンスがただの一度しか与えられていないというべきです。 <sup id="fnref:9:2" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup></p>
+            </blockquote>
+            <p>ですから、これは倫理上の失敗であり、政治的な失敗なのです。これをITの失敗とみなすのは、あまりに表層的な理解だと言わざるをえません。</p>
+            <p>「金槌を持てば、すべてのものが釘に見える」という格言があります。IT専門家がしきりにCOCOA問題について論じています。ITの問題とみなして、どうすれば上手くやれたかを論じています。しかし、そもそもやるべきだったかどうかを問わず、やり方の問題ばかりを論じていることに、強い違和感を覚えます。</p>
+            <h2 id="専門家の諫言と政治判断">専門家の諫言と政治判断</h2>
+            <p>専門家には「上から降ってきた命令を何とかする」という思考が染み付いているのかもしれません。しかし、その命令が正しいかどうかを常に問わなければなりません。命令の倫理的正当性を問わずに粛々とこなす「アイヒマン」になってはいけません<sup id="fnref:16" role="doc-noteref"><a href="#fn:16" class="footnote" rel="footnote">16</a></sup>。</p>
+            <p>良心と良識から、異議を申し立てるべきときがあります。それが専門家の職業倫理というものです。具体的には、「6月19日リリースは無謀です。無理に進めれば、深刻な事故が生じるリスクもあります」と諫言するといったことです。</p>
+            <p>一般的に、官僚には期待しにくい振る舞いです。しかし、民間企業に戻ることもできる、非常勤のCIO補佐官のような立場の人もいます。そういう専門家は、クビをかけてでも諫言すべきではないでしょうか。いわゆる「ジョブ・ディスクリプション」（職務記述書）には書いていなくても、政府中枢で働く専門家の公徳心や職業倫理から。</p>
+            <p>IT専門家が政治家に諫言する。それを受けて、なお政治判断として断行する。そういう政治判断自体はあってもいいでしょう。専門家は、専門知という狭い範囲内で物事を見がちです。最終的に「総合的・俯瞰的」な判断をし、その結果責任を取るのが政治家の仕事です。</p>
+            <p>ただし、「専門家は諫言したが、政治家が断行した」という事実は、公文書に記録されなければなりませんし、のち公開されなければなりません（情報公開制度）。政治過程についてメディアや議会が検証し、責任追究が行われなければなりません。最終的には政権支持率や投票行動に還元されなければなりません。そのようなサンクション（あるいはフィードバック）がなければ、民主主義は機能しません。</p>
+            <h2 id="バグのないゴミアプリ">バグのないゴミアプリ</h2>
+            <p>いま日本政府は、COCOAのバグ（不具合）を解消すべく、開発・保守の体制を立て直そうとしています。しかし、単にバグを解消したところで、まったくの無意味です。「バグだらけのゴミアプリ」が、「バグのないゴミアプリ」になるだけです。</p>
+            <p>バグがなくても、役に立たないアプリはゴミに過ぎません。単に役立たないだけでなく、人々に偽りの希望を与えて裏切るのです。日本社会にとって極めて有害なゴミです。</p>
+            <p>想像してみましょう。いずれ厚生労働大臣が「COCOAのバグを解消しました。改めてインストールして頂き、感染拡大の抑制にご協力ください」と呼びかけます。それから半年か一年ほど経過した頃に、「COCOAに感染抑制の効果なし」という研究結果が報じられます。</p>
+            <p>国民は、「一体何度失敗すれば気が済むのか」と、うんざりするでしょう。政治家は責任を取らないでしょうし、いよいよ政府・厚労省・デジタル庁の信頼も地に落ちます。</p>
+            <p>国民に様々な協力を呼びかけても、かつてのようには応じてもらえなくなります。自粛要請も緊急事態宣言も効きません。この信頼崩壊は、コロナ禍のあとも続くでしょう。</p>
+            <h2 id="正しい立て直し方">正しい立て直し方</h2>
+            <p>COCOAを「走りながら立て直そう」とすべきではありません。</p>
+            <p>いったん運用を停止し、国会に事故調査委を設置し、政治過程を究明すべきです。そして、COCOAとHER-SYSを立て直す計画を慎重に策定すべきです。その実行チームと伴走しながら監督する（民間企業なら取締役会に相当するような）有識者会議を設置すべきです。</p>
+            <p>科学的に有効なシステムにしていくため、必要なデータを収集し、エビデンスを集めながら、感染制御のためのフィードバックシステムとしてチューニングし続けていくべきです。英国<sup id="fnref:17" role="doc-noteref"><a href="#fn:17" class="footnote" rel="footnote">17</a></sup>、ドイツ<sup id="fnref:18" role="doc-noteref"><a href="#fn:18" class="footnote" rel="footnote">18</a></sup>、スイス<sup id="fnref:19" role="doc-noteref"><a href="#fn:19" class="footnote" rel="footnote">19</a></sup>、カナダ<sup id="fnref:20" role="doc-noteref"><a href="#fn:20" class="footnote" rel="footnote">20</a></sup>などの取り組みを参考に。そのために法改正等が必要なら実施すべきです。</p>
+            <p>また、GoogleとAppleが開発し、COCOAの基盤となっているExposure Notification System (ENS)の問題も解決されなければなりません。ENSはユーザーのプライバシーを最重視した設計になっています。各国保健当局が必要とする最低限のデータすら満足に取得できません。そのことは今回COCOAの不具合が何ヶ月も放置されたことの一因ともなっています。</p>
+            <p>このように手足を縛られた状態で、アプリを継続的に改善し、感染抑制という成果につなげることはできません。ENSの仕様や規約の改訂を要求すべきです。もはやENSはAppleやGoogleの所有物ではありません。国際社会の公共財です。その仕様や規約は、国際社会で共同管理されるべきです。このように再概念化し、主導権を二社から奪い、もっと役立つものにしていかなければなりません。</p>
+            <p>一応言っておくと、単に感染を抑制するだけなら簡単です。「1メートル、15分」の判定を甘くして、COCOAアプリへの通知を乱発すればいい。なんなら接触記録も無関係に、ランダムに通知すればいい。それで「COCOAの感染抑制効果」は捏造できます。しかし、それは無意味どころか有害です。</p>
+            <p>COCOAで通知を乱発すれば、実際には濃厚接触リスクがほとんどないような人にも自己隔離を促すことになります。人々の行動を無闇矢鱈と抑制すれば、感染が減るのは当たり前です。</p>
+            <p>接触確認アプリの存在意義は、濃厚接触リスクの高い人に、ピンポイントに通知することです。その精度（陽性適中率）が問題なのです。</p>
+            <p>甘い判定基準で通知を乱発する接触確認アプリは、緊急事態宣言を乱発する政治家と同じです。まったく合理的でない感染抑制手段によって、経済・社会活動に深刻なダメージを与えるのです。政治的思惑によりCOCOAが乱用されないか、注視していく必要があります。</p>
+            <p>あくまでも、科学的に合理的で、社会的なコストとベネフィットが釣り合うような手段によって、感染が抑制されなければなりません。まったくランダムでデタラメに曝露通知を送りまくるのと比較して、陽性適中率において統計的に優位な差が見いだせない限り、COCOAは有害なゴミです。</p>
+            <p>まさにそういう効果検証と継続的改善のために、諸外国は様々な工夫をしているわけです。一方、本邦ではそのような工夫が見られない。まったくもって論外です。接触確認アプリを運用する資格がないと言わざるをえません。</p>
+            <h2 id="真摯な反省">真摯な反省</h2>
+            <p>もはや政府に期待すること自体が虚しい。ここに書いたようなことは、後知恵ではなく、やる前から分かっていたことばかりです。それができない政府に、いまさら何を期待できるというのでしょう。これまでできていなかったことが、どうすれば一朝一夕にして、できるようになるというのでしょう。まったく非現実的な夢想です。</p>
+            <p>現実主義的に考えて、COCOAが感染抑制に成功するという期待は持てません。</p>
+            <p>僕は絶望しています。問題を論理的に分析すれば、絶望せざるをえません。</p>
+            <p>日本人には絶望が足りない。「どうすればCOCOAを上手くやれたか」という問いを止めてください。それは現実逃避です。負け惜しみです。我々は現実を直視すべきです。根本的な能力不足によって、やる前から失敗していたのです。対米戦争のように。</p>
+            <p>この無力感。徹底的な絶望。「デジタル敗戦」の認識。そこに至らずして、本質的な立て直しなど不可能です。単なる去勢で立て直しを叫ぶべきではありません。それは不誠実な現実逃避です。絶望こそが現実主義的で真摯な反省なのです。</p>
+            <p>それによって、はじめて「どうすれば敗戦を回避できたか」「どうすればCOCOAをうまくやれる政府を作れたか」という真に有意義な議論が可能になるのです。</p>
+            <p>いちど徹底的に絶望してください。敗戦から真に復興する道は、その絶望からしか始まりません。</p>
+            <h2 id="民主主義で考える">民主主義で考える</h2>
+            <p>大前提、政府は「我々の政府」なのであって、こんな馬鹿な失敗をする政府が我々の政府なのだと、問題を引き受けなければなりません。それこそが真摯な反省というものです。「民間に比べて政府はダメだ」などと「お上」を批判する態度も止めるべきです。今は江戸時代ではなく民主国家なのですから。</p>
+            <p>ITガバナンスをやるには、精神を近代化しなければなりません。「我々」と「お上」を分ける江戸時代の精神から、「我々の政府」と考える近代人の精神へ。だから「民間はマシなのに」という発想はダメなのです。COCOAの失敗は、日本社会の「ショボさ」の表れです。</p>
+            <p>『失敗の本質 日本軍の組織論的研究』という名著があるのに、同じ失敗を繰り返す日本社会とは何なんでしょうか<sup id="fnref:21" role="doc-noteref"><a href="#fn:21" class="footnote" rel="footnote">21</a></sup>。読んでも理解できないか、理解できても実践を変えられない。それはそもそも認識がおかしいからです。江戸時代的な物の見方と考え方を、近代化しなければなりません<sup id="fnref:22" role="doc-noteref"><a href="#fn:22" class="footnote" rel="footnote">22</a></sup>。</p>
+            <h2 id="認識の問題">認識の問題</h2>
+            <p>大きな枠組みから考えてみましょう（下図：M3メタモデル・メソドロジー<sup id="fnref:23" role="doc-noteref"><a href="#fn:23" class="footnote" rel="footnote">23</a></sup>）。ある認識論（物の見方や考え方）に基づいて科学が構築されます。そして、科学に基づく実践が生じます。</p>
+            <ul>
+              <li>認識論はメタレベル</li>
+              <li>科学はオブジェクト・レベル</li>
+              <li>実践は応用レベル</li>
+            </ul>
+            <figure>
+              <p><img src="/assets/blog/2021-02-22-true-reason-why-cocoa-failed/M3-framework.png" alt="M3メタモデル・メソドロジーの図解"></p>
+              <figcaption>M3メタモデル・メソドロジーの図解</figcaption>
+            </figure>
+            <p>「どうすれば上手くやれたか」は実践（応用）レベルの議論です。しかし、COCOA失敗の本質は、認識論（メタ）レベルにあります。</p>
+            <ul>
+              <li>見たくない現実から目を背ける現実逃避</li>
+              <li>自己の能力評価に関する認知の歪み（自信過剰）</li>
+              <li>気の持ちようでなんとでもなるという精神論</li>
+              <li>無根拠な楽観論</li>
+            </ul>
+            <p>これが<strong>戦争に敗ける日本人の認識論</strong>です。これを改めない限り、何をやってもダメなのです。</p>
+            <h2 id="結論">結論</h2>
+            <p>COCOAプロジェクトは、一時中断して、失敗を総括すべきです。それなしに小手先で取り繕う限り、失敗は繰り返されるでしょう。アプリの不具合を解消したところで、感染抑制の効果が出なければ無意味です。失敗の本質を真摯に総括したうえで、プロジェクトを再開するか、中止するか、ゼロベースで議論すべきです。</p>
+            <p>もし再開するなら、感染抑制の効果を得るための科学的プロセスを正しく設計し、それが正しく運用されるためのガバナンスも構築すべきです。必要なら、法改正や、ENSの仕様や規約の改訂も行うべきです。</p>
+            <p>しかし、残念ながら、日本にはそれができないでしょう。そう確信できてしまうことに、僕の絶望はあります。戦争に敗ける認識論を改めない限り、何をやってもダメなのです。みなさんにも、いちどこの絶望に到達して頂きたい。細かい議論は、そのあとでしましょう。</p>
+            <p>結局、この文章で問題にしてきたのは、「どうすればCOCOAを上手くやれたか」という現場レベルの問いと、「どうすればCOCOAをうまくやれる政府を作れたか」という統治レベルの問いの違いです。みな現場レベルの議論ばかりします。しかし、それは本質的な問いではない。そのことを理解してほしいのです。</p>
+            <h2 id="希望は数十年後">希望は数十年後</h2>
+            <p>その上で、もし希望があるとすれば、政治の失敗を自分ごととして引き受け、自ら考え、手を動かして解決しようとする人たちの存在です。</p>
+            <p>採用されなかったものの、接触確認アプリの開発に名乗りを上げたCode for Japanという民間の非営利団体があります。そのミッション・ステートメントは「ともに考え、ともにつくる」です<sup id="fnref:24" role="doc-noteref"><a href="#fn:24" class="footnote" rel="footnote">24</a></sup>。それは北欧の参加型デザイン運動の流れを汲む「コ・デザイン」の精神でもあります<sup id="fnref:25" role="doc-noteref"><a href="#fn:25" class="footnote" rel="footnote">25</a></sup>。つまり、人民が社会問題を自分事として引き受け、自ら考え、手を動かして解決していく。そういう社会運動の精神です。<sup id="fnref:26" role="doc-noteref"><a href="#fn:26" class="footnote" rel="footnote">26</a></sup></p>
+            <p>日本でも、政府がダメな以上は、民間からボトムアップの社会改革を地道にやっていくしかありません。</p>
+            <p>何世代かの交代を経て、何十年後かには、Code for Japanのような市民運動に理解のあるエリートが、政府中枢に増えてくるかもしれません。そうすれば、日本でもまともなITガバナンスが実現するかもしれません。そのとき、真の意味で、政府と人民が「ともに考え、ともにつくる」時代が到来するのです。</p>
+            <p>これは「デジタル庁の設立」だとかいった、数年単位の取り組みで、どうにかなるような簡単な問題ではありません。短期的な成功という非現実的な夢想を止めるべきです。いちど絶望すべきです。その上で、数十年後を見据えて、草の根の活動を地道に続けていくしかありません。</p>
+            <p>社会の変化は、絶望するほどゆっくりとしか起こりません。だとしても、それを信じるしかありません。</p>
+            <blockquote>
+              <p>希望は残っているよ。どんなときにもね。<sup id="fnref:27" role="doc-noteref"><a href="#fn:27" class="footnote" rel="footnote">27</a></sup></p>
+            </blockquote>
+            <h2 id="追記2021年3月24日">追記（2021年3月24日）</h2>
+            <p>COCOAの失敗は、技術の失敗である以前に、統治の失敗です。日本政府や日本社会がその在り方を変えない限り、同じような失敗は何度でも繰り返されます。この話が受け入れられない人もいるようです。しかし、原発の現状を考えてみてください。2011年の原発事故以降、日本社会で原発に対する信頼は大きく損なわれました<sup id="fnref:28" role="doc-noteref"><a href="#fn:28" class="footnote" rel="footnote">28</a></sup>。一方、米国ではビル・ゲイツ氏が次世代原子炉の開発を進めています<sup id="fnref:29" role="doc-noteref"><a href="#fn:29" class="footnote" rel="footnote">29</a></sup>。仮にその「安全な小型の原発」を米国から買ってきたとしても、日本人は原発の新設に反対するでしょう。それを運用するのが日本の電力会社であり、それを規制するのが日本の政府である限り。COCOA失敗の本質も、これと同じです。問題は技術ではなく、統治や社会のあり方なのです。</p>
+            <h2 id="追記2021年5月5日">追記（2021年5月5日）</h2>
+            <p>厚生労働省は4月16日付でCOCOA不具合調査・再発防止策検討チームの報告書を公表しました<sup id="fnref:30" role="doc-noteref"><a href="#fn:30" class="footnote" rel="footnote">30</a></sup>。注目すべきは「CIO補佐官B」の証言です。</p>
+            <blockquote>
+              <p>CIO補佐官Bは、実機という意味では事業者側もテストしていたが、HER-SYSの機能を模擬するテスト環境がなく、陽性登録をして接触の検知をするという一連の流れのテストはできない状況だった旨、昨年9月頃から、COCOA通知を受けた方の検査を公費でできるようにしたということもあり、保健所の負荷が非常に高まっている状態で問い合わせもすごい数が来ていたため、かなり急ぎで対応すべき状況であった旨、その中で、自身もソースコードを一行一行チェックし、変更想定範囲に対しての実装は正しいということを確認した上で、ある意味リスクを取って決定した旨、管理職級Bに相談した上で、現場の判断としては自身がリリースを判断した旨を述べている。<sup id="fnref:31" role="doc-noteref"><a href="#fn:31" class="footnote" rel="footnote">31</a></sup></p>
+            </blockquote>
+            <p>注目すべきポイントは2つあります。</p>
+            <ol>
+              <li>保健所からクレームが来た時点で、なぜ「一旦運用停止」の判断ができなかったのか。</li>
+              <li>そもそも、なぜ無謀な6月リリースを強行したのか。</li>
+            </ol>
+            <p>この疑問に答える報告書ではありませんでした。また、この点を指摘する報道もありませんでした。国会での追及もありませんでした<sup id="fnref:32" role="doc-noteref"><a href="#fn:32" class="footnote" rel="footnote">32</a></sup>。</p>
+            <p>そもそも、厚労省の内部調査です。身内の不手際を強く追及することなんて、役人にできるわけがありません。「お手盛り」調査報告書になるのは自明です。こういう場合、第三者委員会に調査させるのが王道です。今回のような「ヌルい」報告書で、お茶を濁したままではいけません。</p>
+            <p>改めて第三者委員会を設置し、徹底的に再調査すべきです。いわゆる「首相案件」で、閣僚や官僚が「忖度」した結果として、無理なスケジュールを強行したのではないか。当時の政権の政治責任を追及する必要があります。国会に調査委員会を設置する形がふさわしいでしょう。</p>
+            <p>当然ながら、問題を起こした政権が自ら徹底的に調査することなど期待できません。自公政権の問題ではありません。どんな政権でも同じです。そもそも権力とはそういうものです。</p>
+            <p>立憲民主党の田嶋要議員は、2月10日の衆議院予算委員会で、第三者委員会での検証を要求していました<sup id="fnref:33" role="doc-noteref"><a href="#fn:33" class="footnote" rel="footnote">33</a></sup>。もしそれが実現していたとしても、結局は「ヌルい」報告書が出たことでしょう。第三者委員会は「雇い主」に忖度します。政権交代しない限り、どんな第三者委員会も「御用委員会」にしかならないでしょう<sup id="fnref:34" role="doc-noteref"><a href="#fn:34" class="footnote" rel="footnote">34</a></sup>。</p>
+            <p>COCOAは、このままいけば、「バグだらけのゴミアプリ」から「バグのないゴミアプリ」に変わるだけです。いずれ「感染抑制効果は得られなかった」という問題が明るみに出ます。安倍首相・菅首相・厚労省・デジタル庁へのバッシングが始まります。COCOAプロジェクトの再調査を求める声も高まります。</p>
+            <p>COCOAプロジェクト失敗の真相究明と、本質的な再発防止策が必要です。そのために、政権交代後、国会に調査委員会が設置されることを期待します。（正直、ほとんど期待してないのですが……）</p>
+            <p>本質的な再発防止策とは、例えば、エビデンスに基づく政策立案(EBPM)プロセスの制度化や、いわゆる「首相案件」「忖度」問題を引き起こしている人事制度や、公文書管理や情報公開に関する制度の見直しなど多岐にわたるでしょう。「総合的・俯瞰的観点」からの全体構想が問われます。</p>
+            <p>今回たまたま「接触確認アプリCOCOAの失敗」という形で、政府の問題が明らかになりました。問題の本質は、政府のガバナンスです。COCOAの失敗に「本質的な再発防止策」を実現するということは、今後の日本の統治を本質的に改善するということを意味します。</p>
+            <p>たかがCOCOA、されどCOCOAです。この問題を奇貨として、統治を改善することができるか。それが問われています。（まあ難しいのではないかと……民間で草の根の社会変革を地道にやっていきましょう）</p>
+            <h2 id="追記2021年5月18日">追記（2021年5月18日）</h2>
+            <p>楠正憲氏（内閣官房 政府CIO 補佐官）の「接触確認アプリCOCOAからの教訓」という文章が、5月15日付で情報処理学会・学会誌「情報処理」に掲載されました<sup id="fnref:35" role="doc-noteref"><a href="#fn:35" class="footnote" rel="footnote">35</a></sup>。必見です。以下、ご本人のFacebookコメントを引用します：</p>
+            <blockquote>
+              <p>（…）アプリを出すことは総理レベルで決まって、ベンダーも出せるといってるのだから、それで出すという結論しかありません。まだ結合テストの途中ですよ、こんな状態でリリースできませんよ、という話は何度もしましたが通りませんでした。そもそも厚生労働省に対しては技術サポートで入っただけで、何度もまずいぞと警告はしましたが、わたしにリリースを止める権限はありませんでした。<sup id="fnref:36" role="doc-noteref"><a href="#fn:36" class="footnote" rel="footnote">36</a></sup></p>
+            </blockquote>
+            <blockquote>
+              <p>民間企業であれば、社長が粉飾を指示しようが、それができないようにするのがコーポレートガバナンスですが、役所において政務なり大臣、総理がやるといったら、それはやる訳です。総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構が必要ということで、恥を忍んでこういった落ち穂拾いをしている訳ですから。<sup id="fnref:37" role="doc-noteref"><a href="#fn:37" class="footnote" rel="footnote">37</a></sup></p>
+            </blockquote>
+            <blockquote>
+              <p>あれだけ時間をかけて、外部有識者も入れて、どうして真相究明というよりも中途半端に感想をまとめただけのような報告書が出てきてしまうのか、このまま風化させてしまうと、また同じことが起こってしまうのではないかという危機感があります。<sup id="fnref:38" role="doc-noteref"><a href="#fn:38" class="footnote" rel="footnote">38</a></sup></p>
+            </blockquote>
+            <p>まさに「総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構」を作るべきです。COCOAの失敗を繰り返さないための、本質的な再発防止策は、立憲主義の問題になるということです。</p>
+            <div class="footnotes" role="doc-endnotes">
+              <ol>
+                <li id="fn:1" role="doc-endnote">
+                  <p><a href="https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html" target="_blank">令和2年5月25日 新型コロナウイルス感染症に関する安倍内閣総理大臣記者会見 令和2年 総理の演説・記者会見など ニュース 首相官邸ホームページ</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a> <a href="#fnref:1:1" class="reversefootnote" role="doc-backlink">↩<sup>2</sup></a></p>
+                </li>
+                <li id="fn:2" role="doc-endnote">
+                  <p><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html" target="_blank">新型コロナウイルス接触確認アプリ（COCOA) COVID-19 Contact-Confirming Application 厚生労働省</a> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:3" role="doc-endnote">
+                  <p>2月3日にAndroid版の不具合が公表され、同18日に修正版がリリースされました：<a href="https://www3.nhk.or.jp/news/html/20210203/k10012847671000.html?utm_int=detail_contents_news-related_001" target="_blank">新型コロナ 接触確認アプリ「COCOA」一部で検知や通知行われず 新型コロナウイルス NHKニュース</a> (2021年2月3日)、<a href="https://www.watch.impress.co.jp/docs/news/1307389.html" target="_blank">COCOA、Androidで接触通知しない不具合を解消。1日1回起動を - Impress Watch</a> (2021年2月18日) <a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:4" role="doc-endnote">
+                  <p><a href="https://mainichi.jp/articles/20210217/k00/00m/040/255000c" target="_blank">接触アプリ「COCOA」 「iOS」の一部でも通知届かぬ不具合 毎日新聞</a> (2021年2月17日) <a href="#fnref:4" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:5" role="doc-endnote">
+                  <p><a href="https://www.itmedia.co.jp/news/articles/2102/12/news142.html" target="_blank">COCOA不具合の原因は「APIの使い方を誤った」 平井デジタル相、改善を約束 開発の下請け構造改善も — ITmedia NEWS</a> (2021年2月12日) <a href="#fnref:5" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:6" role="doc-endnote">
+                  <p><a href="https://mainichi.jp/articles/20210209/k00/00m/040/217000c" target="_blank">ココア巡り関係者処分へ 接触通知届かず 年度内に検証 厚労省 毎日新聞</a> (2021年2月9日) <a href="#fnref:6" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:7" role="doc-endnote">
+                  <p>猪瀬直樹著『<a href="https://www.chuko.co.jp/bunko/2020/06/206892.html" target="_blank">昭和16年夏の敗戦</a>』中央公論新社、新版初版、2020年 <a href="#fnref:7" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:8" role="doc-endnote">
+                  <p><a href="https://www.bluetooth.com/blog/proximity-and-rssi/" target="_blank">Proximity and RSSI, Bluetooth® Technology Website</a> (2015年) <a href="#fnref:8" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:9" role="doc-endnote">
+                  <p><a href="https://hideishi.com/blog/2020/05/26/ethical-guidelines-for-contact-tracing-apps.html" target="_blank">新型コロナウイルス接触追跡アプリのための倫理的指針 正しいアプリが正しく作られているかを評価するための16の問い 石橋秀仁</a> (2020年5月26日) <a href="#fnref:9" class="reversefootnote" role="doc-backlink">↩</a> <a href="#fnref:9:1" class="reversefootnote" role="doc-backlink">↩<sup>2</sup></a> <a href="#fnref:9:2" class="reversefootnote" role="doc-backlink">↩<sup>3</sup></a></p>
+                </li>
+                <li id="fn:10" role="doc-endnote">
+                  <p><a href="https://www.asahi.com/articles/ASP2F6GZRP2DULBJ01V.html" target="_blank">COCOA、スピード開発あだ 首相会見後に余裕なくす [新型コロナウイルス]：朝日新聞デジタル</a> (2021年2月14日) <a href="#fnref:10" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:11" role="doc-endnote">
+                  <p><a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/05203/" target="_blank">COCOA不具合放置の遠因か、開発ベンダー選定で繰り返された「丸投げ」の実態 日経クロステック（xTECH）</a> (2021年2月15日) <a href="#fnref:11" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:12" role="doc-endnote">
+                  <p><a href="https://www.yomiuri.co.jp/national/20210210-OYT1T50248/" target="_blank">接触アプリ、外部から不具合指摘も対応せず…厚労省ずさんな管理 : 社会 : ニュース : 読売新聞オンライン</a> (2021年2月10日) <a href="#fnref:12" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:13" role="doc-endnote">
+                  <p><a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/05159/" target="_blank">Android版COCOAを「無用の長物」にした重大バグ、4カ月以上見過ごされた理由 日経クロステック（xTECH）</a> (2021年2月5日) <a href="#fnref:13" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:14" role="doc-endnote">
+                  <p><a href="https://cio.go.jp/techteam" target="_blank">新型コロナウイルス感染症対策 テックチーム Anti-Covid-19 Tech Team 政府CIOポータル</a> <a href="#fnref:14" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:15" role="doc-endnote">
+                  <p><a href="https://ja.wikipedia.org/wiki/%E7%B7%8F%E5%8A%9B%E6%88%A6%E7%A0%94%E7%A9%B6%E6%89%80" target="_blank">総力戦研究所 — Wikipedia</a> <a href="#fnref:15" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:16" role="doc-endnote">
+                  <p>ハンナ・アーレント『<a href="https://www.msz.co.jp/book/detail/08628/" target="_blank">新版 エルサレムのアイヒマン──悪の陳腐さについての報告</a>』1963=2017年、みすず書房 <a href="#fnref:16" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:17" role="doc-endnote">
+                  <p><a href="https://www.turing.ac.uk/blog/demonstrating-impact-nhs-covid-19-app" target="_blank">Demonstrating the impact of the NHS COVID-19 app, The Alan Turing Institute</a> (2021年2月9日) <a href="#fnref:17" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:18" role="doc-endnote">
+                  <p><a href="https://news.sap.com/2021/02/germanys-covid-19-app-break-infection-chain/" target="_blank">Designing Germany’s COVID-19 App, SAP News Center</a> (2021年2月1日) <a href="#fnref:18" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:19" role="doc-endnote">
+                  <p><a href="https://github.com/admin-ch/PT-System-Documents/blob/master/SwissCovid-ExposureScore.pdf" target="_blank">SwissCovid Exposure Score Calculation Version of 11 September 2020 (Proximity Tracing System (PT-S) documents, GitHub)</a> (2020年9月11日) <a href="#fnref:19" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:20" role="doc-endnote">
+                  <p><a href="https://www.canada.ca/en/health-canada/news/2021/02/covid-alert-updated-to-help-evaluate-its-effectiveness-in-reducing-the-spread-of-covid-19.html" target="_blank">COVID Alert updated to help evaluate its effectiveness in reducing the spread of COVID-19  - Canada.ca</a> <a href="#fnref:20" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:21" role="doc-endnote">
+                  戸部良一、寺本義也、鎌田伸一、杉之尾孝生、村井友秀、野中郁次郎共著『<a href="https://www.chuko.co.jp/bunko/1991/08/201833.html" target="_blank">失敗の本質 日本軍の組織論的研究</a>』1984=1991年、ダイヤモンド社
+                  <p><a href="#fnref:21" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:22" role="doc-endnote">
+                  <p>石橋秀仁『<a href="/blog/2016/12/29/japan-productivity.html">日本人の低すぎる生産性とIT百姓一揆</a>』2016年、ブログ <a href="#fnref:22" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:23" role="doc-endnote">
+                  <p><a href="https://link.springer.com/article/10.1007/s13347-018-0332-4/figures/1" target="_blank">The M3 Metamodel Methodology (Van Gigch and Pipino 1986. Adapted by Lacerda and Lima-Marques 2014)</a>（※情報システム分野において、科学的対象とイノベーション過程を論じる枠組みとして提唱された） <a href="#fnref:23" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:24" role="doc-endnote">
+                  <p><a href="https://www.code4japan.org/" target="_blank">Code for Japan</a> <a href="#fnref:24" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:25" role="doc-endnote">
+                  <p>上平崇仁著『<a href="https://www.nttpub.co.jp/search/books/detail/100002509.html" target="_blank">コ・デザイン デザインすることをみんなの手に</a>』 NTT出版、2020年 <a href="#fnref:25" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:26" role="doc-endnote">
+                  <p>石橋秀仁『<a href="/blog/2020/10/14/philosophy-for-startup.html">起業がふたたび社会変革の前衛になるために 「スタートアップのための思想史・運動史」序説</a>』2020年、ブログ <a href="#fnref:26" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:27" role="doc-endnote">
+                  <p>映画「ヱヴァンゲリヲン新劇場版:Q」より渚カヲルの台詞 <a href="#fnref:27" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:28" role="doc-endnote">
+                  <p><a href="https://www3.nhk.or.jp/news/html/20210302/k10012893841000.html" target="_blank">国内の原発を今後どうすべきか？原発事故10年 NHK世論調査</a> (2021年3月2日) “国内の原発を今後、どうすべきか尋ねたところ、全国では、「増やすべきだ」は3％、「現状を維持すべきだ」は29％、「減らすべきだ」は50％、「すべて廃止すべきだ」は17％でした。” <a href="#fnref:28" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:29" role="doc-endnote">
+                  <p><a href="https://news.yahoo.co.jp/articles/59a5c47e4a85e937666d1ec85ce0766cfd734143" target="_blank">ビル・ゲイツが熱弁「原発に希望を託す」理由 極秘会見で明かした気候変動への考えと解決法（東洋経済オンライン） - Yahoo!ニュース</a> (2021年2月15日) <a href="#fnref:29" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:30" role="doc-endnote">
+                  <p><a href="https://www.watch.impress.co.jp/docs/news/1319229.html" target="_blank">COCOA不具合で報告書。「発注者としてプロジェクト管理できていない」 - Impress Watch</a> (2021年4月16日) <a href="#fnref:30" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:31" role="doc-endnote">
+                  <p><a href="https://www.mhlw.go.jp/stf/newpage_18108.html" target="_blank">接触確認アプリ「COCOA」の不具合の発生経緯の調査と再発防止の検討について（報告書）</a> (2021年4月16日) <a href="#fnref:31" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:32" role="doc-endnote">
+                  <p><a href="https://kokkai.ndl.go.jp/" target="_blank">国会会議録検索システム</a>で「接触確認アプリ」か「COCOA」を含む資料を全件調べました。2021年5月5日時点で開示されていた会議録は同年4月16日分まで。4月16日といえば報告書が出た当日です。国会で本格的に取り上げられるのは、翌日以降でしょう。翌日以降の会議録についても、開示され次第、調べるつもりです。 <a href="#fnref:32" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:33" role="doc-endnote">
+                  <p><a href="https://kokkai.ndl.go.jp/#/detail?minId=120405261X00820210210&amp;spkNum=270&amp;current=29" target="_blank">第204回国会 衆議院 予算委員会 第8号 令和3年2月10日 国会会議録検索システム</a> <a href="#fnref:33" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:34" role="doc-endnote">
+                  <p><a href="https://www.videonews.com/marugeki-talk/805" target="_blank">第三者「御用」委員会が後を絶たないのはなぜか(久保利英明弁護士・第三者委員会報告書格付け委員会委員長) -マル激</a> (2016年9月10日) <a href="#fnref:34" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:35" role="doc-endnote">
+                  <p>楠正憲『<a href="https://note.com/ipsj/n/ne9eeb88adb64" target="_blank">接触確認アプリCOCOAからの教訓</a>』情報処理、2021年5月15日 <a href="#fnref:35" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:36" role="doc-endnote">
+                  <p><a href="https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&amp;reply_comment_id=10157797898901583&amp;__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&amp;__tn__=R%5D-R" target="_blank">楠正憲氏のFacebookコメント</a>、2021年5月15日 <a href="#fnref:36" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:37" role="doc-endnote">
+                  <p><a href="https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&amp;reply_comment_id=10157797906766583&amp;__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&amp;__tn__=R%5D-R" target="_blank">楠正憲氏のFacebookコメント</a>、2021年5月15日 <a href="#fnref:37" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:38" role="doc-endnote">
+                  <p><a href="https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157799763581583&amp;reply_comment_id=10157799795591583&amp;__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&amp;__tn__=R%5D-R" target="_blank">楠正憲氏のFacebookコメント</a>、2021年5月16日 <a href="#fnref:38" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+              </ol>
+            </div>
+          </section>
+          <footer>
+          </footer>
+        </article>
+      </main>
+    </div>
+    <footer class="site footer">
+      <div class="copyrights container">
+        <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="/assets/cc-by-88x31.png" width="88" height="31"></a> <a href="/">石橋秀仁 (Hideto Ishibashi)</a>
+      </div>
+    </footer>
+  </body>
+</html>

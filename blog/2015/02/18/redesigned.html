@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>サイトリニューアルの思想と手法 コンテンツファースト、モバイルファースト、スタティックサイト（石橋秀仁）</title>
+    <meta name="description" content="このウェブサイトのささやかなリニューアルプロジェクトについて、どのような思想と手法で取り組んだのかを記しておくことにします。">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/print.css" media="print">
+    <link rel="canonical" href="https://hideishi.com/blog/2015/02/18/redesigned.html">
+    <link href="/assets/thumbnail.jpg" type="image/png" rel="icon">
+    <link href="/assets/thumbnail.jpg" rel="apple-touch-icon">
+    <link rel="pgpkey" href="/hideishi.pubkey.asc"/>
+    <link href="/atom.xml" rel="alternate" title="石橋秀仁" type="application/atom+xml">
+    <meta property="og:title" content="サイトリニューアルの思想と手法 コンテンツファースト、モバイルファースト、スタティックサイト（石橋秀仁）">
+    <meta property="og:description" content="このウェブサイトのささやかなリニューアルプロジェクトについて、どのような思想と手法で取り組んだのかを記しておくことにします。">
+    <meta property="og:url" content="https://hideishi.com/blog/2015/02/18/redesigned.html">
+    <meta property="og:image" content="https://hideishi.com/assets/blog/2015-02-18-redesigned/thumbnail.png">
+    <meta property="og:site_name" content="石橋秀仁">
+    <meta property="og:locale" content="">
+    <meta property="og:type" content="article">
+    <meta property="fb:app_id" content="">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:creator" content="@" />
+    <meta name="twitter:title" content="サイトリニューアルの思想と手法 コンテンツファースト、モバイルファースト、スタティックサイト（石橋秀仁）" />
+    <meta name="twitter:description" content="このウェブサイトのささやかなリニューアルプロジェクトについて、どのような思想と手法で取り組んだのかを記しておくことにします。" />
+    <meta name="twitter:image" content="https://hideishi.com/assets/blog/2015-02-18-redesigned/thumbnail.png">
+  </head>
+  <body>
+    <header class="site header">
+      <nav class="top_navigation container">
+        <ul class="top_navigation-items">
+          <li>
+            <a href="/">
+              <img alt="石橋秀仁の顔の写真" src="/assets/thumbnail.jpg" class="vid">
+            </a>
+          </li>
+          <li class="active">
+            <a href="/blog/">ブログ</a>
+          </li>
+          <li >
+            <a href="/activity/">活動</a>
+          </li>
+          <li >
+            <a href="/podcast/">Podcast</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="main container">
+      <main class="blog post">
+        <article>
+          <header>
+            <h1 class="page title">
+              サイトリニューアルの思想と手法
+              <span class="meta subtitle">コンテンツファースト、モバイルファースト、スタティックサイト</span>
+            </h1>
+            <p class="meta author">石橋秀仁 (Hideto Ishibashi)</p>
+            <p class="meta time">2015年2月18日</p>
+                </header>
+          <section class="article-body">
+            <p><img src="/assets/blog/2015-02-18-redesigned/constellation.svg" alt="主要概念の関係図"></p>
+            <p>当サイトをリニューアルしました。これ自体はとても小さなプロジェクトですが、より大きなプロジェクトに向けての「スタディ」（習作）になっています。ここでいったん考えや学びを整理しておくことには意味があると考えました。</p>
+            <p>〔註：「長すぎる」(tl;dr)と思った方は、末尾の<a href="#philosophy-and-method">思想と手法のまとめ</a>だけでもご覧ください〕</p>
+            <h2 id="成長するアーキテクチャ">成長するアーキテクチャ</h2>
+            <p>いきなり奇妙に聴こえるかもしれませんが、今回の「リニューアル」は、決して「完成」していません。もちろん「公開できる状態になった」と判断したからこそ公開しているわけですが、まだまだ手を入れたいところも残っています。</p>
+            <p>では、なぜ「完成」する前に公開したのかと言えば、それは私が</p>
+            <ul>
+              <li>成長するアーキテクチャは良いアーキテクチャだ</li>
+              <li>成長を止めないアーキテクチャが良いアーキテクチャだ</li>
+              <li>アーキテクチャは決して「完成」しないものだ</li>
+            </ul>
+            <p>と考えているからです。</p>
+            <p>なぜなら、作ってみないと分からないことも多いし、作ってから「やりたいこと」が変わることも多いからです。</p>
+            <p>私は「ある程度の完成度」になった時点で早めにリリースし、フィードバックを受けながら改善していくことを良しとします。これは<strong>アジャイルソフトウェア開発</strong>の思想に通じます。</p>
+            <h2 id="コンテンツファースト">コンテンツ・ファースト</h2>
+            <p>このサイトの目的は「私の思いや考えを伝えること」です。その目的のために、<strong>コンテンツを引立てる設計</strong>を心がけました。このような設計思想を一般的に「<a href="http://www.lukew.com/ff/entry.asp?1598" target="_blank">コンテンツ・ファースト</a>」と呼びます<sup id="fnref:x-first" role="doc-noteref"><a href="#fn:x-first" class="footnote" rel="footnote">1</a></sup>
+              。</p>
+            <p>「コンテンツを引立てる」という目的を達成するためには、様々な設計方針が考えられます。今回私は「ありきたり」「特徴のない」「<strong>アノニマス</strong><sup id="fnref:anonymous" role="doc-noteref"><a href="#fn:anonymous" class="footnote" rel="footnote">2</a></sup>」なデザインを目指しました。</p>
+            <p>ユーザーがナビゲーションに迷うような「独創的」なUIデザインをしてしまうと、肝心のコンテンツに集中してもらうことができません。したがって、「普通こういうものは、この辺りにある」というユーザーの期待を裏切らない、「ありきたり」なデザインがよいと考えました。</p>
+            <h3 id="お知らせの一本化">お知らせの一本化</h3>
+            <p>新たなサイト構造は、</p>
+            <ol>
+              <li>ブログ(Blog)</li>
+              <li>活動報告(Activity)</li>
+              <li>ポッドキャスト(Podcast)</li>
+              <li>自己紹介(About)</li>
+            </ol>
+            <p>という4つのカテゴリからなります。</p>
+            <figure>
+              <a href="/assets/blog/2015-02-18-redesigned/screenshot.png"><img src="/assets/blog/2015-02-18-redesigned/screenshot.png" alt="トップページのスクリーンショット"></a>
+              <figcaption>4つのカテゴリを「All」というセグメントで一本のリストにしている。〔註：このスクリーンショット画像は執筆時点で撮影されたものであり、いまご覧になっている最新版のデザインとは異なります〕</figcaption>
+            </figure>
+            <p>リニューアルの目的のうちの一つは、このように「お知らせを一本化すること」でした。簡単に言えば「ブログっぽく」したかったのです。</p>
+            <p>そのため、外部サイト(<a href="http://talk.ishibashihideto.net/" target="_blank">Tumblr</a>)にあったポッドキャストコンテンツも、当サイトに移しました<sup id="fnref:tumblr-feed-limit" role="doc-noteref"><a href="#fn:tumblr-feed-limit" class="footnote" rel="footnote">3</a></sup>。</p>
+            <h2 id="コンテンツの移植">コンテンツの移植</h2>
+            <p>今回のサイトリニューアルでは、以前のコンテンツを引き継ぎました。「引き継いだ」と口で言うのは簡単ですが、実際には膨大な手作業が発生しました：</p>
+            <ul>
+              <li>全コンテンツの棚卸し、剪定（不要なコンテンツの破棄）</li>
+              <li>全コンテンツのサムネイル画像の制作</li>
+              <li>全コンテンツのタイトルと概要文に手入れ</li>
+              <li>引用画像の出典表記に漏れがないか点検・修正</li>
+              <li>ディレクトリ構造の変更とリダイレクトの設定</li>
+              <li>リンク切れの点検と修正</li>
+              <li>全ポッドキャストエントリの移植</li>
+            </ul>
+            <p>このような（個人サイトとしては）大量の編集作業が大変でした。機械的な繰り返し作業については、正規表現などを活用して自動処理することができました。しかし、自動化できない「手作業」も膨大に発生しました。かなりのコストです。とはいえ、こういった作業も「コンテンツの価値を維持するための必要コスト」だと考えました。</p>
+            <h2 id="マテリアルオネスティ">マテリアル・オネスティ</h2>
+            <p>ウェブページはHTMLで出来ています。私は「HTMLの素材感」をそのまま出したようなデザインが、わりと好きです。こういったデザインスタイルは、<a href="http://all-web.org/ala/material-honesty-on-the-web/" target="_blank">マテリアル・オネスティ</a>（素材に忠実であること）という概念と関係しています。</p>
+            <p>例えば、ブラウザのデフォルト動作を「否定」して「上書き」するような設計は、アクセシビリティやユーザビリティのうえで好ましくありません。勝手な「自分流」のウェブデザインよりも、「ウェブらしいデザイン」のほうが良いデザインだと考えています。</p>
+            <p>ネイティブアプリを模倣したようなデザインも、私好みではありません。いわゆるスキューオモーフィック(skeuomorphic)なデザインは好ましく思っていません。</p>
+            <p>ウェブに向いていない視覚表現（例えば縦組みなど）も避けたいと思います。「文字組みを画像化することで見た目を固定する」といった手法も拒否します。なんとか「見た目」は意図通りになるかもしれませんが、「見た目以外の部分」が犠牲になってしまうからです。</p>
+            <p>素材（マテリアル）としてのウェブの特性は、「見える部分」だけでなく、「見えない部分」にもあります。つまり、HTMLマークアップによる<strong>セマンティクス</strong>と、それによって実現される<strong>マシン・リーダビリティ</strong>が重要なのです。</p>
+            <p>ウェブサイトの設計においては、「見えない部分」をケアすることが重要です。そのことは、これから説明する「アクセシビリティ」や「プログレッシブ・エンハンスメント」にも直結します。</p>
+            <h2 id="アクセシビリティ">アクセシビリティ</h2>
+            <p>コンテンツ・ファーストという設計思想の延長で、「あらゆるデバイスからアクセスできること」を重視しました。この考え方を「<a href="http://web.a11y1st.jp/" target="_blank">アクセシビリティ・ファースト</a>」といいます。</p>
+            <p>私が書く文章の中には、「5年後、10年後に誰かが読んだときにも役に立って欲しい」と願いつつ書いたものが少なくありません。ただし、そんな未来には、きっとコンテンツにアクセスするための環境やデバイスも、いまとは様変わりしていることでしょう。</p>
+            <p>未知のデバイスのために、あらかじめ備えておきたい。そのための指針となるのが<strong>ウェブ・アクセシビリティ</strong>の各種ガイドラインです。とくに<a href="http://www.jsa.or.jp/stdz/instac/commitee-acc/W3C-WCAG/WCAG20/" target="_blank">ウェブコンテンツ・アクセシビリティ・ガイドライン (WCAG) 2.0</a>が有名です。それらのガイドラインを意識しながら設計し、下記のテストを行いました：</p>
+            <ul>
+              <li>
+                <a href="http://validator.w3.org/" target="_blank">HTML Markup Validator</a>（マークアップの検査）</li>
+              <li>
+                <a href="https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb" target="_blank">Accessibility Developer Tools</a>（各種の機械的な検査）</li>
+              <li>
+                <a href="https://www.modern.ie/ja-jp" target="_blank">modern.ie</a>（多様なブラウザでの表示確認）</li>
+              <li>
+                <a href="https://www.apple.com/jp/accessibility/ios/voiceover/" target="_blank">iOSのVoiceOver</a>（スクリーンリーダー）</li>
+              <li>
+                <a href="https://www.apple.com/jp/accessibility/osx/voiceover/" target="_blank">Mac OS XのVoiceOver</a>（スクリーンリーダー）</li>
+              <li>
+                <a href="http://leaverou.github.io/contrast-ratio/" target="_blank">Contrast Ratio</a>（カラーコントラストの検査）</li>
+            </ul>
+            <p>本格的なアクセシビリティテストではありませんし、<a href="http://www.jsa.or.jp/stdz/instac/commitee-acc/W3C-WCAG/WCAG20/" target="_blank"><abbr title="Web Content Accessibility Guidelines">WCAG</abbr></a>のレベルAにも達していません<sup id="fnref:wcag-podcast" role="doc-noteref"><a href="#fn:wcag-podcast" class="footnote" rel="footnote">4</a></sup>。しかし、<strong>アクセシビリティへの取り組みは、決して完璧でなくても、やらないよりはまし</strong>です。「アクセシビリティ・ファースト」だからといって「レベルAの達成が必須」などと窮屈に考えるよりは、やれるところから手を付けていくほうが前向きです。</p>
+            <p>それに、WCAGのレベルAを目標にするとしても、最初のリリース時から達成する必要もないのです。アジャイルソフトウェア開発の考え方で、リリース後に少しずつ達成度を上げていってもいいのですから。</p>
+            <h2 id="モバイルファースト">モバイル・ファースト</h2>
+            <p>「<a href="http://www.lukew.com/ff/entry.asp?933" target="_blank">モバイル・ファースト</a>」という設計アプローチも少し意識しました。</p>
+            <p>従来のウェブ制作では「PC向けデザインを元にモバイル対応する」という順序が普通でした。一方、モバイル・ファーストでは「モバイル向けデザインを元にPC対応する」という順序で制作します。</p>
+            <p>そのメリットとして下記の3点が指摘されています：</p>
+            <ol>
+              <li>いま最も普及しているデバイスがスマートフォンなので、PCよりもスマートフォンにおける使いやすさを優先するのは当然です。</li>
+              <li>「画面サイズの小ささ」などの制約が、設計者に「フォーカスすること」を促します。厳しい制約が「このサイトで最も重視すべきことは何か」を考えさせるのです。</li>
+              <li>最新のウェブ技術でサイトを制作するなら、そのターゲットはモバイルデバイスになるでしょう。PCユーザーの多くがまだ古いブラウザを利用しているのに対して、モバイルユーザーのほうが比較的新しいブラウザを利用しています。</li>
+            </ol>
+            <p>これらがモバイル・ファースト・アプローチの利点だとされています。</p>
+            <h2 id="プログレッシブエンハンスメント">プログレッシブ・エンハンスメント</h2>
+            <p>今回のリニューアルでは「モバイル・ファースト」の考え方を取り入れつつ、しかし「たまたま現時点で普及しているに過ぎないモバイルデバイス」に対して<strong>最適化し過ぎない</strong>ことも心がけました。要するにバランスを取ったわけです。</p>
+            <p>モバイル・ファーストという考え方は、あくまで「いま普及しているモバイルデバイスを重視する」という考え方です。しかし、将来にわたってモバイルデバイスが最普及デバイスであり続けるとは限りません。</p>
+            <p>また、「モバイルデバイスなら最新ウェブ技術を利用しやすいので、モバイル・ファーストに制作する」という考え方が行き過ぎれば、「低機能デバイスからはアクセスしずらいコンテンツ」が出来上がってしまうおそれもあります。</p>
+            <p>私の目的は「コンテンツを長寿にすること」ですから、<a href="http://website-usability.info/2010/06/entry_100606.html" target="_blank">プログレッシブ・エンハンスメント</a>という考え方を意識しました。これは「原則としてどんな閲覧環境からでも最低限利用できるようにしたうえで、段階的に高機能な実装を適用していく」という考え方です。</p>
+            <p>実際、スタイルシートやJavaSciptを無効にしても、このサイトはそれなりに利用できるはずです。また、10年後のユーザーがこのサイトのコンテンツを利用できる可能性も、十分に高いと考えています。</p>
+            <h2 id="インブラウザーデザイン">インブラウザー・デザイン</h2>
+            <p><a href="http://ja.ishibashihideto.net/blog/2013/04/18/in_browser.html" target="_blank">インブラウザー・デザイン</a>手法は、コンテンツ・ファーストやアクセシビリティ・ファーストといった思想と相性の良い手法です。プロジェクトの全工程に渡り、「インブラウザー」（ブラウザー内）で確認しながらデザインします。そのプロセスを説明します。</p>
+            <p>最初に、静的サイトジェネレーター<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>のテンプレート構造を慎重にデザインしました<sup id="fnref:careful-design" role="doc-noteref"><a href="#fn:careful-design" class="footnote" rel="footnote">5</a></sup>。レイアウトとマークアップの骨格を手でササッとスケッチし、それをすぐにHTMLとスタイルシートで再現し、PCとモバイルデバイスのブラウザで、レスポンシブな動作を確認します。これを何度も繰り返す<strong>プロトタイピング</strong>を行いました。</p>
+            <p>次に、コンテンツを移植しました。前述の通り大量の作業であり、最も時間を要した工程です。コンテンツのタイトル、概要文、サムネイル画像などを「インブラウザー」で何度も確認しながら整えていきました。</p>
+            <p>コンテンツを投入したら、次は視覚的なデザインです。CSSフレームワーク<a href="http://bitters.bourbon.io/" target="_blank">Bitters</a>を使って、レイアウトやタイポグラフィをカスタマイズしていきました<sup id="fnref:bitters" role="doc-noteref"><a href="#fn:bitters" class="footnote" rel="footnote">6</a></sup>。配色に際しては<a href="https://hue360.herokuapp.com/" target="_blank">HUE/360</a>と<a href="http://ironodata.info/" target="_blank">配色の見本帳</a>を利用しました。</p>
+            <p>以上がデザインプロセスの全体像です。最初から様々なデバイスのブラウザや、各種のツールでテストしながら制作したので、レスポンシブなモバイル対応や、アクセシビリティ品質の確保にも、さほど苦労しませんでした<sup id="fnref:browsersync" role="doc-noteref"><a href="#fn:browsersync" class="footnote" rel="footnote">7</a></sup>。もしもこのような検証を、制作プロセスの後半で行っていたとしたら、大量の手戻りで苦労していたことでしょう。</p>
+            <p>さきほど私は「ウェブサイトの設計においては、見えない部分へのケアがまず大事で、見える部分はその次だ」と述べました。そのような順序で物事を進めるためには、インブラウザー・デザイン手法にならざるを得ないのです。ちなみに、デザインカンプは一つも作りませんでした。</p>
+            <p>コンテンツを大事に取り扱い、アクセシビリティを担保しながら、レスポンシブにモバイル対応もする。インブラウザー・デザイン手法なら、これらを低コストで実現できます。</p>
+            <h2 id="静的サイト">静的サイト</h2>
+            <p>コンテンツを10年単位で<strong>ロングライフ</strong>（長寿）にするために、<strong>メンテナンス・フリー</strong>にしようと思いました。</p>
+            <p>WordPress等の動的システムを導入すると、しばしばメンテナンス作業が発生します<sup id="fnref:wordpress" role="doc-noteref"><a href="#fn:wordpress" class="footnote" rel="footnote">8</a></sup>。一方、静的サイトならば基本的にメンテナンスフリーです。</p>
+            <p>静的サイトはメンテナンスフリーなだけでなく、ポータブル（移動しやすい）でもあります。単にファイルをコピーするだけで、サイトの「移動」や「ミラーリング」や「アーカイブ」が簡単にできます。</p>
+            <p>実際、このサイトのリニューアル前のコピーは<a href="http://ja.ishibashihideto.net.s3-website-ap-northeast-1.amazonaws.com/" target="_blank">Amazon S3</a>にアーカイブしてあります。この「旧サイト」は、Amazon S3が存在し、かつ利用料金を支払い続けている限り、ずっとアクセス可能です。例えば私の死後も、クレジットカードと口座が生きている限り、サイトは存在し続けます<sup id="fnref:archive" role="doc-noteref"><a href="#fn:archive" class="footnote" rel="footnote">9</a></sup>。</p>
+            <p>また、新サイト（このサイト）をホストしているGitHub Pagesは無料です。GitHub Pagesがどれほど長く続くサービスかは分かりませんが、このサービスが続く限り、このサイトが存在し続ける可能性は高いと期待できます<sup id="fnref:ghpages-longevity" role="doc-noteref"><a href="#fn:ghpages-longevity" class="footnote" rel="footnote">10</a></sup>。</p>
+            <h2 id="github-pages">GitHub Pages</h2>
+            <p>このサイトの制作には静的サイトジェネレーター<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>を採用しました。また、サイトは<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>によってホストされています。</p>
+            <p>GitHub Pagesのメリットはいくつかあります：</p>
+            <ul>
+              <li>FTPなどの転送作業が不要です。ソースをcommitしてGitHubにpushすれば、サイトに編集内容が反映されます。どうせGitは使うわけですから、サイト更新のための余計な手間が省けます<sup id="fnref:continuous-delivery" role="doc-noteref"><a href="#fn:continuous-delivery" class="footnote" rel="footnote">11</a></sup>。</li>
+              <li>静的サイトジェネレーターの中でも特に人気の高いJekyllが採用されています。長期的に利用していく上での安心材料になります。</li>
+              <li>無料でウェブサイトをホストしてくれます。独自ドメインも利用できます。設定も簡単です。</li>
+              <li>ブラウザだけでもサイトの更新ができます。</li>
+            </ul>
+            <p>最後の点について補足しておきます。一般的に「静的サイトジェネレーター」で作られたサイトは、ブラウザだけで更新することができません。しかし、GitHub Pagesの場合、ブラウザでGitHub上のソースを編集すれば、サイトを更新できます<sup id="fnref:edit-on-github" role="doc-noteref"><a href="#fn:edit-on-github" class="footnote" rel="footnote">12</a></sup>。いつか「急に更新しなければならない事態」が生じたときには、この機能に助けられるかもしれません。</p>
+            <h2 id="アーキテクチャ">アーキテクチャ</h2>
+            <p>このサイトのシステムアーキテクチャは下図のようになっています：</p>
+            <figure>
+              <a href="/assets/blog/2015-02-18-redesigned/concrete_architecture.svg"><img src="/assets/blog/2015-02-18-redesigned/concrete_architecture.svg" alt="具体的なシステムアーキテクチャ"></a>
+              <figcaption>具体的なシステムアーキテクチャの説明：ウェブサイトのソースは、Jekyllによって処理されたのち、GitHub Pagesのウェブサーバーに配置され、ユーザーエージェント（ブラウザ）に提供される。</figcaption>
+            </figure>
+            <p>また、システムアーキテクチャの構成要素は下記の通りです：</p>
+            <ul>
+              <li>
+                <a href="http://bourbon.io/" target="_blank">Bourbon</a>: Sass mixinライブラリ</li>
+              <li>
+                <a href="http://neat.bourbon.io/" target="_blank">Neat</a>: Bourbonによるレスポンシブグリッドフレームワーク</li>
+              <li>
+                <a href="http://bitters.bourbon.io/" target="_blank">Bitters</a>: BourbonとNeatによるCSSフレームワーク</li>
+              <li>
+                <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>: Jekyll対応のホスティングサービス</li>
+              <li>
+                <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>: 静的サイトジェネレーター</li>
+              <li>
+                <a href="http://liquidmarkup.org/" target="_blank">Liquid</a>: Jekyllで採用されているテンプレートエンジン</li>
+              <li>
+                <a href="http://sass-lang.com/" target="_blank">Sass</a>: Jekyllで採用されているCSS拡張言語</li>
+            </ul>
+            <p>このアーキテクチャによって、コンテンツ・ファーストの<a href="http://ja.ishibashihideto.net/about/philosophy.html" target="_blank">思想を実装</a>しました。この手法には、より大きなプロジェクトにも適用できる<strong>スケーラビリティ</strong>（拡大可能性）があるはずです。</p>
+            <p>もちろん、このままでは大きなプロジェクトに適用できません。しかし、Jekyll、GitHub Pages、Bittersといった「固有名詞」は入れ替え可能です。アーキテクチャを抽象的に考える場合、そういった固有名詞は、さほど重要ではありません：</p>
+            <figure>
+              <a href="/assets/blog/2015-02-18-redesigned/abstract_architecture.svg"><img src="/assets/blog/2015-02-18-redesigned/abstract_architecture.svg" alt="抽象的なシステムアーキテクチャ"></a>
+              <figcaption>抽象的なシステムアーキテクチャの説明：ウェブサイトのソースは、HTMLテンプレートエンジンとCSSプリプロセッサによって処理されたのち、ウェブサーバーに配置され、ユーザーエージェント（ブラウザ）に提供される。</figcaption>
+            </figure>
+            <p>さらに、前提条件が少し違うプロジェクトでも、その前提条件にあわせてアーキテクチャを変更すれば大丈夫です。例えば、「メンテナンスフリー」な静的サイトではなく、データベース連動型の動的サイトを作る場合でも、「静的サイト」の部分を除けば、ほぼそのまま応用できるはずです。</p>
+            <p>このように、<strong>アーキテクチャは抽象化によってスケーラビリティを獲得します</strong>。アーキテクチャの具体的な構成要素に注目するだけでなく、抽象化して眺めてみることには大きなメリットがあります。具体的な構成要素を置き換えれば、異なる前提条件のプロジェクトにも応用できるのです。</p>
+            <h2 id="philosophy-and-method">思想と手法</h2>
+            <p>アーキテクトが新しいアーキテクチャに挑むときには、小規模なプロトタイピング・スタディがとても有効です。そして、<strong>アーキテクトというものは、「自分のデザイン思想とデザイン手法」を持って、はじめて一人前</strong>なのだと思います。そういう思いから、今回のリニューアル作業には、かなりの時間を投資しました。プロトタイピング・スタディによって「自分のデザイン思想とデザイン手法」を研究するために。</p>
+            <p>最後に、ここまで説明してきた思想と手法の関係を図解しておきます：</p>
+            <figure>
+              <a href="/assets/blog/2015-02-18-redesigned/constellation.svg"><img src="/assets/blog/2015-02-18-redesigned/constellation.svg" alt="主要概念の関係図"></a>
+              <figcaption>コンテンツ・ファーストという中核概念と、それに関連する諸概念と、そこから導き出される手法やツールの関係図</figcaption>
+            </figure>
+            <h2 id="結び">結び</h2>
+            <p>以上が、今回のリニューアルについての報告です。私はこのアーキテクチャを持続的に成長させ、また別のサイトにも適用していくことになるでしょう。<sup id="fnref:method-applicability" role="doc-noteref"><a href="#fn:method-applicability" class="footnote" rel="footnote">13</a></sup></p>
+            <p>なお、<a href="https://github.com/zerobase/zerobase.github.io" target="_blank">このサイトのソースコードはGitHubで公開されており</a>、誰でも自由にclone/forkできる状態になっています。本稿執筆時のコミットは<a href="https://github.com/zerobase/zerobase.github.io/commit/3f5135c6b5c767e034ed141d31555779d6e295bd" target="_blank">3f5135c</a>です。また、リニューアル前のサイトのコピーを<a href="http://ja.ishibashihideto.net.s3-website-ap-northeast-1.amazonaws.com/" target="_blank">Amazon S3</a>にアーカイブしてあります。</p>
+            <div class="footnotes" role="doc-endnotes">
+              <ol>
+                <li id="fn:x-first" role="doc-endnote">
+                  <p>この文章では「ファースト」という語尾の言葉が他にもいくつか登場します。それらは、いわゆる「安全第一」と同様に、プリンシプル（原則や主義）を意味しています。ちなみに「安全第一」は「セイフティ・ファースト」です。 <a href="#fnref:x-first" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:anonymous" role="doc-endnote">
+                  <p>「アノニマス・デザイン」については<a href="https://www.amazon.co.jp/dp/4582767273?tag=hidetoi-22&amp;camp=1027&amp;creative=7407&amp;linkCode=as4&amp;creativeASIN=4582767273&amp;adid=0K3Z21QK63H3F0YAHVF3&amp;" target="_blank">『柳宗理エッセイ』（平凡社ライブラリー）</a>をご参照ください。 <a href="#fnref:anonymous" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:tumblr-feed-limit" role="doc-endnote">
+                  <p>なお、Tumblrのフィードは「最新20件」しか出力しない仕様のようで、困っていました。Podcastエピソードが20を超えたあたりから、iTunesやPodcastアプリでは最初の方のエピソードにアクセスできなくなっていました。 <a href="#fnref:tumblr-feed-limit" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:wcag-podcast" role="doc-endnote">
+                  <p>今回アクセシビリティ面で残念なのは、ポッドキャストに「書き起こしテキスト」（トランスクリプト）を付ける余裕がなかったことです。これも経済合理性の問題です。テキスト化の費用を捻出するのに手っ取り早いのは、ポッドキャストにスポンサーを付けることです。興味のある方はご一報ください :-) <a href="#fnref:wcag-podcast" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:careful-design" role="doc-endnote">
+                  <p>当初の設計になかったパーツを後から追加したため、その部分については汚い設計になってしまいました。しかし、<a href="http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)" target="_blank">リファクタリング</a>すれば大丈夫だと考えています。これもアジャイルソフトウェア開発の考え方です。また、このような事態は、「作ってみなければわからない」の実例でもあります。 <a href="#fnref:careful-design" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:bitters" role="doc-endnote">
+                  <p>Bittersについては以前「<a href="http://qiita.com/zerobase/items/e763dc96b7b398bf8005" target="_blank">CSSフレームワークBourbon/Neat/Bitters/Refillsは美しい</a>」という文章で紹介しました。<a href="https://www.youtube.com/watch?v=8ItNE_DX6Cc" target="_blank">How to make your CSS awesome with Bourbon, Neat, Bitters and Refills!</a>という動画も参考になるでしょう。 <a href="#fnref:bitters" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:browsersync" role="doc-endnote">
+                  <p>インブラウザー・デザインの実務上は、「複数デバイス間でのスクロールポジション同期」と「ファイル更新監視による自動リロード」とを実現してくれる<a href="http://www.browsersync.io/" target="_blank">BrowserSync</a>も大変重宝しました。もはや手放せません。 <a href="#fnref:browsersync" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:wordpress" role="doc-endnote">
+                  <p>WordPressのようなCMSを使うと、例えばデータベースエラーの発生によってサイトにアクセスできなくなったりします。あるいは、セキュリティ脆弱性をついてサイトが書き換えられたりするリスクもあります。メンテナンスせずに10年運用するのは難しいと思います。 <a href="#fnref:wordpress" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:archive" role="doc-endnote">
+                  <p>「死後」のような長期的な観点では、<a href="https://archive.org/" target="_blank">Internet Archive</a>にも期待しています。クレジットカードには数年の有効期限が設定されていますし。 <a href="#fnref:archive" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:ghpages-longevity" role="doc-endnote">
+                  <p>正確に言えば、いくらかのリスクがあります。例えばGitHub Pagesの仕様が変わり、古いサイトがホストされなくなるかもしれません。「GitHub Pagesがある限り<strong>必ず</strong>大丈夫だ」とは言えません。 <a href="#fnref:ghpages-longevity" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:continuous-delivery" role="doc-endnote">
+                  <p>GitHub Pagesのワークフローは、HerokuなどのPaaSを使った継続的デリバリー(continuous delivery)のパイプラインに似ています。 <a href="#fnref:continuous-delivery" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:edit-on-github" role="doc-endnote">
+                  <p>具体的に言えば、<a href="https://github.com/zerobase/zerobase.github.io/tree/master/_posts/blog" target="_blank">GitHub上の/_posts/blog/</a>にファイルを追加することで、「新規ブログエントリの投稿」になります。 <a href="#fnref:edit-on-github" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+                <li id="fn:method-applicability" role="doc-endnote">
+                  <p>誤解のないように補足しますが、もちろん前提条件次第です。決して「今後すべてのプロジェクトでこのやり方を踏襲します」という話ではありません。 <a href="#fnref:method-applicability" class="reversefootnote" role="doc-backlink">↩</a></p>
+                </li>
+              </ol>
+            </div>
+          </section>
+          <footer>
+          </footer>
+        </article>
+      </main>
+    </div>
+    <footer class="site footer">
+      <div class="copyrights container">
+        <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="/assets/cc-by-88x31.png" width="88" height="31"></a> <a href="/">石橋秀仁 (Hideto Ishibashi)</a>
+      </div>
+    </footer>
+  </body>
+</html>
